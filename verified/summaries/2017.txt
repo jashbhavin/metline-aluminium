@@ -1,0 +1,11 @@
+2017 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A heat-treatable aluminium rod and bar alloy with published machining reference data. Preserve the supplied condition when comparing typical mechanical properties.
+
+Check corrosion protection, machining allowance and the exact manufacturing condition. Similar strength or a historical supplier substitution suggestion does not establish an exact material equivalence.
+
+Density: 2800 kg/m³; Not specified; Rod and bar; 20 °C; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1030/Kaiser_Aluminum_2017_Rod_and_Bar.pdf
+
+T4 / T451 Rod and bar: 0.500 inch diameter specimen; material thickness unspecified; tensile 427 MPa; yield 276 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1030/Kaiser_Aluminum_2017_Rod_and_Bar.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

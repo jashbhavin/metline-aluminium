@@ -1,0 +1,50 @@
+{
+  "id": "6262",
+  "family": "6000",
+  "summary": "A machining-oriented aluminium extrusion alloy referenced for rod, bar and hexagonal stock. Material composition and the finished use require separate review.",
+  "forms": [
+    "Rod and bar",
+    "Hexagonal bar"
+  ],
+  "tempers": [
+    "T6",
+    "T6511"
+  ],
+  "applications": [],
+  "guidance": "The published chemistry includes lead and bismuth additions. Check the specified composition against end-use substance requirements rather than assuming compliance. Weld heat can reduce strength in the heat-treated condition.",
+  "sources": [
+    "hydro6262"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 0.098,
+      "unit": "lb/in³",
+      "temper": "Not specified",
+      "form": "Extrusion",
+      "condition": "Temperature not specified",
+      "source": "hydro6262",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T6 / T6511",
+      "form": "Extrusion",
+      "thickness": "All thicknesses in cited supplier table",
+      "ultimate": 260,
+      "yield": 240,
+      "source": "hydro6262",
+      "kind": "source-minimum",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

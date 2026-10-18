@@ -1,0 +1,11 @@
+5005 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A magnesium-containing wrought sheet alloy used for decorative architectural panels and anodized finishes; Fairview documents its H34 panel material.
+
+The reviewed panel source describes H34 material; qualify the finish and supplied gauge for the project. Published typical strengths do not replace an ordered specification or lot certificate.
+
+
+
+H34 Sheet / plate panel: Source availability: .080, .090, .125 inch; property table does not allocate values by gauge; tensile 159 MPa; yield 131 MPa; typical; https://www.fairview-na.com/wp-content/uploads/2016/10/VitraPlate_Data-Sheet_5005-H34.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

@@ -1,0 +1,13 @@
+3003 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A non-heat-treatable manganese alloy referenced for tube applications in condensers and heat-exchange equipment. Cold-work condition changes its mechanical behaviour.
+
+Use the actual tube condition and specification. The source contains a malformed copper value and an unusual tensile-specimen diameter; composition and that specimen-size detail remain withheld pending clarification.
+
+Density: 2730 kg/m³; Not specified; Tube and pipe; 20 °C; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1036/Kaiser_Aluminum_3003_Tube_and_Pipe.pdf
+Thermal conductivity: 193 W/(m·K); O; Tube and pipe; 20 °C; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1036/Kaiser_Aluminum_3003_Tube_and_Pipe.pdf
+
+O Tube and pipe: Material thickness unspecified; elongation basis 4D; tensile 110 MPa; yield 40 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1036/Kaiser_Aluminum_3003_Tube_and_Pipe.pdf
+H14 Tube and pipe: Material thickness unspecified; elongation basis 4D; tensile 152 MPa; yield 145 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1036/Kaiser_Aluminum_3003_Tube_and_Pipe.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

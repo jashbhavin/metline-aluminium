@@ -1,0 +1,49 @@
+{
+  "id": "5754",
+  "family": "5000",
+  "summary": "An aluminium alloy referenced in H111 sheet and treadplate contexts. Patterned material requires geometry-specific mass information.",
+  "forms": [
+    "Sheet"
+  ],
+  "tempers": [
+    "H111"
+  ],
+  "applications": [],
+  "guidance": "The cited strength row is for sheet, not a universal patterned-plate section. For treadplate mass, specify base thickness and obtain supplier area or measured mass; raised patterns are not captured by a plain-sheet tool.",
+  "sources": [
+    "aalco5754"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2660,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Sheet",
+      "condition": "Temperature not specified; supplier indicative reference",
+      "source": "aalco5754",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "H111",
+      "form": "Sheet",
+      "thickness": "0.2–6.00 mm; BS EN 485-2:2008 cited by supplier",
+      "ultimate": 160,
+      "ultimateMax": 200,
+      "yield": 60,
+      "unit": "MPa",
+      "kind": "indicative-range",
+      "source": "aalco5754",
+      "verification": "single-source",
+      "condition": "Supplier cites historic EN edition; not an authorized standard table or certification",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected indicative supplier facts; critical specification values require independent confirmation"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "7050",
+  "family": "7000",
+  "summary": "An aerospace structural aluminium alloy referenced in stress-relieved sheet, coil and plate conditions. Direction and specimen basis accompany its typical strength values.",
+  "forms": [
+    "Sheet, coil and plate"
+  ],
+  "tempers": [
+    "T7651",
+    "T7451"
+  ],
+  "applications": [],
+  "guidance": "The displayed data is longitudinal and typical. It does not establish transverse allowables or part qualification. Melting range is withheld because the source Celsius and Fahrenheit lower limits disagree.",
+  "sources": [
+    "kaiser7050"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2830,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Sheet, coil, plate",
+      "condition": "20 °C",
+      "source": "kaiser7050",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T7651",
+      "form": "Sheet, coil, plate",
+      "thickness": "Longitudinal; 0.500 inch diameter specimen; thickness unspecified",
+      "ultimate": 552,
+      "yield": 489,
+      "source": "kaiser7050",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T7451",
+      "form": "Sheet, coil, plate",
+      "thickness": "Longitudinal; 0.500 inch diameter specimen; thickness unspecified",
+      "ultimate": 524,
+      "yield": 469,
+      "source": "kaiser7050",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

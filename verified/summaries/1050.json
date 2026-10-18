@@ -1,0 +1,45 @@
+{
+  "id": "1050",
+  "family": "1000",
+  "summary": "A commercially pure aluminium designation with 99.5% minimum aluminium in the cited reference. Product-specific condition is essential when interpreting its properties.",
+  "forms": [
+    "Extruded profiles",
+    "Rod and bar",
+    "Tube"
+  ],
+  "tempers": [],
+  "applications": [],
+  "guidance": "The referenced library lists this alloy for extrusion, but does not publish a mechanical-property row for it. Strength values remain withheld. Verify the exact product and temper independently.",
+  "sources": [
+    "hydro1xxx"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 0.0975,
+      "unit": "lb/in³",
+      "temper": "Not specified",
+      "form": "Extrusion",
+      "condition": "Temperature not specified",
+      "source": "hydro1xxx",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [],
+  "chemistry": [
+    {
+      "element": "Al",
+      "min": 99.5,
+      "max": null,
+      "unit": "wt %",
+      "kind": "composition-minimum",
+      "source": "hydro1xxx",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

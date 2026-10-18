@@ -1,0 +1,65 @@
+{
+  "id": "5005",
+  "family": "5000",
+  "summary": "A magnesium-containing wrought sheet alloy used for decorative architectural panels and anodized finishes; Fairview documents its H34 panel material.",
+  "forms": [
+    "Sheet and plate"
+  ],
+  "tempers": [
+    "H34"
+  ],
+  "applications": [
+    "Architectural panels",
+    "Decorative anodized components"
+  ],
+  "guidance": "The reviewed panel source describes H34 material; qualify the finish and supplied gauge for the project. Published typical strengths do not replace an ordered specification or lot certificate.",
+  "sources": [
+    "fairview5005"
+  ],
+  "properties": [],
+  "mechanical": [
+    {
+      "temper": "H34",
+      "form": "Sheet / plate panel",
+      "thickness": "Source availability: .080, .090, .125 inch; property table does not allocate values by gauge",
+      "ultimate": 159,
+      "unit": "MPa",
+      "kind": "typical",
+      "condition": "Published VitraPlate reference values; source expressly disclaims maximum/minimum specification or final-design interpretation; converted and rounded from source psi values",
+      "yield": 131,
+      "source": "fairview5005",
+      "verification": "single-source",
+      "checked": "2026-10-14",
+      "sourceValues": {
+        "ultimate": 23000,
+        "yield": 19000,
+        "unit": "psi"
+      },
+      "normalization": "psi × 0.006894757293168, rounded to nearest MPa; original source values retained"
+    }
+  ],
+  "chemistry": [
+    {
+      "element": "Mg",
+      "min": 0.5,
+      "max": 1.1,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "fairview5005",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Si",
+      "min": null,
+      "max": 0.3,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "fairview5005",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected H34 panel facts only; single manufacturer source; source calls numerical data typical despite its requirements heading."
+}

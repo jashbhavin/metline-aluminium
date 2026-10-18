@@ -1,0 +1,49 @@
+{
+  "id": "5251",
+  "family": "5000",
+  "summary": "A formable aluminium sheet and plate alloy referenced in the annealed condition. Cold-work conditions require their own property data.",
+  "forms": [
+    "Sheet and plate"
+  ],
+  "tempers": [
+    "O"
+  ],
+  "applications": [],
+  "guidance": "Only the O-condition strength row is imported. A heading elsewhere in the source names a different grade, so no additional temper compatibility is inferred from that section.",
+  "sources": [
+    "aalco5251"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2690,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Sheet and plate",
+      "condition": "Temperature not specified; supplier indicative reference",
+      "source": "aalco5251",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "O",
+      "form": "Sheet and plate",
+      "thickness": "0.2–50.00 mm; BS EN 485-2:2008 cited by supplier",
+      "ultimate": 160,
+      "ultimateMax": 200,
+      "yield": 60,
+      "unit": "MPa",
+      "kind": "indicative-range",
+      "source": "aalco5251",
+      "verification": "single-source",
+      "condition": "Supplier cites historic EN edition; not an authorized standard table or certification",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected indicative supplier facts; critical specification values require independent confirmation"
+}

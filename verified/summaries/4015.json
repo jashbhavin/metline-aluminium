@@ -1,0 +1,49 @@
+{
+  "id": "4015",
+  "family": "4000",
+  "summary": "A silicon-containing aluminium sheet alloy referenced in the H14 condition. Surface-treatment appearance can differ from other sheet grades.",
+  "forms": [
+    "Sheet"
+  ],
+  "tempers": [
+    "H14"
+  ],
+  "applications": [],
+  "guidance": "The supplier cautions that anodized appearance is darker than some other grades. Agree visible-surface expectations with the finisher. No general interchangeability with 3103 or 1050 is asserted.",
+  "sources": [
+    "aalco4015"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2720,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Sheet",
+      "condition": "Temperature not specified; indicative supplier reference",
+      "source": "aalco4015",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "H14",
+      "form": "Sheet",
+      "thickness": "0.2–3.00 mm; supplier cites BS EN 485-2:2008",
+      "ultimate": 150,
+      "ultimateMax": 200,
+      "yield": 120,
+      "unit": "MPa",
+      "kind": "indicative-range",
+      "source": "aalco4015",
+      "verification": "single-source",
+      "condition": "Supplier indicative reference; not guaranteed specification limits",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected indicative supplier facts; specification verification remains required"
+}

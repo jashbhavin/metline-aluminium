@@ -1,0 +1,14 @@
+6061 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A heat-treatable structural alloy used for profiles, rod, bar and tube. Its strength and forming behaviour depend on the supplied temper.
+
+Consider softer tempers before severe forming. Welding can lower strength near the joint; use properties appropriate to the welded condition. Compare 6063 when exposed surface appearance drives selection.
+
+Density: 2700 kg/m³; Not specified; Sheet, coil, plate; 20 °C; typical; cross-checked-rounded; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1015/Kaiser_Aluminum_6061_Sheet_Coil_and_Plate.pdf
+Thermal conductivity: 167 W/(m·K); T6 / T651; Sheet, coil, plate; 20 °C; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1015/Kaiser_Aluminum_6061_Sheet_Coil_and_Plate.pdf
+Linear thermal expansion: 23.6 µm/(m·K); Not specified; Sheet, coil, plate; 20–100 °C average; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1015/Kaiser_Aluminum_6061_Sheet_Coil_and_Plate.pdf
+
+T6 / T6511 Extrusion: ≤6.30 mm; tensile 260 MPa; yield 240 MPa; source-minimum; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_6061.pdf
+T6 / T651 Sheet, coil, plate: 0.500 inch diameter tensile specimen; material thickness unspecified; tensile 310 MPa; yield 276 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1015/Kaiser_Aluminum_6061_Sheet_Coil_and_Plate.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

@@ -1,0 +1,12 @@
+5052 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A magnesium-containing aluminium alloy referenced for hydraulic tube applications. Product form and cold-work condition must accompany any strength comparison.
+
+The referenced document reports typical tube properties. These are not sheet specification limits. Density is withheld because the source labels its unit inconsistently.
+
+
+
+O Tube and pipe: Tensile specimen elongation basis 4D; material thickness unspecified; tensile 195 MPa; yield 90 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1040/Kaiser_Aluminum_5052_Tube_and_Pipe.pdf
+H32 Tube and pipe: Tensile specimen elongation basis 4D; material thickness unspecified; tensile 230 MPa; yield 195 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1040/Kaiser_Aluminum_5052_Tube_and_Pipe.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

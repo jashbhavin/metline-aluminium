@@ -1,0 +1,12 @@
+6101 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A heat-treatable electrical extrusion alloy for bus conductors. Temper selection balances strength, bending behaviour and conductivity.
+
+Specify electrical conductivity as well as strength. T61, T63 and T64 have alloy-specific processing objectives. Check joint design and operating temperature independently of a simple resistance calculation.
+
+Electrical conductivity: 55 % IACS; T6; Extrusion; 20 °C; section 3.20–12.50 mm; source-minimum; single-source; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_6101.pdf
+Thermal conductivity: 218 W/(m·K); T6; Extrusion; 25 °C; typical; single-source; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_6101.pdf
+
+T6 Extrusion: 3.20–12.50 mm; tensile 200 MPa; yield 170 MPa; source-minimum; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_6101.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

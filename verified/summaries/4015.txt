@@ -1,0 +1,11 @@
+4015 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A silicon-containing aluminium sheet alloy referenced in the H14 condition. Surface-treatment appearance can differ from other sheet grades.
+
+The supplier cautions that anodized appearance is darker than some other grades. Agree visible-surface expectations with the finisher. No general interchangeability with 3103 or 1050 is asserted.
+
+Density: 2720 kg/m³; Not specified; Sheet; Temperature not specified; indicative supplier reference; typical; single-source; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-4015-H14-Sheet_60.ashx
+
+H14 Sheet: 0.2–3.00 mm; supplier cites BS EN 485-2:2008; tensile 150–200 MPa; yield 120 MPa; indicative-range; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-4015-H14-Sheet_60.ashx
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

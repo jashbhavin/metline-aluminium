@@ -1,0 +1,62 @@
+{
+  "id": "2219",
+  "family": "2000",
+  "summary": "A copper-containing aluminium alloy referenced for aerospace tank applications. The supplied temper and fabrication condition determine how reference data should be used.",
+  "forms": [
+    "Sheet, coil and plate"
+  ],
+  "tempers": [
+    "T351",
+    "T851"
+  ],
+  "applications": [],
+  "guidance": "The supplier identifies welding applications, but a finished welded assembly requires its own procedure and property assessment. The chemistry header contains an ambiguous element label, so no composition table is inferred.",
+  "sources": [
+    "kaiser2219"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2840,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Sheet, coil, plate",
+      "condition": "20 °C",
+      "source": "kaiser2219",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T351",
+      "form": "Sheet, coil, plate",
+      "thickness": "Longitudinal; 0.500 inch diameter specimen; thickness unspecified",
+      "ultimate": 359,
+      "yield": 248,
+      "source": "kaiser2219",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T851",
+      "form": "Sheet, coil, plate",
+      "thickness": "Longitudinal; 0.500 inch diameter specimen; thickness unspecified",
+      "ultimate": 455,
+      "yield": 352,
+      "source": "kaiser2219",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

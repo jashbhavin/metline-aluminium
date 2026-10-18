@@ -1,0 +1,12 @@
+2219 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A copper-containing aluminium alloy referenced for aerospace tank applications. The supplied temper and fabrication condition determine how reference data should be used.
+
+The supplier identifies welding applications, but a finished welded assembly requires its own procedure and property assessment. The chemistry header contains an ambiguous element label, so no composition table is inferred.
+
+Density: 2840 kg/m³; Not specified; Sheet, coil, plate; 20 °C; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1014/Kaiser_Aluminum_2219_Sheet_Coil_and_Plate.pdf
+
+T351 Sheet, coil, plate: Longitudinal; 0.500 inch diameter specimen; thickness unspecified; tensile 359 MPa; yield 248 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1014/Kaiser_Aluminum_2219_Sheet_Coil_and_Plate.pdf
+T851 Sheet, coil, plate: Longitudinal; 0.500 inch diameter specimen; thickness unspecified; tensile 455 MPa; yield 352 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1014/Kaiser_Aluminum_2219_Sheet_Coil_and_Plate.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

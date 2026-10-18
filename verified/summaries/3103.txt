@@ -1,0 +1,11 @@
+3103 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A manganese-family sheet alloy with an H14 reference condition. Rolled-sheet properties retain their thickness range.
+
+The electrical field uses a conductivity unit under a resistivity heading, so it is withheld. No exact equivalence to other manganese alloys is inferred.
+
+Density: 2730 kg/m³; Not specified; Sheet; Temperature not specified; indicative supplier reference; typical; single-source; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-3103-H14-Sheet_298.ashx
+
+H14 Sheet: 0.2–6.0 mm; supplier cites BS EN 485-2:2008; tensile 140–180 MPa; yield 120 MPa; indicative-range; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-3103-H14-Sheet_298.ashx
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

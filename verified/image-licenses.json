@@ -1,0 +1,936 @@
+[
+  {
+    "id": "aluminium-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/aluminium-stock-300.webp",
+        "width": 300,
+        "height": 200,
+        "bytes": 11024
+      },
+      {
+        "path": "/metline-aluminium/verified/images/aluminium-stock-600.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 36310
+      },
+      {
+        "path": "/metline-aluminium/verified/images/aluminium-stock-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 126656
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "aluminium-stock",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "flat-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1672,
+      941
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/flat-stock-300.webp",
+        "width": 300,
+        "height": 169,
+        "bytes": 9558
+      },
+      {
+        "path": "/metline-aluminium/verified/images/flat-stock-600.webp",
+        "width": 600,
+        "height": 338,
+        "bytes": 33970
+      },
+      {
+        "path": "/metline-aluminium/verified/images/flat-stock-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 123298
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "flat-stock",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "tube-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1672,
+      941
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/tube-stock-300.webp",
+        "width": 300,
+        "height": 169,
+        "bytes": 9316
+      },
+      {
+        "path": "/metline-aluminium/verified/images/tube-stock-600.webp",
+        "width": 600,
+        "height": 338,
+        "bytes": 30984
+      },
+      {
+        "path": "/metline-aluminium/verified/images/tube-stock-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 97586
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "tube-stock",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "bar-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1774,
+      887
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/bar-stock-300.webp",
+        "width": 300,
+        "height": 150,
+        "bytes": 8708
+      },
+      {
+        "path": "/metline-aluminium/verified/images/bar-stock-600.webp",
+        "width": 600,
+        "height": 300,
+        "bytes": 30026
+      },
+      {
+        "path": "/metline-aluminium/verified/images/bar-stock-1200.webp",
+        "width": 1200,
+        "height": 600,
+        "bytes": 107622
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "bar-stock",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "extrusion-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1774,
+      887
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/extrusion-stock-300.webp",
+        "width": 300,
+        "height": 150,
+        "bytes": 7338
+      },
+      {
+        "path": "/metline-aluminium/verified/images/extrusion-stock-600.webp",
+        "width": 600,
+        "height": 300,
+        "bytes": 25340
+      },
+      {
+        "path": "/metline-aluminium/verified/images/extrusion-stock-1200.webp",
+        "width": 1200,
+        "height": 600,
+        "bytes": 84142
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "extrusion-stock",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "rolling-process",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1942,
+      809
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/rolling-process-300.webp",
+        "width": 300,
+        "height": 125,
+        "bytes": 12462
+      },
+      {
+        "path": "/metline-aluminium/verified/images/rolling-process-600.webp",
+        "width": 600,
+        "height": 250,
+        "bytes": 39462
+      },
+      {
+        "path": "/metline-aluminium/verified/images/rolling-process-1200.webp",
+        "width": 1200,
+        "height": 500,
+        "bytes": 113350
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "rolling-process",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "extrusion-process",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1774,
+      887
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/extrusion-process-300.webp",
+        "width": 300,
+        "height": 150,
+        "bytes": 15432
+      },
+      {
+        "path": "/metline-aluminium/verified/images/extrusion-process-600.webp",
+        "width": 600,
+        "height": 300,
+        "bytes": 48964
+      },
+      {
+        "path": "/metline-aluminium/verified/images/extrusion-process-1200.webp",
+        "width": 1200,
+        "height": 600,
+        "bytes": 134910
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "extrusion-process",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "casting-process",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1774,
+      887
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/casting-process-300.webp",
+        "width": 300,
+        "height": 150,
+        "bytes": 13866
+      },
+      {
+        "path": "/metline-aluminium/verified/images/casting-process-600.webp",
+        "width": 600,
+        "height": 300,
+        "bytes": 45898
+      },
+      {
+        "path": "/metline-aluminium/verified/images/casting-process-1200.webp",
+        "width": 1200,
+        "height": 600,
+        "bytes": 146840
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "casting-process",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "honeycomb-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/honeycomb-stock-300.webp",
+        "width": 300,
+        "height": 200,
+        "bytes": 8148
+      },
+      {
+        "path": "/metline-aluminium/verified/images/honeycomb-stock-600.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 25516
+      },
+      {
+        "path": "/metline-aluminium/verified/images/honeycomb-stock-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 86964
+      }
+    ],
+    "sourceUrl": null,
+    "licenseType": "Original generated project asset under applicable service terms",
+    "tool": "Built-in imagegen",
+    "promptId": "honeycomb-stock",
+    "intendedUsage": "Reviewed technical library; representative stock or conceptual process illustration",
+    "attributionRequirement": "No external photograph attribution; visible illustration disclosure retained",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership."
+  },
+  {
+    "id": "sheet-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1672,
+      941
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/sheet-stock-300.webp",
+        "width": 300,
+        "height": 169,
+        "bytes": 10586
+      },
+      {
+        "path": "/metline-aluminium/verified/images/sheet-stock-600.webp",
+        "width": 600,
+        "height": 338,
+        "bytes": 37992
+      },
+      {
+        "path": "/metline-aluminium/verified/images/sheet-stock-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 121556
+      }
+    ],
+    "licenseType": "Original generated project asset",
+    "tool": "Built-in imagegen",
+    "promptId": "sheet-stock",
+    "sourceUrl": null,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership.",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false
+  },
+  {
+    "id": "plate-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1672,
+      941
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/plate-stock-300.webp",
+        "width": 300,
+        "height": 169,
+        "bytes": 12450
+      },
+      {
+        "path": "/metline-aluminium/verified/images/plate-stock-600.webp",
+        "width": 600,
+        "height": 338,
+        "bytes": 39270
+      },
+      {
+        "path": "/metline-aluminium/verified/images/plate-stock-1200.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 123238
+      }
+    ],
+    "licenseType": "Original generated project asset",
+    "tool": "Built-in imagegen",
+    "promptId": "plate-stock",
+    "sourceUrl": null,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership.",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false
+  },
+  {
+    "id": "coil-stock",
+    "source": "Original image created with built-in imagegen",
+    "creator": "OpenAI image generation",
+    "rights": "Generated project asset; no third-party photograph reused. Subject is illustrative, not documentary.",
+    "attributionRequired": false,
+    "date": "2026-10-14",
+    "inputDimensions": [
+      1774,
+      887
+    ],
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/coil-stock-300.webp",
+        "width": 300,
+        "height": 150,
+        "bytes": 8094
+      },
+      {
+        "path": "/metline-aluminium/verified/images/coil-stock-600.webp",
+        "width": 600,
+        "height": 300,
+        "bytes": 23598
+      },
+      {
+        "path": "/metline-aluminium/verified/images/coil-stock-1200.webp",
+        "width": 1200,
+        "height": 600,
+        "bytes": 80790
+      }
+    ],
+    "licenseType": "Original generated project asset",
+    "tool": "Built-in imagegen",
+    "promptId": "coil-stock",
+    "sourceUrl": null,
+    "usage": "Representative generated illustration, not evidence of stock, exact alloy, certification or factory ownership.",
+    "sourceKind": "ai-generated-raster-illustration",
+    "documentary": false
+  },
+  {
+    "id": "commons-extrusion-blanks",
+    "title": "Al extrusion blanks.jpg",
+    "creator": "Swoolverton",
+    "creatorUrl": "https://commons.wikimedia.org/wiki/User:Swoolverton",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_extrusion_blanks.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Al_extrusion_blanks.jpg",
+    "licenseType": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionRequired": true,
+    "subject": "Aluminium blanks for extrusion",
+    "usage": "Educational billet/extrusion manufacturing reference; includes people. Never present as our factory, workers or stock.",
+    "sourceKind": "photograph",
+    "documentary": true,
+    "date": "2026-10-14",
+    "source": "Wikimedia Commons per-file licence inspected directly",
+    "rights": "CC BY-SA 3.0",
+    "changes": "Resized proportionally, converted to WebP and embedded metadata removed; no crop or subject alteration.",
+    "inputDimensions": [
+      3648,
+      2736
+    ],
+    "originalPath": "/metline-aluminium/verified/images/commons-extrusion-blanks-original.jpg",
+    "originalBytes": 1241565,
+    "originalSha256": "9e326daa13e4d7e716857d6db4f38bd0dbde0ad5f20ace3735a6584fa8093bf9",
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/commons-extrusion-blanks-300.webp",
+        "width": 300,
+        "height": 225,
+        "bytes": 16940,
+        "sha256": "560af7c870429a332092176f7915c222395ba0398ffdf218376a585554d158c4",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-extrusion-blanks-600.webp",
+        "width": 600,
+        "height": 450,
+        "bytes": 45460,
+        "sha256": "636cfb304d85136a56d39b369251909add151be392f8754ae7fe44e4a4c26535",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-extrusion-blanks-1200.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 121842,
+        "sha256": "9d30dc4d69134041a224d7f03c84f68b94c6ae48eefcbf6ff3906a18ac7bbae2",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    ],
+    "captionHtml": "Aluminium blanks for extrusion. Photo: <a href=\"https://commons.wikimedia.org/wiki/User:Swoolverton\">Swoolverton</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Al_extrusion_blanks.jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Resized and converted to WebP."
+  },
+  {
+    "id": "commons-extruded-sections",
+    "title": "Extruded aluminium section x3.jpg",
+    "creator": "Mike1024",
+    "creatorUrl": "https://commons.wikimedia.org/wiki/User:Mike1024",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Extruded_aluminium_section_x3.jpg",
+    "licenseType": "Public domain \u2014 released by copyright holder",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg#file",
+    "attributionRequired": false,
+    "subject": "Three extruded aluminium framing sections",
+    "usage": "Educational extrusion/profile reference; unknown alloy and certification.",
+    "sourceKind": "photograph",
+    "documentary": true,
+    "date": "2026-10-14",
+    "source": "Wikimedia Commons per-file licence inspected directly",
+    "rights": "Public domain \u2014 released by copyright holder",
+    "changes": "Resized proportionally, converted to WebP and embedded metadata removed; no crop or subject alteration.",
+    "inputDimensions": [
+      1992,
+      864
+    ],
+    "originalPath": "/metline-aluminium/verified/images/commons-extruded-sections-original.jpg",
+    "originalBytes": 346999,
+    "originalSha256": "c869a55119b7f02bf7ccbe52df42d4ad8a80eb49135c33e8d3d6742003d33fcb",
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/commons-extruded-sections-300.webp",
+        "width": 300,
+        "height": 130,
+        "bytes": 6830,
+        "sha256": "098c609dda174c7d5f881919c659865375ca3f12272b4ec4bb9a47b1b9d2705c",
+        "licenseType": "Public domain \u2014 released by copyright holder",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg#file"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-extruded-sections-600.webp",
+        "width": 600,
+        "height": 260,
+        "bytes": 17330,
+        "sha256": "fc35104fe572bde4899f8319e1fed6ee3f406236ee468698cde2758879453686",
+        "licenseType": "Public domain \u2014 released by copyright holder",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg#file"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-extruded-sections-1200.webp",
+        "width": 1200,
+        "height": 520,
+        "bytes": 46534,
+        "sha256": "40c49c19559da9faa9358b238e2ae2ee5fe32294057a303b1b0d8eb43820defe",
+        "licenseType": "Public domain \u2014 released by copyright holder",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg#file"
+      }
+    ],
+    "captionHtml": "Three extruded aluminium framing sections. Photo: <a href=\"https://commons.wikimedia.org/wiki/User:Mike1024\">Mike1024</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg#file\">Public domain \u2014 released by copyright holder</a>. Resized and converted to WebP."
+  },
+  {
+    "id": "commons-extrusion-die",
+    "title": "Al extrusion die set.jpg",
+    "creator": "Swoolverton",
+    "creatorUrl": "https://commons.wikimedia.org/wiki/User:Swoolverton",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_extrusion_die_set.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Al_extrusion_die_set.jpg",
+    "licenseType": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attributionRequired": true,
+    "subject": "Two-piece aluminium tube extrusion die set",
+    "usage": "Educational tooling reference, not an aluminium finished product or company tooling.",
+    "sourceKind": "photograph",
+    "documentary": true,
+    "date": "2026-10-14",
+    "source": "Wikimedia Commons per-file licence inspected directly",
+    "rights": "CC BY-SA 3.0",
+    "changes": "Resized proportionally, converted to WebP and embedded metadata removed; no crop or subject alteration.",
+    "inputDimensions": [
+      3648,
+      1887
+    ],
+    "originalPath": "/metline-aluminium/verified/images/commons-extrusion-die-original.jpg",
+    "originalBytes": 823640,
+    "originalSha256": "d555e29aac23e2c1292cf26f95e09851f985c2caf10a600bfdb6733d1ca567b4",
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/commons-extrusion-die-300.webp",
+        "width": 300,
+        "height": 155,
+        "bytes": 8544,
+        "sha256": "dcca59e5d557fa6e1495dfe9efe1dca80f29d8d59a9afee88a7543786b559c92",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-extrusion-die-600.webp",
+        "width": 600,
+        "height": 310,
+        "bytes": 27238,
+        "sha256": "2f0fe16be5a42130a7eba83e8426f4c4a4411bb54ca8496a139088386fc777d7",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-extrusion-die-1200.webp",
+        "width": 1200,
+        "height": 620,
+        "bytes": 90232,
+        "sha256": "b0823f670b119c2ec0bd0d564e91298261d70096ca5fb6cb7f70d8a02021bcd8",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    ],
+    "captionHtml": "Two-piece aluminium tube extrusion die set. Photo: <a href=\"https://commons.wikimedia.org/wiki/User:Swoolverton\">Swoolverton</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Al_extrusion_die_set.jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Resized and converted to WebP."
+  },
+  {
+    "id": "commons-marine",
+    "title": "Container Ship CMA CGM Theodore Roosevelt in NY Harbor on Sept 7, 2017 (36415318053) (cropped).jpg",
+    "creator": "USACE NY",
+    "creatorUrl": "https://www.flickr.com/people/40704398@N05",
+    "subject": "Container ship CMA CGM Theodore Roosevelt in New York Harbor",
+    "licenseType": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Container_Ship_CMA_CGM_Theodore_Roosevelt_in_NY_Harbor_on_Sept_7,_2017_(36415318053)_(cropped).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Container_Ship_CMA_CGM_Theodore_Roosevelt_in_NY_Harbor_on_Sept_7%2C_2017_%2836415318053%29_%28cropped%29.jpg",
+    "sourceKind": "photograph",
+    "documentary": true,
+    "date": "2026-10-14",
+    "source": "Wikimedia Commons per-file licence and creator inspected directly; API metadata retained",
+    "rights": "CC BY 2.0",
+    "attributionRequired": true,
+    "changes": "Proportionally resized, converted to WebP and metadata removed. No additional crop; source crop by KiaaTiX.",
+    "usage": "Industry context only. No customer, supplier, product-alloy, endorsement, stock or project relationship claimed.",
+    "inputDimensions": [
+      3199,
+      1440
+    ],
+    "originalPath": "/metline-aluminium/verified/images/commons-marine-original.jpg",
+    "originalBytes": 759395,
+    "originalSha256": "a10b6a99fc166e86996c93b455ec62175526475d706da717d413b1f903ebe214",
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/commons-marine-300.webp",
+        "width": 300,
+        "height": 135,
+        "bytes": 8868,
+        "sha256": "d28e21e89bed77ab958d426924c9d467143c5a7e2ead17ac9071a36f40a2884b",
+        "licenseType": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-marine-600.webp",
+        "width": 600,
+        "height": 270,
+        "bytes": 29128,
+        "sha256": "1f2f38badef6196c1e335f47f0823a5ade662d39148d373fe9b56d03aed1c83d",
+        "licenseType": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-marine-1200.webp",
+        "width": 1200,
+        "height": 540,
+        "bytes": 95854,
+        "sha256": "2c5de6b1718ee83477af2bcf545090f9280d32fe5901f5a0fe686df09f7bcdde",
+        "licenseType": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      }
+    ],
+    "captionHtml": "Container ship CMA CGM Theodore Roosevelt in New York Harbor. Photo: <a href=\"https://www.flickr.com/people/40704398@N05\">USACE NY</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Container_Ship_CMA_CGM_Theodore_Roosevelt_in_NY_Harbor_on_Sept_7,_2017_(36415318053)_(cropped).jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>. Resized and converted to WebP. Source crop by KiaaTiX."
+  },
+  {
+    "id": "commons-automotive",
+    "title": "Audi A8 D4 4.2 TDI quattro.JPG",
+    "creator": "Thomas doerfer",
+    "creatorUrl": "https://commons.wikimedia.org/wiki/User:Thomas_doerfer",
+    "subject": "Audi A8 D4 at AMI 2010",
+    "licenseType": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Audi_A8_D4_4.2_TDI_quattro.JPG",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Audi_A8_D4_4.2_TDI_quattro.JPG",
+    "sourceKind": "photograph",
+    "documentary": true,
+    "date": "2026-10-14",
+    "source": "Wikimedia Commons per-file licence and creator inspected directly; API metadata retained",
+    "rights": "CC BY 3.0",
+    "attributionRequired": true,
+    "changes": "Proportionally resized, converted to WebP and metadata removed; no crop or subject alteration.",
+    "usage": "Industry context only. No customer, supplier, product-alloy, endorsement, stock or project relationship claimed.",
+    "inputDimensions": [
+      2552,
+      1888
+    ],
+    "originalPath": "/metline-aluminium/verified/images/commons-automotive-original.jpg",
+    "originalBytes": 863393,
+    "originalSha256": "d4e8d3e3842ce72f7e785dc17cffd3c6d9d9eddbca879d728b4d36964762ea9f",
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/commons-automotive-300.webp",
+        "width": 300,
+        "height": 222,
+        "bytes": 14432,
+        "sha256": "eb416d738f3a4056e55542076050c30befa941e922abae8e537fbaedf8c2d6a9",
+        "licenseType": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-automotive-600.webp",
+        "width": 600,
+        "height": 444,
+        "bytes": 40570,
+        "sha256": "f83ab523a94cae98d3a84c33acd04cea38166364de2e433d55e77912523b936e",
+        "licenseType": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-automotive-1200.webp",
+        "width": 1200,
+        "height": 888,
+        "bytes": 107782,
+        "sha256": "a77e8df2d837b1269779219f77cc8d5436d2b11df596ffc8b4d2b910c9464b8d",
+        "licenseType": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+      }
+    ],
+    "captionHtml": "Audi A8 D4 at AMI 2010. Photo: <a href=\"https://commons.wikimedia.org/wiki/User:Thomas_doerfer\">Thomas doerfer</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Audi_A8_D4_4.2_TDI_quattro.JPG\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0/\">CC BY 3.0</a>. Resized and converted to WebP."
+  },
+  {
+    "id": "commons-aerospace",
+    "title": "Delta 737-700 N303DQ.jpg",
+    "creator": "Pylon757",
+    "creatorUrl": "https://www.flickr.com/photos/10037058@N08/3719244340/",
+    "subject": "Delta Air Lines Boeing 737-700 N303DQ",
+    "licenseType": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delta_737-700_N303DQ.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Delta_737-700_N303DQ.jpg",
+    "sourceKind": "photograph",
+    "documentary": true,
+    "date": "2026-10-14",
+    "source": "Wikimedia Commons per-file licence and creator inspected directly; API metadata retained",
+    "rights": "CC BY 2.0",
+    "attributionRequired": true,
+    "changes": "Proportionally resized, converted to WebP and metadata removed; no crop or subject alteration.",
+    "usage": "Industry context only. No customer, supplier, product-alloy, endorsement, stock or project relationship claimed.",
+    "inputDimensions": [
+      1200,
+      800
+    ],
+    "originalPath": "/metline-aluminium/verified/images/commons-aerospace-original.jpg",
+    "originalBytes": 477144,
+    "originalSha256": "237423a265d2d9ec74cfc763fb34e32be5f5d37b57783a6fa68056a8959505bf",
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/commons-aerospace-300.webp",
+        "width": 300,
+        "height": 200,
+        "bytes": 6520,
+        "sha256": "1c57f50c88fb839199dfa68ed688fea13adc0bfc12ce8b1fa4a9efc05864b380",
+        "licenseType": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-aerospace-600.webp",
+        "width": 600,
+        "height": 400,
+        "bytes": 16302,
+        "sha256": "2e0e0889de7500e5f0f9576b1d44892c422dd7b53c5edcc2cfb5ef242a8bc5fb",
+        "licenseType": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-aerospace-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 38144,
+        "sha256": "aee100d02b376bcf99ba4890c98e19a9a901dd41e8212ef8d1ef9ecb7757829a",
+        "licenseType": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      }
+    ],
+    "captionHtml": "Delta Air Lines Boeing 737-700 N303DQ. Photo: <a href=\"https://www.flickr.com/photos/10037058@N08/3719244340/\">Pylon757</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Delta_737-700_N303DQ.jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>. Resized and converted to WebP."
+  },
+  {
+    "id": "commons-electrical",
+    "title": "2014 Power lines Dunkerque.jpg",
+    "creator": "Kreuzschnabel",
+    "creatorUrl": "https://commons.wikimedia.org/wiki/User:Kreuzschnabel",
+    "subject": "Power lines near Dunkerque, France",
+    "licenseType": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_Power_lines_Dunkerque.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/2014_Power_lines_Dunkerque.jpg",
+    "sourceKind": "photograph",
+    "documentary": true,
+    "date": "2026-10-14",
+    "source": "Wikimedia Commons per-file licence and creator inspected directly; API metadata retained",
+    "rights": "CC BY-SA 3.0",
+    "attributionRequired": true,
+    "changes": "Proportionally resized, converted to WebP and metadata removed; no crop or subject alteration.",
+    "usage": "Industry context only. No customer, supplier, product-alloy, endorsement, stock or project relationship claimed.",
+    "inputDimensions": [
+      2256,
+      1425
+    ],
+    "originalPath": "/metline-aluminium/verified/images/commons-electrical-original.jpg",
+    "originalBytes": 1079837,
+    "originalSha256": "4f6ee757762e357344607925056f13eabefff70e8ff0758dcbbf3fe298c34145",
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/commons-electrical-300.webp",
+        "width": 300,
+        "height": 189,
+        "bytes": 9260,
+        "sha256": "ee87fb7f68bc7d198d13e4349f06f8fa98b27e730d06858afc244d3aec3453d2",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-electrical-600.webp",
+        "width": 600,
+        "height": 379,
+        "bytes": 31160,
+        "sha256": "a6f35a2d34918e7c8b099e294048b5968c8cc0ec02c76aeba135d0bc811da10c",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-electrical-1200.webp",
+        "width": 1200,
+        "height": 758,
+        "bytes": 108160,
+        "sha256": "caaf70ea33351fefdd546effd70c951a5fa6f50d8f47a5cf2ba12cf2bb57d431",
+        "licenseType": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    ],
+    "captionHtml": "Power lines near Dunkerque, France. Photo: <a href=\"https://commons.wikimedia.org/wiki/User:Kreuzschnabel\">Kreuzschnabel</a>, <a href=\"https://commons.wikimedia.org/wiki/File:2014_Power_lines_Dunkerque.jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>. Resized and converted to WebP."
+  },
+  {
+    "id": "commons-building",
+    "title": "30 St Mary Axe from Leadenhall Street.jpg",
+    "creator": "Aurelien Guichard",
+    "creatorUrl": "https://www.flickr.com/people/aguichard/",
+    "subject": "30 St Mary Axe from Leadenhall Street, London",
+    "licenseType": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:30_St_Mary_Axe_from_Leadenhall_Street.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/30_St_Mary_Axe_from_Leadenhall_Street.jpg",
+    "sourceKind": "photograph",
+    "documentary": true,
+    "date": "2026-10-14",
+    "source": "Wikimedia Commons per-file licence and creator inspected directly; API metadata retained",
+    "rights": "CC BY-SA 2.0",
+    "attributionRequired": true,
+    "changes": "Proportionally resized, converted to WebP and metadata removed. No additional crop; source crop by A P Monblat.",
+    "usage": "Industry context only. No customer, supplier, product-alloy, endorsement, stock or project relationship claimed.",
+    "inputDimensions": [
+      2631,
+      3607
+    ],
+    "originalPath": "/metline-aluminium/verified/images/commons-building-original.jpg",
+    "originalBytes": 8419722,
+    "originalSha256": "7bd905365c847d375539bb684c0950667118f52e6b68db0fbba6b213082d21a3",
+    "variants": [
+      {
+        "path": "/metline-aluminium/verified/images/commons-building-300.webp",
+        "width": 300,
+        "height": 411,
+        "bytes": 27706,
+        "sha256": "6af95b6992c679a5658e8bf227dc4508f22017fa90f35c6e623e8d39321e26b6",
+        "licenseType": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-building-600.webp",
+        "width": 600,
+        "height": 823,
+        "bytes": 89296,
+        "sha256": "417f519229f82daca387a3ebf46f6127b34471fc36d6c17240f46c8075510c13",
+        "licenseType": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      },
+      {
+        "path": "/metline-aluminium/verified/images/commons-building-1200.webp",
+        "width": 1200,
+        "height": 1645,
+        "bytes": 276776,
+        "sha256": "fc45f17eb21e86804683555c374810aa150d8265bfb8743ab55ee1793fe73af7",
+        "licenseType": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    ],
+    "captionHtml": "30 St Mary Axe from Leadenhall Street, London. Photo: <a href=\"https://www.flickr.com/people/aguichard/\">Aurelien Guichard</a>, <a href=\"https://commons.wikimedia.org/wiki/File:30_St_Mary_Axe_from_Leadenhall_Street.jpg\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>. Resized and converted to WebP. Source crop by A P Monblat."
+  }
+]

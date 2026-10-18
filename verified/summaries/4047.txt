@@ -1,0 +1,11 @@
+4047 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A higher-silicon braze-cladding option than 4045 in Gränges’ controlled-atmosphere brazing product range.
+
+Specify the complete laminate and brazing process. The clad designation does not establish the core strength or a standalone sheet temper; welding-wire properties are outside this record’s scope.
+
+
+
+
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

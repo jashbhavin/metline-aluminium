@@ -1,0 +1,177 @@
+{
+  "id": "7075",
+  "family": "7000",
+  "summary": "A high-strength aluminium alloy with separate T6 and T73 family reference conditions. Rod and bar values must retain their form and test basis.",
+  "forms": [
+    "Rod and bar"
+  ],
+  "tempers": [
+    "O",
+    "T6",
+    "T651",
+    "T73",
+    "T7351"
+  ],
+  "applications": [],
+  "guidance": "The source distinguishes the corrosion response of T6 and T73 family tempers. A substitution needs assessment of strength, environment and fabrication. No exact equivalence to 2024 or other aerospace grades is asserted.",
+  "sources": [
+    "kaiser7075"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2800,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Rod and bar",
+      "condition": "20 °C",
+      "source": "kaiser7075",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T6 / T651",
+      "form": "Rod and bar",
+      "thickness": "0.500 inch diameter tensile specimen; material thickness unspecified",
+      "ultimate": 572,
+      "yield": 503,
+      "source": "kaiser7075",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T73 / T7351",
+      "form": "Rod and bar",
+      "thickness": "0.500 inch diameter tensile specimen; material thickness unspecified",
+      "ultimate": 503,
+      "yield": 434,
+      "source": "kaiser7075",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [
+    {
+      "element": "Si",
+      "min": null,
+      "max": 0.4,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Fe",
+      "min": null,
+      "max": 0.5,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Cu",
+      "min": 1.2,
+      "max": 2,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mn",
+      "min": null,
+      "max": 0.3,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mg",
+      "min": 2.1,
+      "max": 2.9,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Cr",
+      "min": 0.18,
+      "max": 0.28,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Zn",
+      "min": 5.1,
+      "max": 6.1,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Ti",
+      "min": null,
+      "max": 0.2,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Other each",
+      "min": null,
+      "max": 0.05,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Other total",
+      "min": null,
+      "max": 0.15,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Al",
+      "min": null,
+      "max": null,
+      "remainder": true,
+      "unit": "wt %",
+      "kind": "remainder",
+      "source": "kaiser7075",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

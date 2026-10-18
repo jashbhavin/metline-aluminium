@@ -1,0 +1,13 @@
+6063 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A heat-treatable extrusion alloy selected for architectural shapes, visible finishes and heat sinks. Surface requirements should be specified separately from mechanical properties.
+
+State the exposed faces, finish and protective packaging in the enquiry. Weld regions may lose strength. T5 and T6 denote different processing histories; use the exact supplied condition.
+
+Density: 0.097 lb/in³; Not specified; Extrusion; Temperature not specified; typical; single-source; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2026_data_sheet_6063-rev-062026.pdf
+Thermal conductivity: 201 W/(m·K); T6; Extrusion; 25 °C; typical; single-source; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2026_data_sheet_6063-rev-062026.pdf
+
+T5 Extrusion: ≤12.50 mm; tensile 150 MPa; yield 110 MPa; source-minimum; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2026_data_sheet_6063-rev-062026.pdf
+T6 Extrusion: ≤3.20 mm; tensile 205 MPa; yield 170 MPa; source-minimum; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2026_data_sheet_6063-rev-062026.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

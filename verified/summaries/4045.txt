@@ -1,0 +1,11 @@
+4045 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+An aluminium-silicon braze-cladding option listed by Gränges for controlled-atmosphere brazing of rolled heat-exchanger products.
+
+Treat this as a clad-layer material, with core alloy, layer ratio and brazing cycle specified separately. The brochure lists iron variants and permits zinc modification; this entry retains only the shared silicon interval.
+
+
+
+
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

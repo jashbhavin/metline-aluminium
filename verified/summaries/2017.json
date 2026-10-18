@@ -1,0 +1,49 @@
+{
+  "id": "2017",
+  "family": "2000",
+  "summary": "A heat-treatable aluminium rod and bar alloy with published machining reference data. Preserve the supplied condition when comparing typical mechanical properties.",
+  "forms": [
+    "Rod and bar"
+  ],
+  "tempers": [
+    "T4",
+    "T451"
+  ],
+  "applications": [],
+  "guidance": "Check corrosion protection, machining allowance and the exact manufacturing condition. Similar strength or a historical supplier substitution suggestion does not establish an exact material equivalence.",
+  "sources": [
+    "kaiser2017"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2800,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Rod and bar",
+      "condition": "20 °C",
+      "source": "kaiser2017",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T4 / T451",
+      "form": "Rod and bar",
+      "thickness": "0.500 inch diameter specimen; material thickness unspecified",
+      "ultimate": 427,
+      "yield": 276,
+      "source": "kaiser2017",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

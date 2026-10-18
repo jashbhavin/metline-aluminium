@@ -1,0 +1,56 @@
+{
+  "id": "5052",
+  "family": "5000",
+  "summary": "A magnesium-containing aluminium alloy referenced for hydraulic tube applications. Product form and cold-work condition must accompany any strength comparison.",
+  "forms": [
+    "Tube and pipe"
+  ],
+  "tempers": [
+    "O",
+    "H32",
+    "H34"
+  ],
+  "applications": [
+    "Hydraulic tubing"
+  ],
+  "guidance": "The referenced document reports typical tube properties. These are not sheet specification limits. Density is withheld because the source labels its unit inconsistently.",
+  "sources": [
+    "kaiser5052"
+  ],
+  "properties": [],
+  "mechanical": [
+    {
+      "temper": "O",
+      "form": "Tube and pipe",
+      "thickness": "Tensile specimen elongation basis 4D; material thickness unspecified",
+      "ultimate": 195,
+      "yield": 90,
+      "unit": "MPa",
+      "kind": "typical",
+      "source": "kaiser5052",
+      "verification": "single-source",
+      "condition": "Supplier reference; thickness of tensile specimen section; not a certificate or design allowable",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "H32",
+      "form": "Tube and pipe",
+      "thickness": "Tensile specimen elongation basis 4D; material thickness unspecified",
+      "ultimate": 230,
+      "yield": 195,
+      "unit": "MPa",
+      "kind": "typical",
+      "source": "kaiser5052",
+      "verification": "single-source",
+      "condition": "Supplier reference; thickness of tensile specimen section; not a certificate or design allowable",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "issues": [
+    "Density unit is inconsistent in the source; withheld pending independent verification.",
+    "Composition table labelled nominal; not imported as guaranteed chemical limits."
+  ],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

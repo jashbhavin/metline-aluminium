@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0" name="viewport"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<meta content="pc,mobile" name="applicable-device"/>
+<meta content="no-transform" http-equiv="Cache-Control">
+<meta content="no-siteapp" http-equiv="Cache-Control"/>
+<title>ISO 286 Fit &amp; Tolerance Calculator: Shafts and Holes | Metline</title>
+<meta content="Free ISO 286 fit and tolerance calculator: limits for any hole and shaft class up to 500 mm, preferred fits, IT grades and tips for aluminum parts." name="description"/>
+<link href="/metline-aluminium/css/select2.min.css" rel="stylesheet"/>
+<link href="/metline-aluminium/css/tolerances-calculator.css" rel="stylesheet" type="text/css"/>
+<link as="font" crossorigin="" href="/metline-aluminium/fonts/Hind-Regular.ttf" rel="preload" type="font/ttf"/>
+<link as="font" crossorigin="" href="/metline-aluminium/fonts/Hind-Light.ttf" rel="preload" type="font/ttf"/>
+<link as="font" crossorigin="" href="/metline-aluminium/fonts/Hind-Medium.ttf" rel="preload" type="font/ttf"/>
+<link href="/metline-aluminium/css/style.css" rel="stylesheet" type="text/css"/>
+<link href="/metline-aluminium/css/swiper.min.css" rel="stylesheet" type="text/css"/>
+</meta><style>img[data-cms-id]{object-fit:contain}.m-a1995 img,.m-be665 img,.m-75b99 img,.about-fr img{object-fit:cover}.m-99be9:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,22,40,.48),rgba(0,22,40,.30));pointer-events:none}.m-99be9 .m-37ce4{z-index:1}.m-4ff17{background:#dce3e9}.framework-admin-link{position:fixed;left:12px;bottom:12px;z-index:99999;background:#17344c;color:white!important;padding:9px 15px;border-radius:4px;font:13px Arial;text-decoration:none}.framework-toast{position:fixed;bottom:70px;left:20px;background:#17344c;color:white;padding:14px;z-index:99999}</style><link rel="preload" as="font" type="font/ttf" crossorigin href="/metline-aluminium/fonts/Helvetica-Bold.Ttf"/><script type="application/ld+json">[{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "/"}, {"@type": "ListItem", "position": 2, "name": "Insights", "item": "/insights/"}, {"@type": "ListItem", "position": 3, "name": "Fit & Tolerance Calculator", "item": "/insights/fit-and-tolerance-calculator/"}]}, {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does H7/g6 mean?", "acceptedAnswer": {"@type": "Answer", "text": "It is a hole-basis sliding fit. The hole is H7 (lower limit at nominal, IT7 wide) and the shaft is g6 (slightly below nominal, IT6 wide). At 25 mm the hole is 0 / +21 µm and the shaft −7 / −20 µm, giving 7 – 41 µm clearance."}}, {"@type": "Question", "name": "What is the difference between ISO 286-1 and ISO 286-2?", "acceptedAnswer": {"@type": "Answer", "text": "Part 1 defines the system: tolerance grades, fundamental deviations and how fits are formed. Part 2 contains the tables of limit deviations for the commonly used hole and shaft classes."}}, {"@type": "Question", "name": "Which fit should I use for a bearing in an aluminium housing?", "acceptedAnswer": {"@type": "Answer", "text": "Follow the bearing maker's recommendation for load type, then correct for aluminium's larger thermal expansion. Housings in aluminium are often specified one class tighter than in cast iron, or fitted with a steel sleeve, so the outer ring does not creep when warm."}}, {"@type": "Question", "name": "Is the calculator valid above 500 mm?", "acceptedAnswer": {"@type": "Answer", "text": "No. ISO 286 has separate data for 500 – 3150 mm with different rules, and this tool covers up to 500 mm only."}}, {"@type": "Question", "name": "Why is my JS tolerance shown with half micrometres?", "acceptedAnswer": {"@type": "Answer", "text": "JS and js zones are symmetrical, ±IT/2. Where the IT value is odd, the half value is not a whole micrometre. The standard permits rounding in some grades; the calculator shows the exact half value."}}, {"@type": "Question", "name": "Can Metline supply bar and tube to an ISO tolerance class?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Metline supplies precision ground bar, drawn bar and precision drawn tube in a range of alloys, and can cut or machine to drawing, with mill test certificates."}}]}, {"@context": "https://schema.org", "@type": "Article", "headline": "ISO 286 Fit and Tolerance Calculator for Shafts and Holes", "dateModified": "2026-10-17", "author": {"@type": "Organization", "name": "Metline Technical Team"}, "publisher": {"@type": "Organization", "name": "Metline Industries"}, "mainEntityOfPage": "https://metline.in/insights/fit-and-tolerance-calculator/"}, {"@context": "https://schema.org", "@type": "Organization", "name": "Metline Industries", "email": "sales@metline.in", "telephone": ["+91-9967731666", "+91-9892451458", "+91-9833604219"], "address": {"@type": "PostalAddress", "streetAddress": "83 Dr. Maheshwari Road, Chinch Bunder, BIT Chawl No. 7, Godown No. 1, Near Sandhurst Road Railway Station", "addressLocality": "Mumbai", "addressRegion": "Maharashtra", "postalCode": "400009", "addressCountry": "IN"}}]</script>
+<link href="https://metline.in/insights/fit-and-tolerance-calculator/" rel="canonical"/>
+<meta content="https://metline.in/insights/fit-and-tolerance-calculator/" property="og:url"/>
+<link href="/metline-aluminium/favicon.ico" rel="icon" sizes="48x48"/>
+<link href="/metline-aluminium/brand/icon-48.png" rel="icon" sizes="48x48" type="image/png"/>
+<link href="/metline-aluminium/brand/apple-touch-icon.png" rel="apple-touch-icon"/>
+<meta content="Metline Industries" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="ISO 286 Fit &amp; Tolerance Calculator: Shafts and Holes | Metline" property="og:title"/>
+<meta content="Free ISO 286 fit and tolerance calculator: limits for any hole and shaft class up to 500 mm, preferred fits, IT grades and tips for aluminum parts." property="og:description"/>
+<meta content="https://metline.in/verified/images/coil-stock-1200.webp" property="og:image"/>
+<meta content="en_GB" property="og:locale"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="noindex,follow" name="robots"/>
+</head>
+<body>
+<header class="header m-95d28">
+<div class="wrap clearfix">
+<a class="logo" href="/metline-aluminium/"><img alt="Metline Industries" data-cms-id="image-0" data-demo-src="/metline-aluminium/brand/metline-logo.png" data-height="70" data-width="240" src="/metline-aluminium/brand/metline-logo.png" data-cms-override="true"/></a>
+<div class="m-a7e6d"><img alt="Menu" data-cms-id="image-1" data-demo-src="/metline-aluminium/demo/icons/menu-white.svg" data-height="48" data-width="48" loading="lazy" src="/metline-aluminium/demo/icons/menu-white.svg"/></div>
+<nav class="nav">
+<ul>
+<li data-value="6"><a data-cms-id="text-2" href="/metline-aluminium/">Home</a></li>
+<li data-value="6"><a data-cms-id="text-4" href="/metline-aluminium/about/">About</a> <div class="m-47733">
+<a data-cms-id="text-5" href="/metline-aluminium/about/services/">Services</a>
+</div></li>
+<li data-value="6" id="m-aad90"><a data-cms-id="text-7" href="/metline-aluminium/products/">Product</a></li>
+<li data-value="6" id="m-13a57"><a data-cms-id="text-9" href="/metline-aluminium/industries/">Industries</a></li>
+<li data-value="6" id="m-b0b91"><a data-cms-id="text-11" href="/metline-aluminium/guides/">Recommend</a></li>
+<li data-value="6"><a data-cms-id="text-15" href="/metline-aluminium/resources/">Resources</a>
+</li>
+<li class="on" data-value="6"><a data-cms-id="text-17" href="/metline-aluminium/insights/">Blog</a>
+</li>
+<li data-value="6"><a data-cms-id="text-19" href="/metline-aluminium/contact/">Contact</a></li>
+</ul>
+</nav>
+<div class="search">
+<div class="m-1477c"><img alt="Search" data-cms-id="image-2" data-demo-src="/metline-aluminium/demo/icons/search-white.svg" data-height="48" data-width="48" loading="lazy" src="/metline-aluminium/demo/icons/search-white.svg"/></div>
+<form action="/metline-aluminium/contact/" class="m-d5208" id="m-4c1ae" method="get" name="Message">
+<label for="key">
+<input aria-label="Search the site" autocomplete="off" id="key" name="key" type="text"/>
+</label>
+<input hidden="hidden" type="text"/>
+<button class="m-39aab" id="m-88985" type="button">
+<img alt="Search" data-cms-id="image-3" data-demo-src="/metline-aluminium/demo/icons/search-white.svg" data-height="48" data-width="48" id="m-e1875" loading="lazy" src="/metline-aluminium/demo/icons/search-white.svg"/>
+</button>
+</form>
+</div>
+</div>
+</header>
+<main class="ip-page" id="main">
+
+<section class="ip-hero ip-hero-tool">
+<div class="wrap">
+<nav class="ip-crumb" aria-label="Breadcrumb"><a href="/metline-aluminium/">Home</a><span>/</span><a href="/metline-aluminium/insights/">Insights</a><span>/</span><span aria-current="page">Fit &amp; Tolerance Calculator</span></nav>
+<div class="ip-hero-grid">
+<div class="ip-hero-copy">
+<span class="section-eyebrow">Free engineering tool</span>
+<h1>ISO 286 Fit and Tolerance Calculator for Shafts and Holes</h1>
+<p class="ip-lead">Enter a nominal size and choose a hole and shaft tolerance class, such as H7/g6, to get the upper and lower deviations, the limit sizes and the maximum and minimum clearance or interference. The calculator follows the ISO 286 tables for sizes up to 500 mm. Below it, we explain how to choose a fit and what changes when one of the parts is aluminium.</p>
+<p class="ip-byline">By <strong>Metline Technical Team</strong> · Updated <time datetime="2026-10-17">17 October 2026</time></p>
+<div class="ip-hero-actions">
+<a class="ip-btn ip-btn-primary" href="/metline-aluminium/contact/" rel="nofollow">Request a quote</a>
+<a class="ip-btn ip-btn-ghost" href="/metline-aluminium/guides/precision-ground-aluminium-bar/">Precision ground bar</a>
+</div>
+</div>
+<div class="wc-card">
+<form class="wc" id="fitcalc" novalidate>
+<div class="wc-grid">
+<div class="wc-field wc-wide"><label for="fit-preset">Preferred fit (optional)</label><select id="fit-preset" name="preset"><option value="">Choose a preferred fit…</option><option value="H11/c11">H11/c11 loose running</option><option value="H9/d9">H9/d9 free running</option><option value="H8/f7">H8/f7 close running</option><option value="H7/g6">H7/g6 sliding</option><option value="H7/h6">H7/h6 locational clearance</option><option value="H7/k6">H7/k6 locational transition</option><option value="H7/n6">H7/n6 locational transition</option><option value="H7/p6">H7/p6 locational interference</option><option value="H7/s6">H7/s6 medium drive</option><option value="H7/u6">H7/u6 force fit</option></select></div>
+<div class="wc-field wc-wide"><label for="fit-size">Nominal size (mm, up to 500)</label><input id="fit-size" name="size" type="number" inputmode="decimal" min="0.1" max="500" step="any" value="25"/></div>
+<div class="wc-field"><label for="fit-hl">Hole deviation</label><select id="fit-hl" name="hl"><option>C</option><option>D</option><option>E</option><option>F</option><option>G</option><option selected>H</option><option>JS</option><option>K</option><option>M</option><option>N</option><option>P</option><option>R</option><option>S</option><option>U</option></select></div>
+<div class="wc-field"><label for="fit-hg">Hole IT grade</label><select id="fit-hg" name="hg"><option>5</option><option>6</option><option selected>7</option><option>8</option><option>9</option><option>10</option><option>11</option></select></div>
+<div class="wc-field"><label for="fit-sl">Shaft deviation</label><select id="fit-sl" name="sl"><option>c</option><option>d</option><option>e</option><option>f</option><option selected>g</option><option>h</option><option>js</option><option>k</option><option>m</option><option>n</option><option>p</option><option>r</option><option>s</option><option>u</option></select></div>
+<div class="wc-field"><label for="fit-sg">Shaft IT grade</label><select id="fit-sg" name="sg"><option>5</option><option selected>6</option><option>7</option><option>8</option><option>9</option><option>10</option><option>11</option></select></div>
+</div>
+<div class="wc-result" aria-live="polite">
+<div class="wc-total"><span class="wc-label" data-out="code">25 H7/g6</span><strong data-out="type">Clearance fit</strong></div>
+<dl class="wc-meta"><div><dt>Maximum</dt><dd data-out="maxc">—</dd></div><div><dt>Minimum</dt><dd data-out="minc">—</dd></div></dl>
+<dl class="wc-meta"><div><dt>Hole ES / EI</dt><dd><span data-out="ES">—</span> / <span data-out="EI">—</span></dd></div><div><dt>Hole max / min</dt><dd><span data-out="hmax">—</span><br/><span data-out="hmin">—</span></dd></div></dl>
+<dl class="wc-meta"><div><dt>Shaft es / ei</dt><dd><span data-out="es">—</span> / <span data-out="ei">—</span></dd></div><div><dt>Shaft max / min</dt><dd><span data-out="smax">—</span><br/><span data-out="smin">—</span></dd></div></dl>
+<p class="wc-formula">Limits to ISO 286-1 / 286-2 at 20 °C. Reference only: confirm critical fits against the standard.</p>
+<p class="wc-msg" data-out="msg" role="alert"></p>
+<a class="ip-btn ip-btn-primary wc-quote" href="/metline-aluminium/contact/#enquiry" rel="nofollow">Quote precision bar or tube</a>
+</div>
+</form>
+<script>(function(){
+var B=[3,6,10,14,18,24,30,40,50,65,80,100,120,140,160,180,200,225,250,280,315,355,400,450,500];
+var MI=[0,1,2,3,3,4,4,5,5,6,6,7,7,8,8,8,9,9,9,10,10,11,11,12,12];
+var IT={4:[3,4,4,5,6,7,8,10,12,14,16,18,20],5:[4,5,6,8,9,11,13,15,18,20,23,25,27],6:[6,8,9,11,13,16,19,22,25,29,32,36,40],7:[10,12,15,18,21,25,30,35,40,46,52,57,63],8:[14,18,22,27,33,39,46,54,63,72,81,89,97],9:[25,30,36,43,52,62,74,87,100,115,130,140,155],10:[40,48,58,70,84,100,120,140,160,185,210,230,250],11:[60,75,90,110,130,160,190,220,250,290,320,360,400]};
+var UP={d:[-20,-30,-40,-50,-65,-80,-100,-120,-145,-170,-190,-210,-230],e:[-14,-20,-25,-32,-40,-50,-60,-72,-85,-100,-110,-125,-135],f:[-6,-10,-13,-16,-20,-25,-30,-36,-43,-50,-56,-62,-68],g:[-2,-4,-5,-6,-7,-9,-10,-12,-14,-15,-17,-18,-20],h:[0,0,0,0,0,0,0,0,0,0,0,0,0]};
+var LO={k:[0,1,1,1,2,2,2,3,3,4,4,4,5],m:[2,4,6,7,8,9,11,13,15,17,20,21,23],n:[4,8,10,12,15,17,20,23,27,31,34,37,40],p:[6,12,15,18,22,26,32,37,43,50,56,62,68]};
+var SUB={c:[-60,-70,-80,-95,-95,-110,-110,-120,-130,-140,-150,-170,-180,-200,-210,-230,-240,-260,-280,-300,-330,-360,-400,-440,-480],
+r:[10,15,19,23,23,28,28,34,34,41,43,51,54,63,65,68,77,80,84,94,98,108,114,126,132],
+s:[14,19,23,28,28,35,35,43,43,53,59,71,79,92,100,108,122,130,140,158,170,190,208,232,252],
+u:[18,23,28,33,33,41,48,60,70,87,102,124,144,170,190,210,236,258,284,315,350,390,435,490,540]};
+function sub(D){for(var i=0;i<B.length;i++){if(D<=B[i])return i;}return -1;}
+function shaft(L,g,D){var s=sub(D),m=MI[s],t=IT[g][m],es,ei;
+ if(L==='c'){es=SUB.c[s];ei=es-t;}
+ else if(UP[L]){es=UP[L][m];ei=es-t;}
+ else if(L==='js'){es=t/2;ei=-t/2;}
+ else{ if(L==='k')ei=(g<=7)?LO.k[m]:0; else if(LO[L])ei=LO[L][m]; else ei=SUB[L][s]; es=ei+t;}
+ return [es,ei,t];}
+function hole(L,g,D){var s=sub(D),m=MI[s],t=IT[g][m],l=L.toLowerCase(),d=(D<=3)?0:IT[g][m]-IT[g-1][m],ES,EI;
+ if('cdefgh'.indexOf(l)>=0&&l.length===1){EI=-shaft(l,g,D)[0];ES=EI+t;}
+ else if(l==='js'){ES=t/2;EI=-t/2;}
+ else{
+  if(l==='k')ES=(g<=8)?-LO.k[m]+d:0;
+  else if(l==='m'){ES=(g<=8)?-LO.m[m]+d:-LO.m[m]; if(g===6&&m===10)ES=-9;}
+  else if(l==='n')ES=(g<=8)?-LO.n[m]+d:(D<=3?-LO.n[m]:0);
+  else{var ei=(l==='p')?LO.p[m]:SUB[l][s]; ES=(g<=7)?-ei+d:-ei;}
+  EI=ES-t;}
+ return [ES,EI,t];}
+function fit(h,hg,sL,sg,D){var H=hole(h,hg,D),S=shaft(sL,sg,D);return {hole:H,shaft:S,maxC:H[0]-S[1],minC:H[1]-S[0]};}
+var f=document.getElementById('fitcalc');if(!f)return;
+function q(n){return f.querySelector('[data-out="'+n+'"]');}
+function um(v){var r=Math.round(v*10)/10;return (r>0?'+':'')+r+' µm';}
+function mm(D,v){return (D+v/1000).toFixed(4).replace(/0$/,'')+' mm';}
+function run(){var D=parseFloat(f.elements.size.value),msg=q('msg');msg.textContent='';
+ if(!(D>0&&D<=500)){msg.textContent='Enter a nominal size above 0 and up to 500 mm.';f.classList.remove('wc-ready');return;}
+ var r=fit(f.elements.hl.value,+f.elements.hg.value,f.elements.sl.value,+f.elements.sg.value,D),H=r.hole,S=r.shaft;
+ q('ES').textContent=um(H[0]);q('EI').textContent=um(H[1]);q('hmax').textContent=mm(D,H[0]);q('hmin').textContent=mm(D,H[1]);
+ q('es').textContent=um(S[0]);q('ei').textContent=um(S[1]);q('smax').textContent=mm(D,S[0]);q('smin').textContent=mm(D,S[1]);
+ var type=r.minC>=0?'Clearance fit':(r.maxC<=0?'Interference fit':'Transition fit');
+ q('type').textContent=type;q('code').textContent=D+' '+f.elements.hl.value+f.elements.hg.value+'/'+f.elements.sl.value+f.elements.sg.value;
+ q('maxc').textContent=(r.maxC>=0?'Clearance ':'Interference ')+Math.abs(Math.round(r.maxC*10)/10)+' µm';
+ q('minc').textContent=(r.minC>=0?'Clearance ':'Interference ')+Math.abs(Math.round(r.minC*10)/10)+' µm';
+ f.classList.add('wc-ready');}
+f.elements.preset.addEventListener('change',function(){var v=this.value;if(!v)return;var p=v.split('/');var m=/^([A-Z]+)(\d+)$/.exec(p[0]),n=/^([a-z]+)(\d+)$/.exec(p[1]);
+ f.elements.hl.value=m[1];f.elements.hg.value=m[2];f.elements.sl.value=n[1];f.elements.sg.value=n[2];run();});
+f.addEventListener('input',run);f.addEventListener('change',run);f.addEventListener('submit',function(e){e.preventDefault();run();});run();
+})();
+</script>
+</div>
+</div>
+</div>
+</section>
+
+<nav class="ip-toc" aria-label="On this page">
+<div class="wrap">
+<a href="#how">How to use</a>
+<a href="#basics">ISO 286 basics</a>
+<a href="#preferred">Preferred fits</a>
+<a href="#it">IT grade table</a>
+<a href="#aluminium">Fits in aluminium</a>
+<a href="#stock">Stock tolerances</a>
+<a href="#mistakes">Common mistakes</a>
+<a href="#related">Related</a>
+<a href="#references">Sources</a>
+<a href="#faq">FAQ</a>
+</div>
+</nav>
+
+<div class="wrap ip-body">
+
+<section class="ip-section" id="how">
+<span class="section-eyebrow">Using the calculator</span>
+<h2>How to use the fit calculator</h2>
+<ol class="ip-steps">
+<li><strong>Enter the nominal size</strong><span>The basic diameter shared by hole and shaft, in millimetres. ISO 286 groups sizes into ranges ("above 18 up to and including 30 mm"), so 25 mm and 30 mm give the same deviations.</span></li>
+<li><strong>Choose the classes</strong><span>Pick a preferred fit from the list, or set the hole letter and grade and the shaft letter and grade yourself. Capital letters are holes, lower case are shafts.</span></li>
+<li><strong>Read the deviations</strong><span>ES and EI are the upper and lower deviations of the hole; es and ei are those of the shaft, in micrometres from the nominal size.</span></li>
+<li><strong>Read the fit</strong><span>Maximum clearance is the largest hole minus the smallest shaft. Minimum clearance is the smallest hole minus the largest shaft; if it is negative, the parts interfere. The calculator classifies the result as clearance, transition or interference.</span></li>
+</ol>
+<p class="ip-note">Supported: hole deviations C, D, E, F, G, H, JS, K, M, N, P, R, S, U and shaft deviations c to u, in IT grades 5 – 11, for nominal sizes up to 500 mm. Values are taken from the ISO 286-2 tables, including the Δ correction for K, M, N and P to U holes.</p>
+</section>
+
+<section class="ip-section" id="basics">
+<span class="section-eyebrow">The system</span>
+<h2>How the ISO fit system works</h2>
+<p>ISO 286 describes every toleranced size with a letter and a number. The <strong>letter</strong> (the fundamental deviation) sets where the tolerance zone sits relative to the nominal size. The <strong>number</strong> (the IT grade) sets how wide the zone is. H7, for example, means a hole whose lower limit is exactly the nominal size and whose zone is IT7 wide: 0 / +21 µm at 25 mm.</p>
+<p>Letters early in the alphabet put the shaft well below nominal (c, d, e, f, g give clearance against an H hole). The letter h puts the upper limit at nominal. js is centred on it. Letters from k onwards put the shaft above nominal, producing transition and then interference fits. Holes mirror this with capital letters.</p>
+<div class="ip-cards ip-cards-3">
+<article class="ip-card"><h3>Hole-basis system</h3><p>The hole is H (lower deviation zero) and the shaft letter is varied to obtain the fit. This is the normal choice, because standard reamers, plug gauges and boring tools are made to H tolerances.</p></article>
+<article class="ip-card"><h3>Shaft-basis system</h3><p>The shaft is h and the hole letter varies. Used when one standard shaft, such as cold-drawn or ground bar, carries several parts with different fits.</p></article>
+<article class="ip-card"><h3>IT grades</h3><p>IT5 – IT7 are precision ground or finely machined; IT8 – IT9 are good turning and reaming; IT10 – IT11 are general machining and drawn stock.</p></article>
+</div>
+</section>
+
+<section class="ip-section" id="preferred">
+<span class="section-eyebrow">Preferred fits</span>
+<h2>Preferred hole-basis fits, worked at 25 mm</h2>
+<p>Most designs need only a handful of fits. The values below are calculated with the tool above for a 25 mm nominal size; positive numbers are clearance, negative numbers are interference.</p>
+<div class="ip-table-wrap">
+<table class="ip-table">
+<thead><tr><th scope="col">Fit</th><th scope="col">Type</th><th scope="col">Hole (µm)</th><th scope="col">Shaft (µm)</th><th scope="col">Max clearance</th><th scope="col">Min clearance</th><th scope="col">Typical use</th></tr></thead>
+<tbody>
+<tr><th scope="row">H11/c11</th><td>Clearance</td><td>+130 / 0</td><td>−110 / −240</td><td>+370</td><td>+110</td><td>Loose running, wide tolerances, dirty conditions</td></tr>
+<tr><th scope="row">H9/d9</th><td>Clearance</td><td>+52 / 0</td><td>−65 / −117</td><td>+169</td><td>+65</td><td>Free running, large temperature swings</td></tr>
+<tr><th scope="row">H8/f7</th><td>Clearance</td><td>+33 / 0</td><td>−20 / −41</td><td>+74</td><td>+20</td><td>Close running, accurate shaft location</td></tr>
+<tr><th scope="row">H7/g6</th><td>Clearance</td><td>+21 / 0</td><td>−7 / −20</td><td>+41</td><td>+7</td><td>Sliding fit, locating pins, precise guides</td></tr>
+<tr><th scope="row">H7/h6</th><td>Clearance</td><td>+21 / 0</td><td>0 / −13</td><td>+34</td><td>0</td><td>Locational clearance, parts assembled by hand</td></tr>
+<tr><th scope="row">H7/k6</th><td>Transition</td><td>+21 / 0</td><td>+15 / +2</td><td>+19</td><td>−15</td><td>Accurate location, light press</td></tr>
+<tr><th scope="row">H7/n6</th><td>Transition</td><td>+21 / 0</td><td>+28 / +15</td><td>+6</td><td>−28</td><td>Tighter location, press assembly</td></tr>
+<tr><th scope="row">H7/p6</th><td>Interference</td><td>+21 / 0</td><td>+35 / +22</td><td>−1</td><td>−35</td><td>Locational interference, rigid alignment</td></tr>
+<tr><th scope="row">H7/s6</th><td>Interference</td><td>+21 / 0</td><td>+48 / +35</td><td>−14</td><td>−48</td><td>Medium drive fit, permanent assembly</td></tr>
+<tr><th scope="row">H7/u6</th><td>Interference</td><td>+21 / 0</td><td>+61 / +48</td><td>−27</td><td>−61</td><td>Force or shrink fit, high torque transfer</td></tr>
+</tbody>
+</table>
+</div>
+</section>
+
+<section class="ip-section" id="it">
+<span class="section-eyebrow">Reference data</span>
+<h2>Standard tolerance (IT) values up to 500 mm</h2>
+<div class="ip-table-wrap">
+<table class="ip-table ip-table-num">
+<thead><tr><th scope="col">Size range (mm)</th><th scope="col">IT5</th><th scope="col">IT6</th><th scope="col">IT7</th><th scope="col">IT8</th><th scope="col">IT9</th><th scope="col">IT10</th><th scope="col">IT11</th></tr></thead>
+<tbody>
+<tr><th scope="row">≤ 3</th><td>4</td><td>6</td><td>10</td><td>14</td><td>25</td><td>40</td><td>60</td></tr>
+<tr><th scope="row">3 – 6</th><td>5</td><td>8</td><td>12</td><td>18</td><td>30</td><td>48</td><td>75</td></tr>
+<tr><th scope="row">6 – 10</th><td>6</td><td>9</td><td>15</td><td>22</td><td>36</td><td>58</td><td>90</td></tr>
+<tr><th scope="row">10 – 18</th><td>8</td><td>11</td><td>18</td><td>27</td><td>43</td><td>70</td><td>110</td></tr>
+<tr><th scope="row">18 – 30</th><td>9</td><td>13</td><td>21</td><td>33</td><td>52</td><td>84</td><td>130</td></tr>
+<tr><th scope="row">30 – 50</th><td>11</td><td>16</td><td>25</td><td>39</td><td>62</td><td>100</td><td>160</td></tr>
+<tr><th scope="row">50 – 80</th><td>13</td><td>19</td><td>30</td><td>46</td><td>74</td><td>120</td><td>190</td></tr>
+<tr><th scope="row">80 – 120</th><td>15</td><td>22</td><td>35</td><td>54</td><td>87</td><td>140</td><td>220</td></tr>
+<tr><th scope="row">120 – 180</th><td>18</td><td>25</td><td>40</td><td>63</td><td>100</td><td>160</td><td>250</td></tr>
+<tr><th scope="row">180 – 250</th><td>20</td><td>29</td><td>46</td><td>72</td><td>115</td><td>185</td><td>290</td></tr>
+<tr><th scope="row">250 – 315</th><td>23</td><td>32</td><td>52</td><td>81</td><td>130</td><td>210</td><td>320</td></tr>
+<tr><th scope="row">315 – 400</th><td>25</td><td>36</td><td>57</td><td>89</td><td>140</td><td>230</td><td>360</td></tr>
+<tr><th scope="row">400 – 500</th><td>27</td><td>40</td><td>63</td><td>97</td><td>155</td><td>250</td><td>400</td></tr>
+</tbody>
+</table>
+</div>
+<p class="ip-note">Tolerance widths in micrometres (µm), from ISO 286-1. Each range is "above the lower value up to and including the upper value".</p>
+</section>
+
+<section class="ip-section" id="aluminium">
+<span class="section-eyebrow">Aluminium-specific advice</span>
+<h2>What changes when the part is aluminium</h2>
+<p>The ISO tables are material-neutral, but aluminium behaves differently from steel in three ways that directly affect fits.</p>
+<div class="ip-cards ip-cards-3">
+<article class="ip-card"><h3>Thermal expansion</h3><p>Aluminium expands about 23 µm per metre per °C, roughly twice as much as steel. A steel bearing pressed into a 50 mm aluminium housing loses about 48 µm of interference if the assembly runs 80 °C above room temperature (50 mm × 12 µm/m·°C × 80 °C). Check fits at the extreme service temperatures, not only at 20 °C.</p></article>
+<article class="ip-card"><h3>Lower stiffness and hardness</h3><p>With about one third of the elastic modulus of steel, an aluminium hub yields and relaxes more under the same interference. Heavy press fits can gall or score the bore. Use shrink fitting (heating the aluminium part) or a lubricant, and consider a steel insert or bushing for high-load joints.</p></article>
+<article class="ip-card"><h3>Coatings change size</h3><p>Anodic films grow partly outward. A hard anodised coating 50 µm thick typically adds about 25 µm per surface, so a bore shrinks by about 50 µm on diameter. Machine to pre-anodise dimensions or mask fitted surfaces.</p></article>
+</div>
+<p>Measure and inspect at 20 °C, the ISO reference temperature. A 100 mm aluminium part measured at 30 °C reads about 23 µm larger than at 20 °C, which already exceeds a full IT6 band at that size.</p>
+</section>
+
+<section class="ip-section" id="stock">
+<span class="section-eyebrow">Choosing the stock</span>
+<h2>Which aluminium stock reaches which tolerance?</h2>
+<div class="ip-table-wrap">
+<table class="ip-table">
+<thead><tr><th scope="col">Product</th><th scope="col">Typical diameter tolerance</th><th scope="col">Notes</th></tr></thead>
+<tbody>
+<tr><th scope="row"><a href="/metline-aluminium/guides/precision-ground-aluminium-bar/">Precision ground bar</a></th><td>h6 – h9</td><td>Centreless ground; ready for collets, guide bushes and pins</td></tr>
+<tr><th scope="row">Cold-finished (drawn) bar</th><td>about h9 – h11</td><td>ASTM B211 or EN 754 drawn tolerances; good for turning without roughing</td></tr>
+<tr><th scope="row">Extruded bar</th><td>Coarser than IT11</td><td>EN 755-9 or ANSI H35.2 tables; allow machining stock</td></tr>
+<tr><th scope="row"><a href="/metline-aluminium/aluminium-forms/precision-drawn-tube/">Precision drawn tube</a></th><td>Close OD and ID tolerances to order</td><td>Honed or drawn bores for cylinders and sleeves</td></tr>
+<tr><th scope="row"><a href="/metline-aluminium/guides/high-precision-plates/">High-precision plate</a></th><td>Thickness tolerance by milling</td><td>Bores are machined; plate flatness matters more</td></tr>
+</tbody>
+</table>
+</div>
+<p>For H7 bores and g6 or k6 journals, plan on machining the fitted surface whatever the stock. Ordering ground or drawn stock reduces the material to remove and the risk of distortion. When you send an enquiry, give the ISO class rather than a plus/minus value so the stock tolerance can be matched to the finish operation.</p>
+<aside class="ip-quote-box">
+<div><h3>Need bar or tube to a specific ISO tolerance?</h3><p>Send the alloy, diameter, tolerance class and length. We will confirm the right stock and quote it with certification.</p></div>
+<a class="ip-btn ip-btn-primary" href="/metline-aluminium/contact/" rel="nofollow">Request a quote</a>
+</aside>
+</section>
+
+<section class="ip-section" id="mistakes">
+<span class="section-eyebrow">Practical advice</span>
+<h2>Common mistakes when specifying fits</h2>
+<ul class="ip-checklist">
+<li><strong>Tighter than needed:</strong> each IT grade step raises machining cost. Use H7 only where location really matters; H8 or H9 is fine for most clearances.</li>
+<li><strong>Ignoring temperature:</strong> aluminium-to-steel fits can loosen or seize across the operating range.</li>
+<li><strong>Forgetting coatings:</strong> anodising, plating or paint must be allowed for in the machined size.</li>
+<li><strong>Mixing systems:</strong> choose hole basis or shaft basis for the assembly and keep to it.</li>
+<li><strong>Specifying form loosely:</strong> a bore inside its size limits can still be oval or tapered; add roundness or cylindricity where the function needs it (ISO 1101).</li>
+</ul>
+</section>
+
+<section class="ip-section" id="related">
+<span class="section-eyebrow">Related products &amp; tools</span>
+<h2>Precision aluminium stock and related tools</h2>
+<div class="ip-chip-grid">
+<a href="/metline-aluminium/guides/precision-ground-aluminium-bar/">Precision ground bar</a>
+<a href="/metline-aluminium/guides/7075-aluminium-precision-ground-rod/">7075 precision ground rod</a>
+<a href="/metline-aluminium/guides/2017-precision-ground-bar/">2017 precision ground bar</a>
+<a href="/metline-aluminium/aluminium-forms/precision-drawn-tube/">Precision drawn tube</a>
+<a href="/metline-aluminium/guides/cold-drawn-aluminium-tube/">Cold drawn tube</a>
+<a href="/metline-aluminium/guides/high-precision-large-tube/">High-precision large tube</a>
+<a href="/metline-aluminium/guides/high-precision-rectangular-tube/">High-precision rectangular tube</a>
+<a href="/metline-aluminium/guides/precision-aluminium-tube-showcase/">Precision tube examples</a>
+<a href="/metline-aluminium/guides/cnc-aluminium-machining/">CNC aluminium machining</a>
+<a href="/metline-aluminium/insights/7-aluminium-measurement-tools/">Aluminium measurement tools</a>
+<a href="/metline-aluminium/resources/calculators/">Weight calculators</a>
+</div>
+</section>
+
+<section class="ip-section ip-refs" id="references">
+<span class="section-eyebrow">Sources</span>
+<h2>References and standards</h2>
+<ol class="ip-ref-list">
+<li><a href="https://www.iso.org/standard/45975.html" rel="nofollow noopener" target="_blank">ISO 286-1 – Geometrical product specifications (GPS): ISO code system for tolerances on linear sizes, Part 1: basis of tolerances, deviations and fits</a></li>
+<li><a href="https://www.iso.org/standard/54915.html" rel="nofollow noopener" target="_blank">ISO 286-2 – Geometrical product specifications (GPS): ISO code system for tolerances on linear sizes, Part 2: tables of standard tolerance classes and limit deviations</a></li>
+<li>ISO 1 – Geometrical product specifications: standard reference temperature (20 °C)</li>
+<li>ANSI B4.2 – Preferred Metric Limits and Fits</li>
+<li>EN 755-9 – Aluminium and aluminium alloys: extruded rod/bar, tube and profiles, tolerances on dimensions and form</li>
+</ol>
+</section>
+<section class="ip-section" id="faq">
+<span class="section-eyebrow">FAQ</span>
+<h2>ISO 286 fits and tolerances: frequently asked questions</h2>
+<div class="ip-faq">
+<details open><summary>What does H7/g6 mean?</summary><p>It is a hole-basis sliding fit. The hole is H7 (lower limit at nominal, IT7 wide) and the shaft is g6 (slightly below nominal, IT6 wide). At 25 mm the hole is 0 / +21 µm and the shaft −7 / −20 µm, giving 7 – 41 µm clearance.</p></details>
+<details><summary>What is the difference between ISO 286-1 and ISO 286-2?</summary><p>Part 1 defines the system: tolerance grades, fundamental deviations and how fits are formed. Part 2 contains the tables of limit deviations for the commonly used hole and shaft classes.</p></details>
+<details><summary>Which fit should I use for a bearing in an aluminium housing?</summary><p>Follow the bearing maker's recommendation for load type, then correct for aluminium's larger thermal expansion. Housings in aluminium are often specified one class tighter than in cast iron, or fitted with a steel sleeve, so the outer ring does not creep when warm.</p></details>
+<details><summary>Is the calculator valid above 500 mm?</summary><p>No. ISO 286 has separate data for 500 – 3150 mm with different rules, and this tool covers up to 500 mm only.</p></details>
+<details><summary>Why is my JS tolerance shown with half micrometres?</summary><p>JS and js zones are symmetrical, ±IT/2. Where the IT value is odd, the half value is not a whole micrometre. The standard permits rounding in some grades; the calculator shows the exact half value.</p></details>
+<details><summary>Can Metline supply bar and tube to an ISO tolerance class?</summary><p>Yes. Metline supplies precision ground bar, drawn bar and precision drawn tube in a range of alloys, and can cut or machine to drawing, with mill test certificates.</p></details>
+</div>
+</section>
+</div>
+
+<section class="home-cta ip-cta">
+<div class="wrap">
+<div class="home-cta-panel">
+<div class="home-cta-copy">
+<h2>Need stock for a precision fit?</h2>
+<p>Send the ISO class, alloy, size and quantity. Our team will suggest the right ground, drawn or extruded stock and quote delivery worldwide.</p>
+</div>
+<div class="home-cta-actions">
+<a class="btn-light" href="/metline-aluminium/contact/" rel="nofollow">Request a quote</a>
+<a class="btn-ghost" href="/metline-aluminium/products/">Browse all products</a>
+</div>
+</div>
+</div>
+</section>
+
+</main>
+
+<div class="m-bb6cb" data-value="m-aad90" id="m-8a881">
+<div>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-199">Product Categories</li>
+<li class="m-ae851">
+<a class="m-d5b36" data-cms-id="text-201" href="/metline-aluminium/aluminium-tube/">Aluminum Tubes &amp; Pipe</a>
+<ul class="m-fc733">
+<li class="m-9e5c5" data-cms-id="text-202">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-204" href="/metline-aluminium/aluminium-tube/2024-aluminium-round-tube/">2024
+                                    Aluminum Round Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-206" href="/metline-aluminium/aluminium-tube/2024-aluminium-square-tube/">2024
+                                    Aluminum Square Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-208" href="/metline-aluminium/aluminium-tube/7075-aluminium-tube/">7075
+                                    Aluminum Tube</a></li>
+
+<li class="m-8d20a"><a data-cms-id="text-210" href="/metline-aluminium/aluminium-tube/6061-aluminium-tube/">6061
+                                    Aluminum Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-212" href="/metline-aluminium/aluminium-tube/6063-aluminium-tube/">6063
+                                    Aluminum Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-214" href="/metline-aluminium/aluminium-tube/6082-aluminium-tube/">6082
+                                    Aluminum Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-216" href="/metline-aluminium/aluminium-tube/5083-aluminium-pipe/">5083
+                                    Aluminum Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-218" href="/metline-aluminium/aluminium-tube/5086-aluminium-pipe/">5086
+                                    Aluminum Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-220" href="/metline-aluminium/aluminium-tube/5052-tube/">5052 Aluminum
+                                    Tube</a></li>
+
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-222" href="/metline-aluminium/aluminium-bar/">Aluminum Bar</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-223">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-225" href="/metline-aluminium/aluminium-bar/2011-aluminium-bar-rod/">2011
+                                    Aluminum Bar Rod</a></li>
+<li class="m-8d20a"><a data-cms-id="text-227" href="/metline-aluminium/aluminium-bar/2017-aluminium-bar/">2017 Aluminum
+                                    Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-229" href="/metline-aluminium/aluminium-bar/2024-aluminium-bar/">2024 Aluminum
+                                    Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-231" href="/metline-aluminium/aluminium-bar/2618-bar-rod/">2618 Aluminum Bar
+                                    Rod</a></li>
+<li class="m-8d20a"><a data-cms-id="text-233" href="/metline-aluminium/aluminium-bar/7075-aluminium-rod/">7075
+                                    Aluminium Rod</a></li>
+<li class="m-8d20a"><a data-cms-id="text-235" href="/metline-aluminium/aluminium-bar/6061-aluminium-bar/">6061 Aluminum
+                                    Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-237" href="/metline-aluminium/aluminium-bar/6063-aluminium-rod/">6063 Aluminum
+                                    Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-239" href="/metline-aluminium/aluminium-bar/6082-aluminium-bar/">6082 Aluminum
+                                    Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-241" href="/metline-aluminium/aluminium-bar/5083-aluminium-round-bar/">5083
+                                    Aluminum Bar</a></li>
+
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-243" href="/metline-aluminium/aluminium-plate/">Aluminum Sheet &amp; Plate</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-244">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-246" href="/metline-aluminium/aluminium-plate/7075-aluminium-plate/">7075
+                                    Alclad Aluminum Sheet</a></li>
+<li class="m-8d20a"><a data-cms-id="text-248" href="/metline-aluminium/aluminium-plate/6061-aluminium-plate/">6061
+                                    Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-250" href="/metline-aluminium/aluminium-plate/6101-aluminium-sheet-plate/">6101 Aluminum
+                                    Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-252" href="/metline-aluminium/aluminium-plate/6082-aluminium-sheet/">6082
+                                    Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-254" href="/metline-aluminium/aluminium-plate/6063-aluminium-sheet/">6063
+                                    Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-256" href="/metline-aluminium/aluminium-plate/5083-aluminium-plate/">5083
+                                    Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-258" href="/metline-aluminium/aluminium-plate/5052-aluminium-sheet-plate/">5052 Aluminum Sheet</a>
+</li>
+<li class="m-8d20a"><a data-cms-id="text-260" href="/metline-aluminium/aluminium-plate/5182-aluminium-sheet/">5182 Aluminum Sheet</a>
+</li>
+<li class="m-8d20a"><a data-cms-id="text-262" href="/metline-aluminium/aluminium-plate/5086-aluminium-plate-sheet/">5086 Aluminum Sheet</a>
+</li>
+
+
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-264" href="/metline-aluminium/aluminium-forging/">Aluminum Forging</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-265">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-267" href="/metline-aluminium/aluminium-forging/2024-aluminium-forging/">2024 Aluminum
+                                    Forging</a></li>
+<li class="m-8d20a"><a data-cms-id="text-269" href="/metline-aluminium/aluminium-forging/6061-aluminium-forging/">6061 Aluminum
+                                    Forgings</a></li>
+<li class="m-8d20a"><a data-cms-id="text-271" href="/metline-aluminium/aluminium-forging/7075-aluminium-forging/">7075 Aluminum
+                                    Forgings</a></li>
+<li class="m-8d20a"><a data-cms-id="text-273" href="/metline-aluminium/aluminium-forging/aluminium-die-forging/">Aluminum Die
+                                    Forgings</a></li>
+<li class="m-8d20a"><a data-cms-id="text-275" href="/metline-aluminium/aluminium-forging/forged-tube-and-fitting/">Forged Pipe &amp;
+                                    Fittings</a></li>
+<li class="m-8d20a"><a data-cms-id="text-277" href="/metline-aluminium/aluminium-forging/forged-ring-and-rolled-ring/">Forged Rings /
+                                    Rolled Rings</a></li>
+<li class="m-8d20a"><a data-cms-id="text-279" href="/metline-aluminium/aluminium-forging/forged-discs/">Forged
+                                    Aluminum Discs / Blanks</a></li>
+<li class="m-8d20a"><a data-cms-id="text-281" href="/metline-aluminium/aluminium-forging/forged-bar/">Forged
+                                    Aluminum Bars</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-283" href="/metline-aluminium/aluminium-brazing-welding/">Aluminum Brazing Materials</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-284">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-286" href="/metline-aluminium/aluminium-brazing-welding/4047-aluminium-brazing-disc/">4047
+                                    Aluminum Disc for Brazing</a></li>
+<li class="m-8d20a"><a data-cms-id="text-288" href="/metline-aluminium/aluminium-brazing-welding/flux-core-aluminium-brazing-rod/">Flux
+                                    Core Aluminum Brazing Rod</a></li>
+<li class="m-8d20a"><a data-cms-id="text-290" href="/metline-aluminium/aluminium-brazing-welding/brazing-ring-preforms/">Brazing Ring
+                                    &amp; Preforms</a></li>
+<li class="m-8d20a"><a data-cms-id="text-292" href="/metline-aluminium/aluminium-brazing-welding/aluminium-stick-welding-rod/">Aluminum
+                                    Stick Welding Rod</a></li>
+<li class="m-8d20a"><a data-cms-id="text-294" href="/metline-aluminium/aluminium-brazing-welding/aluminium-brazing-rod/">Aluminum
+                                    Brazing Rods for HVAC</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-300" href="/metline-aluminium/aluminium-profile/">Aluminum Extrusion Profile</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-301">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-303" href="/metline-aluminium/aluminium-profile/7075-aluminium-extrusion/">7075 Aluminum
+                                    Extrusion</a></li>
+<li class="m-8d20a"><a data-cms-id="text-305" href="/metline-aluminium/aluminium-profile/6061-aluminium-extrusion/">6061 Aluminum
+                                    Extrusion</a></li>
+<li class="m-8d20a"><a data-cms-id="text-307" href="/metline-aluminium/aluminium-profile/6063-aluminium-extrusion/">6063 Aluminum
+                                    Extrusion</a></li>
+<li class="m-8d20a"><a data-cms-id="text-309" href="/metline-aluminium/aluminium-profile/45-series-aluminium-extrusion/">45 Series
+                                    Aluminum Extrusion</a></li>
+<li class="m-8d20a"><a data-cms-id="text-311" href="/metline-aluminium/aluminium-profile/2020-2040-aluminium-extrusion/">2020 / 2040
+                                    Aluminum Extrusion</a></li>
+<li class="m-8d20a"><a data-cms-id="text-313" href="/metline-aluminium/aluminium-profile/3030-3060-aluminium-extrusion/">3030 / 3060
+                                    Aluminum Extrusion</a></li>
+
+<li class="m-8d20a"><a data-cms-id="text-315" href="/metline-aluminium/aluminium-profile/standard-aluminium-extrusion/">Standard
+                                    Aluminum Extrusions</a></li>
+<li class="m-8d20a"><a data-cms-id="text-317" href="/metline-aluminium/aluminium-profile/aluminium-heat-sink-extrusion/">Aluminum
+                                    Heat Sink Extrusion</a></li>
+
+<li class="m-8d20a"><a data-cms-id="text-319" href="/metline-aluminium/industries/aerospace/aircraft-seat-tracks/">Aircraft Seat
+                                    Tracks</a></li>
+</ul>
+</li>
+
+<li class="m-ae851">
+<a data-cms-id="text-321" href="/metline-aluminium/aluminium-slug/">Aluminum Slug</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-322">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-324" href="/metline-aluminium/aluminium-slug/1070-aluminium-slug/">1070
+                                    Aluminum Slug</a></li>
+<li class="m-8d20a"><a data-cms-id="text-326" href="/metline-aluminium/aluminium-slug/3003-aluminium-slug/">3003
+                                    Aluminum Slug</a></li>
+<li class="m-8d20a"><a data-cms-id="text-328" href="/metline-aluminium/aluminium-slug/6063-aluminium-slug/">6063
+                                    Aluminum Slug</a></li>
+<li class="m-8d20a"><a data-cms-id="text-330" href="/metline-aluminium/aluminium-slug/6061-aluminium-slug/">6061
+                                    Aluminum Slug</a></li>
+<li class="m-8d20a"><a data-cms-id="text-332" href="/metline-aluminium/aluminium-slug/1050-aluminium-slug/">1050
+                                    Aluminum Slug</a></li>
+<li class="m-8d20a"><a data-cms-id="text-334" href="/metline-aluminium/aluminium-slug/1060-aluminium-slug/">1060
+                                    Aluminum Slug</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-336" href="/metline-aluminium/aluminium-wire/">Aluminum Wire</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-337">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-339" href="/metline-aluminium/aluminium-wire/6061-aluminium-wire/">6061 Aluminum Wire</a>
+</li>
+<li class="m-8d20a"><a data-cms-id="text-341" href="/metline-aluminium/aluminium-wire/2024-aluminium-wire/">2024
+                                    Aluminum Wire</a></li>
+<li class="m-8d20a"><a data-cms-id="text-343" href="/metline-aluminium/aluminium-wire/3003-aluminium-wire/">3003
+                                    Aluminum Wire</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-345" href="/metline-aluminium/aluminium-block/">Aluminum Block</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-346">Key Products</li>
+<li class="m-8d20a"><a data-cms-id="text-348" href="/metline-aluminium/aluminium-block/6061-aluminium-block/">6061
+                                    Aluminum Block</a></li>
+<li class="m-8d20a"><a data-cms-id="text-350" href="/metline-aluminium/aluminium-block/7075-aluminium-block/">7075 Aluminum Block</a>
+</li>
+<li class="m-8d20a"><a data-cms-id="text-352" href="/metline-aluminium/aluminium-block/2024-aluminium-block/">2024
+                                    Aluminum Block</a></li>
+</ul>
+</li>
+</ul>
+<ul class="m-3c994">
+<li>
+<a href="/metline-aluminium/aluminium-coil-strip/4047-aluminium-coil-strip/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-24" data-demo-src="/metline-aluminium/verified/images/coil-stock-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/coil-stock-600.webp" width="225"/></a>
+<a data-cms-id="text-355" href="/metline-aluminium/aluminium-coil-strip/4047-aluminium-coil-strip/">4047 Brazed Aluminum
+                            Strip</a>
+</li>
+<li>
+<a href="/metline-aluminium/aluminium-plate/2024-aluminium-sheet-plate/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-25" data-demo-src="/metline-aluminium/verified/images/flat-stock-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/flat-stock-600.webp" width="225"/></a>
+<a data-cms-id="text-358" href="/metline-aluminium/aluminium-plate/2024-aluminium-sheet-plate/">2024 Alclad Aluminum Sheet</a>
+</li>
+<li>
+<a href="/metline-aluminium/aluminium-brazing-welding/6951-brazing-core-aluminium/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-26" data-demo-src="/metline-aluminium/verified/images/bar-stock-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/bar-stock-600.webp" width="225"/></a>
+<a data-cms-id="text-361" href="/metline-aluminium/aluminium-brazing-welding/6951-brazing-core-aluminium/">6951 Aluminum
+                            Clad Heat Exchanger</a>
+</li>
+<li>
+<a href="/metline-aluminium/aluminium-forging/forged-shaft/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-27" data-demo-src="/metline-aluminium/verified/images/plate-stock-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/plate-stock-600.webp" width="225"/></a>
+<a data-cms-id="text-364" href="/metline-aluminium/aluminium-forging/forged-shaft/">Custom Forged Shafts</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="m-bb6cb" data-value="m-13a57" id="m-55c46">
+<div>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-365">Industry Solutions</li>
+<li class="m-ae851">
+<a class="m-d5b36" data-cms-id="text-367" href="/metline-aluminium/industries/building/">Architectural Aluminum</a>
+<ul class="m-fc733">
+<li class="m-9e5c5" data-cms-id="text-368">Key Applications</li>
+<li class="m-8d20a"><a data-cms-id="text-370" href="/metline-aluminium/industries/building/aluminium-window-systems/">Aluminum
+                                    Window Systems</a></li>
+<li class="m-8d20a"><a data-cms-id="text-372" href="/metline-aluminium/industries/building/aluminium-door-systems/">Aluminum Door
+                                    Systems</a></li>
+<li class="m-8d20a"><a data-cms-id="text-374" href="/metline-aluminium/industries/building/aluminium-storefronts-system/">Aluminum
+                                    Storefront Systems</a></li>
+<li class="m-8d20a"><a data-cms-id="text-376" href="/metline-aluminium/industries/building/aluminium-curtain-wall-system/">Aluminum
+                                    Curtain Wall Systems</a></li>
+<li class="m-8d20a"><a data-cms-id="text-378" href="/metline-aluminium/industries/building/outdoor-aluminium-solutions/">Aluminum
+                                    Outdoor Living Systems</a></li>
+<li class="m-8d20a"><a data-cms-id="text-380" href="/metline-aluminium/industries/building/aluminium-sunshade-system/">Aluminum
+                                    Sunshade Systems</a></li>
+<li class="m-8d20a"><a data-cms-id="text-382" href="/metline-aluminium/industries/building/aluminium-facade-system/">Aluminum
+                                    Facade Systems</a></li>
+<li class="m-8d20a"><a data-cms-id="text-384" href="/metline-aluminium/industries/building/aluminium-fence-railing-system/">Aluminum
+                                    Railing &amp; Fencing Systems</a></li>
+<li class="m-8d20a"><a data-cms-id="text-386" href="/metline-aluminium/industries/building/aluminium-cladding-panel/">Aluminum
+                                    Cladding Panels</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-388" href="/metline-aluminium/industries/automotive/">Automotive Aluminum</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-389">Key Applications</li>
+<li class="m-8d20a"><a data-cms-id="text-391" href="/metline-aluminium/industries/automotive/auto-power-structural-forging/">Automotive
+                                    Power System Forgings</a></li>
+<li class="m-8d20a"><a data-cms-id="text-393" href="/metline-aluminium/industries/automotive/6082-auto-forging/">6082 Aluminum Forging for
+                                    Automotive</a></li>
+<li class="m-8d20a"><a data-cms-id="text-395" href="/metline-aluminium/industries/automotive/6061-auto-profile/">6061 Automotive Aluminum
+                                    Profile</a></li>
+<li class="m-8d20a"><a data-cms-id="text-397" href="/metline-aluminium/industries/automotive/6005-auto-profile/">6005A Automotive Aluminum
+                                    Profile</a></li>
+<li class="m-8d20a"><a data-cms-id="text-399" href="/metline-aluminium/industries/automotive/5182-body-sheet/">5182
+                                    Automotive Body Sheet</a></li>
+<li class="m-8d20a"><a data-cms-id="text-401" href="/metline-aluminium/industries/automotive/6111-body-sheet/">6111
+                                    Automotive Body Sheet</a></li>
+<li class="m-8d20a"><a data-cms-id="text-403" href="/metline-aluminium/industries/automotive/1050-embossed-sheet/">Embossed Aluminum Heat
+                                    Shields</a></li>
+<li class="m-8d20a"><a data-cms-id="text-405" href="/metline-aluminium/industries/automotive/auto-micro-channel/">Automotive Microchannel
+                                    Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-407" href="/metline-aluminium/industries/automotive/auto-brazed-coil/">Automotive Brazing Clad
+                                    Aluminum Coil</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-409" href="/metline-aluminium/industries/aerospace/">Aerospace Aluminum</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-410">Key Applications</li>
+<li class="m-8d20a"><a data-cms-id="text-412" href="/metline-aluminium/industries/aerospace/aerospace-forging/">Aerospace Aluminum
+                                    Forging</a></li>
+<li class="m-8d20a"><a data-cms-id="text-414" href="/metline-aluminium/industries/aerospace/aircraft-extrusion/">Aerospace
+                                    Aluminum Profile</a></li>
+<li class="m-8d20a"><a data-cms-id="text-416" href="/metline-aluminium/guides/aircraft-structures-aluminium/">Aircraft Structures
+                                    Aluminum</a></li>
+<li class="m-8d20a"><a data-cms-id="text-418" href="/metline-aluminium/industries/aerospace/2024-aircraft-aluminium-sheet/">2024 Aerospace
+                                    Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-420" href="/metline-aluminium/industries/aerospace/2219-aerospace-aluminium-plate/">2219
+                                    Aerospace Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-422" href="/metline-aluminium/industries/aerospace/2024-aerospace-aluminu-tube/">2024 Aircraft
+                                    Aluminum Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-424" href="/metline-aluminium/industries/aerospace/6061-aircraft-aluminium-tube/">6061 Aircraft
+                                    Aluminum Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-426" href="/metline-aluminium/industries/aerospace/7050-aerospace-aluminium-rod-bar/">7050
+                                    Aerospace Aluminum Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-428" href="/metline-aluminium/industries/aerospace/5052-foil/">5052
+                                    Aerospace Aluminum Foil</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-430" href="/metline-aluminium/industries/marine/">Marine Aluminum</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-431">Key Applications</li>
+
+<li class="m-8d20a"><a data-cms-id="text-433" href="/metline-aluminium/guides/marine-aluminium-plate/">Marine Grade
+                                    Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-435" href="/metline-aluminium/industries/marine/5083-marine-plate/">5083
+                                    Marine Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-437" href="/metline-aluminium/industries/marine/5a30-marine-plate/">5456
+                                    Marine Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-439" href="/metline-aluminium/industries/marine/5059-marine-plate/">5059
+                                    Marine Aluminum Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-441" href="/metline-aluminium/industries/marine/5083-marine-round-bar/">5083 Marine Aluminum
+                                    Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-443" href="/metline-aluminium/industries/marine/6061-marine-square-bar/">6061 Marine Aluminum
+                                    Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-445" href="/metline-aluminium/industries/marine/aluminium-steel-transition-joint/">Structural
+                                    Transition Joint</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-447" href="/metline-aluminium/industries/military/">Military &amp; Defense</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-448">Key Applications</li>
+<li class="m-8d20a"><a data-cms-id="text-450" href="/metline-aluminium/industries/military/7039-armored-vehicle-sheet/">7039 Aluminum
+                                    Armor Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-452" href="/metline-aluminium/industries/military/7085-armored-vehicle-sheet/">7085 Aluminum
+                                    Armor Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-454" href="/metline-aluminium/industries/military/5083-armored-vehicle-sheet/">5083 Aluminum
+                                    Armor Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-456" href="/metline-aluminium/industries/military/composite-armor-plate/">5-Ply Aluminum Armor
+                                    Plate</a></li>
+<li class="m-8d20a"><a data-cms-id="text-458" href="/metline-aluminium/industries/military/military-defense-forging/">Military
+                                    Defense Forging</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-462" href="/metline-aluminium/industries/electrical/">Electrical Power</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-463">Key Applications</li>
+<li class="m-8d20a"><a data-cms-id="text-465" href="/metline-aluminium/industries/electrical/intermediate-strength-wire/">AAC, AAAC ACSR
+                                    Overhead Conductors</a></li>
+<li class="m-8d20a"><a data-cms-id="text-467" href="/metline-aluminium/industries/electrical/heat-resistant-wire/">Heat-Resistant Aluminum
+                                    Wire</a></li>
+<li class="m-8d20a"><a data-cms-id="text-469" href="/metline-aluminium/industries/electrical/8017-wire-rod/">8017 /
+                                    8030 / 8076 Cable Conductor Rod</a></li>
+<li class="m-8d20a"><a data-cms-id="text-471" href="/metline-aluminium/industries/electrical/electrical-terminal/">Electrical
+                                    Terminals Connectors</a></li>
+<li class="m-8d20a"><a data-cms-id="text-473" href="/metline-aluminium/industries/electrical/battery-bus-bar/">Battery Bus Bar
+                                    Solution</a></li>
+<li class="m-8d20a"><a data-cms-id="text-475" href="/metline-aluminium/industries/electrical/electric-traction-wire/">Trolley Contact
+                                    Wires for Electric Traction</a></li>
+</ul>
+</li>
+</ul>
+<ul class="m-3c994">
+<li>
+<a href="/metline-aluminium/industries/aerospace/aircraft-extrusion/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-28" data-demo-src="/metline-aluminium/verified/images/industry-aerospace-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/industry-aerospace-600.webp" width="225"/></a>
+<a data-cms-id="text-478" href="/metline-aluminium/industries/aerospace/aircraft-extrusion/">Aircraft Extrusion</a>
+</li>
+<li>
+<a href="/metline-aluminium/industries/military/5083-armored-vehicle-sheet/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-29" data-demo-src="/metline-aluminium/verified/images/industry-automotive-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/industry-automotive-600.webp" width="225"/></a>
+<a data-cms-id="text-481" href="/metline-aluminium/industries/military/5083-armored-vehicle-sheet/">5083 Aluminium Armor
+                            Plate</a>
+</li>
+<li>
+<a href="/metline-aluminium/industries/electrical/battery-bus-bar/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-30" data-demo-src="/metline-aluminium/verified/images/industry-electrical-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/industry-electrical-600.webp" width="225"/></a>
+<a data-cms-id="text-484" href="/metline-aluminium/industries/electrical/battery-bus-bar/">Battery Bus Bar Solution</a>
+</li>
+<li>
+<a href="/metline-aluminium/industries/automotive/auto-micro-channel/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-31" data-demo-src="/metline-aluminium/verified/images/industry-automotive-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/industry-automotive-600.webp" width="225"/></a>
+<a data-cms-id="text-487" href="/metline-aluminium/industries/automotive/auto-micro-channel/">Micro Channel</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="m-bb6cb" data-value="m-b0b91" id="m-86b38">
+<div>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-488">Featured Materials</li>
+<li class="m-ae851">
+<a class="m-d5b36" data-cms-id="text-490" href="/metline-aluminium/insights/aluminium-heat-transfer-solution/">Heat Transfer
+                            Aluminum Materials</a>
+<ul class="m-fc733">
+<li class="m-9e5c5" data-cms-id="text-491">Key Materials</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/plate-stock-600.webp"><a data-cms-id="text-493" href="/metline-aluminium/guides/aluminium-brazing-sheet/">Aluminum Brazing Sheet Coil</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-495" href="/metline-aluminium/guides/aluminium-brazing-foil/">Brazing Aluminum Foil</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/tube-stock-600.webp"><a data-cms-id="text-497" href="/metline-aluminium/guides/high-frequency-welded-aluminium-pipe/">HFW Aluminum
+                                    Tube</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/tube-stock-600.webp"><a data-cms-id="text-499" href="/metline-aluminium/guides/aluminium-condenser-header-pipe/">Condenser Header Pipe</a>
+</li>
+<li class="m-8d20a"><a data-cms-id="text-501" href="/metline-aluminium/guides/aluminium-microchannel-tube/">Microchannel Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-503" href="/metline-aluminium/guides/inner-grooved-tube/">Inner Grooved
+                                    Tube</a></li>
+<li class="m-8d20a"><a data-cms-id="text-505" href="/metline-aluminium/guides/aluminium-tube-coil/">Aluminum Tube
+                                    Coil</a></li>
+<li class="m-8d20a"><a data-cms-id="text-507" href="/metline-aluminium/guides/heat-exchanger-aluminium-tube/">Aluminum
+                                    Tubes for Heat Exchangers</a></li>
+<li class="m-8d20a"><a data-cms-id="text-509" href="/metline-aluminium/guides/air-conditioner-foil/">Air Conditioner
+                                    Aluminum Foil</a></li>
+<li class="m-8d20a"><a data-cms-id="text-511" href="/metline-aluminium/guides/aluminium-fin-stock/">Aluminum Fin Stock</a>
+</li>
+<li class="m-8d20a"><a data-cms-id="text-513" href="/metline-aluminium/guides/aluminium-finned-tube/">Aluminum Finned
+                                    Tube</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-515" href="/metline-aluminium/guides/application-field-of-foam-aluminium/">Aluminum Foam Materials</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-516">Key Materials</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-518" href="/metline-aluminium/guides/application-field-of-foam-aluminium/">Foam Aluminium Complete
+                                    Guide</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-520" href="/metline-aluminium/guides/construction-foam-aluminium/">Construction Foam Aluminum</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-522" href="/metline-aluminium/guides/aluminium-foam-for-automotive/">Automotive Aluminum Foam</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-524" href="/metline-aluminium/guides/sandwich-panel/">Aluminum Foam Sandwich Panel</a></li>
+
+<li class="m-8d20a"><a data-cms-id="text-526" href="/metline-aluminium/guides/aluminium-foam-panel-sound-absorption/">Aluminum Foam for
+                                    Sound Absorption</a></li>
+<li class="m-8d20a">
+<a data-cms-id="text-528" href="/metline-aluminium/guides/porous-foam-sheet-plate/">Porous Aluminum Foam Sheet &amp; Plate</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-530" href="/metline-aluminium/guides/foam-aluminium-noise-barrier/">Foam Aluminum Noise Barrier</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-532" href="/metline-aluminium/guides/foam-aluminium-for-maritime/">Marine Aluminum Foam</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-534" href="/metline-aluminium/guides/nuclear-grade-foam-aluminium/">Nuclear-Grade Aluminum Foam</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-536" href="/metline-aluminium/guides/military-grade-foam-aluminium/">Military-Grade Aluminum Foam</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-538" href="/metline-aluminium/guides/aluminium-foam-panel-door/">Aluminum Foam Door Panel</a>
+</li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-540" href="/metline-aluminium/guides/aluminium-honeycomb-core/">Honeycomb &amp; Lightweight Materials</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-541">Key Materials</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-543" href="/metline-aluminium/guides/aluminium-honeycomb-core/">Aluminum Honeycomb Core</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-545" href="/metline-aluminium/guides/aluminium-honeycomb-plate/">Aluminum Honeycomb Panel</a></li>
+<li class="m-8d20a"><a data-cms-id="text-553" href="/metline-aluminium/guides/carbon-fiber-honeycomb-panel/">Carbon Fiber Honeycomb
+                                    Panels</a></li>
+<li class="m-8d20a"><a data-cms-id="text-555" href="/metline-aluminium/guides/aircraft-honeycomb-aluminium/">Aircraft Honeycomb Core
+                                    Panels</a></li>
+<li class="m-8d20a"><a data-cms-id="text-557" href="/metline-aluminium/guides/brazed-aluminium-honeycomb-panel/">Brazed
+                                    Aluminum Honeycomb Panel</a></li>
+<li class="m-8d20a">
+<a data-cms-id="text-561" href="/metline-aluminium/guides/honeycomb-core-for-energy-absorption/">Energy-Absorbing
+                                    Honeycomb Core</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-563" href="/metline-aluminium/guides/fiberglass-honeycomb-panel/">Fiberglass Honeycomb Panel</a>
+</li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-565" href="/metline-aluminium/guides/gost-ost-aluminium-alloy-supplier/">Russian GOST / OST Custom
+                            Alloys</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-566">Key Materials</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-568" href="/metline-aluminium/guides/Д19ч-aluminium-alloy/">Д19ч / D19ch Aluminum Alloy</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-570" href="/metline-aluminium/guides/1420-aluminium-alloy/">1420 Aluminum Alloy</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-572" href="/metline-aluminium/guides/b93-aluminium-alloy-gost/">В93 / V93 Aluminum Alloy</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-574" href="/metline-aluminium/guides/1920-aluminium-alloy-gost/">1920 Aluminum Alloy</a>
+</li>
+<li class="m-8d20a"><a data-cms-id="text-576" href="/metline-aluminium/guides/1980-aluminium-alloy-gost/">1980 /
+                                    V48-4 Aluminum Alloy</a></li>
+<li class="m-8d20a"><a data-cms-id="text-578" href="/metline-aluminium/guides/1985ч-aluminium-alloy/">1985ч
+                                    Aluminum Alloy</a></li>
+<li class="m-8d20a"><a data-cms-id="text-580" href="/metline-aluminium/guides/Сил1С-aluminium-alloy-gost/">Сил1С
+                                    Aluminum Alloy</a></li>
+<li class="m-8d20a"><a data-cms-id="text-582" href="/metline-aluminium/guides/Сил2С-aluminium-alloy/">Сил2С
+                                    Aluminum Alloy</a></li>
+<li class="m-8d20a"><a data-cms-id="text-584" href="/metline-aluminium/guides/akm-aluminium-alloy/">AKM Aluminum
+                                    Alloy</a></li>
+<li class="m-8d20a">
+<a data-cms-id="text-586" href="/metline-aluminium/guides/1105-aluminium-alloy-gost/">1105 Aluminum Alloy</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-588" href="/metline-aluminium/guides/1163-aluminium-alloy-ГОСТ/">1163 / 1163T Aluminum Alloy</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-590" href="/metline-aluminium/guides/1901-aluminium-alloy-gost/">1901 / ABT-101 Aluminum
+                                    Alloy</a>
+</li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-592" href="/metline-aluminium/guides/semiconductor-bonding-materials-supplier/">Semiconductor
+                            Interconnect Materials</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-593">Key Materials</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-595" href="/metline-aluminium/guides/aluminium-bonding-wire/">Aluminum Bonding Wire</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-597" href="/metline-aluminium/guides/aluminium-bonding-ribbon/">Aluminum Bonding Ribbon</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-601" href="/metline-aluminium/guides/bonding-ribbon-for-semiconductor-packaging/">Copper Bonding
+                                    Ribbon</a></li>
+<li class="m-8d20a"><a data-cms-id="text-607" href="/metline-aluminium/guides/semiconductor-bonding-wire/">Semiconductor Bonding
+                                    Wire</a></li>
+<li class="m-8d20a"><a data-cms-id="text-609" href="/metline-aluminium/guides/semiconductor-sputtering-target-materials/">Semiconductor
+                                    Sputtering Targets</a></li>
+<li class="m-8d20a"><a data-cms-id="text-611" href="/metline-aluminium/guides/power-semiconductor-bonding-wire-ribbon/">Power
+                                    Semiconductor Bonding Wire &amp; Ribbon</a></li>
+<li class="m-8d20a"><a data-cms-id="text-615" href="/metline-aluminium/guides/bonding-wire-for-led-packaging/">LED Packaging Bonding
+                                    Wire</a></li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-619" href="/metline-aluminium/industries/electrical/">Conductive &amp; Power Materials</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-620">Key Materials</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-622" href="/metline-aluminium/guides/electrical-aluminium-bus-pipe/">Electrical Aluminum Tubular Bus
+                                    Pipe</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-624" href="/metline-aluminium/industries/electrical/power-busbar-solutions/">Electrical
+                                    Aluminum Bus Bar</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-626" href="/metline-aluminium/guides/copper-clad-aluminium/">Copper-Clad EC Aluminum Bus Bar</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-628" href="/metline-aluminium/industries/electrical/copper-clad-wire/">Copper Clad Aluminum CCA
+                                    Wire</a></li>
+<li class="m-8d20a"><a data-cms-id="text-630" href="/metline-aluminium/guides/lithium-ion-battery-foil/">Aluminum Foil for
+                                    Lithium-Ion Battery</a></li>
+<li class="m-8d20a"><a data-cms-id="text-632" href="/metline-aluminium/guides/carbon-coated-aluminium-foil/">Carbon Coated
+                                    Aluminum Foil</a></li>
+<li class="m-8d20a"><a data-cms-id="text-634" href="/metline-aluminium/guides/aluminium-foil-transformer-winding/">Aluminum
+                                    Foil for Transformers</a></li>
+<li class="m-8d20a"><a data-cms-id="text-636" href="/metline-aluminium/guides/aluminium-winding-wire/">Copper,
+                                    Aluminum CCA Winding Wire</a></li>
+<li class="m-8d20a"><a data-cms-id="text-640" href="/metline-aluminium/industries/electrical/polyester-enamelled-round-wire/">Enamelled
+                                    Aluminum Wire</a></li>
+<li class="m-8d20a">
+<a data-cms-id="text-642" href="/metline-aluminium/guides/laminated-busbar/">Laminated Bus Bar</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-644" href="/metline-aluminium/industries/electrical/battery-bus-bar/">Battery &amp; Energy
+                                    Storage Bus Bar</a>
+</li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-646" href="/metline-aluminium/guides/aluminium-for-anodizing-solutions/">High-End Anodized Aluminum</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-647">Key Materials</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-649" href="/metline-aluminium/guides/aluminium-for-anodized-appearance-parts/">Aluminum for
+                                    Anodized Appearance Parts</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-651" href="/metline-aluminium/guides/high-strength-anodized-aluminium/">High-Strength Anodized
+                                    Aluminum</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp">
+<a data-cms-id="text-653" href="/metline-aluminium/guides/anodized-aluminium-coil/">Pre-Anodized Aluminum Coil</a>
+</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-655" href="/metline-aluminium/guides/anodized-aluminium-sheet/">Anodized Aluminum Sheet</a></li>
+<li class="m-8d20a"><a data-cms-id="text-657" href="/metline-aluminium/guides/anti-fouling-anodized-aluminium-sheet/">Anti-Fouling
+                                    Self-Cleaning Anodized Aluminum</a></li>
+<li class="m-8d20a"><a data-cms-id="text-659" href="/metline-aluminium/guides/high-adhesive-aluminium/">High-Adhesion Anodized
+                                    Aluminum</a></li>
+<li class="m-8d20a"><a data-cms-id="text-661" href="/metline-aluminium/guides/antimicrobial-anodized-aluminium/">Antimicrobial Anodized
+                                    Aluminum</a></li>
+<li class="m-8d20a">
+<a data-cms-id="text-663" href="/metline-aluminium/guides/aluminium-for-anodizing-solutions/">Aluminum for Anodizing
+                                    Solutions</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-665" href="/metline-aluminium/guides/anodized-aluminium-extrusions/">Anodized Aluminum
+                                    Profiles</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-667" href="/metline-aluminium/guides/anodized-aluminium-tubing/">Anodized Aluminum Tubing</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-669" href="/metline-aluminium/guides/anodized-aluminium-wire/">Anodized Aluminum Wire</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-671" href="/metline-aluminium/insights/black-anodized-aluminium/">Type II/III Black Anodized Aluminum</a>
+</li>
+</ul>
+</li>
+<li class="m-ae851">
+<a data-cms-id="text-673" href="/metline-aluminium/guides/large-aluminium-products/">Large-Size Aluminum Materials</a>
+<ul>
+<li class="m-9e5c5" data-cms-id="text-674">Key Materials</li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-676" href="/metline-aluminium/guides/ultra-thick-aluminium-plate/">Ultra-Thick Aluminum Plate</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-678" href="/metline-aluminium/guides/ultra-wide-aluminium-plate-coil/">Ultra-Wide Aluminum Sheet /
+                                    Coil</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-680" href="/metline-aluminium/guides/large-diameter-tube-pipe/">Large Diameter Aluminum Pipe</a></li>
+<li class="m-8d20a" data-featured-image="/metline-aluminium/verified/images/coil-stock-600.webp"><a data-cms-id="text-682" href="/metline-aluminium/guides/large-diameter-aluminium-bar/">Large Diameter Billet Bar</a></li>
+<li class="m-8d20a"><a data-cms-id="text-684" href="/metline-aluminium/guides/rolled-ring-forging/">Large Aluminum Rolled
+                                    Ring Forging</a></li>
+<li class="m-8d20a"><a data-cms-id="text-686" href="/metline-aluminium/guides/large-aluminium-extrusions/">Large Custom
+                                    Aluminum Extrusions</a></li>
+<li class="m-8d20a">
+<a data-cms-id="text-688" href="/metline-aluminium/guides/extra-large-seamless-aluminium-tube/">Extra-Large Seamless Aluminum
+                                    Tube</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-690" href="/metline-aluminium/guides/large-diameter-square-tube/">Giant Aluminum Square Tube</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-692" href="/metline-aluminium/guides/high-precision-large-tube/">High-Precision Large Aluminum Tube</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-694" href="/metline-aluminium/guides/ultra-large-size-forgings/">Custom Ultra-Large Aluminum
+                                    Forgings</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-696" href="/metline-aluminium/guides/large-plate-cut-aluminium-busbar/">Large Plate-Cut Aluminum
+                                    Busbar</a>
+</li>
+<li class="m-8d20a">
+<a data-cms-id="text-698" href="/metline-aluminium/guides/500-1000-large-tube/">Φ500–1000 mm Large Aluminum Pipe</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="m-3c994">
+<li>
+<a href="/metline-aluminium/guides/aluminium-brazing-sheet/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-32" data-demo-src="/metline-aluminium/verified/images/coil-stock-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/coil-stock-600.webp" width="225"/></a>
+<a data-cms-id="text-701" href="/metline-aluminium/guides/aluminium-brazing-sheet/">Aluminum Brazing Sheet / Coil</a>
+</li>
+<li>
+<a href="/metline-aluminium/guides/aluminium-brazing-foil/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-33" data-demo-src="/metline-aluminium/verified/images/sheet-stock-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/sheet-stock-600.webp" width="225"/></a>
+<a data-cms-id="text-704" href="/metline-aluminium/guides/aluminium-brazing-foil/">Brazing Aluminum Foil</a>
+</li>
+<li>
+<a href="/metline-aluminium/guides/high-frequency-welded-aluminium-pipe/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-34" data-demo-src="/metline-aluminium/verified/images/tube-stock-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/tube-stock-600.webp" width="225"/></a>
+<a data-cms-id="text-707" href="/metline-aluminium/guides/high-frequency-welded-aluminium-pipe/">HFW Aluminum Pipe</a>
+</li>
+<li>
+<a href="/metline-aluminium/guides/aluminium-condenser-header-pipe/"><img alt="ISO 286-2 Fit and Tolerance Calculator for Shafts and Holes" data-cms-id="image-35" data-demo-src="/metline-aluminium/verified/images/tube-stock-600.webp" data-height="148" data-width="225" decoding="async" height="148" loading="lazy" src="/metline-aluminium/verified/images/tube-stock-600.webp" width="225"/></a>
+<a data-cms-id="text-710" href="/metline-aluminium/guides/aluminium-condenser-header-pipe/">Condenser Header Pipe</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<footer class="footer site-footer">
+<div class="wrap">
+<div class="sf-top">
+<div class="sf-brand">
+<a class="sf-logo" href="/metline-aluminium/"><img alt="Metline Industries" data-cms-id="image-55" height="58" src="/metline-aluminium/brand/metline-logo.png" data-cms-override="true" width="364"/></a>
+<p>One partner for every aluminium grade, form and sector. Sheet, plate, coil, tube, bar and extrusions supplied to specification.</p>
+<a class="sf-cta" href="/metline-aluminium/contact/" rel="nofollow">Request a quote</a>
+</div>
+<nav class="sf-col" aria-label="Products">
+<h3>Products</h3>
+<a href="/metline-aluminium/aluminium-coil-strip/">Coil &amp; Strip</a>
+<a href="/metline-aluminium/aluminium-plate/">Plate</a>
+<a href="/metline-aluminium/aluminium-tube/">Tube</a>
+<a href="/metline-aluminium/aluminium-flat-bar/">Flat Bar</a>
+<a href="/metline-aluminium/aluminium-profile/">Profiles</a>
+<a href="/metline-aluminium/aluminium-forms/aluminium-honeycomb/">Honeycomb</a>
+</nav>
+<nav class="sf-col" aria-label="Company">
+<h3>Company</h3>
+<a href="/metline-aluminium/about/">About</a>
+<a href="/metline-aluminium/industries/">Industries</a>
+<a href="/metline-aluminium/resources/">Resources</a>
+<a href="/metline-aluminium/insights/">Blog</a>
+</nav>
+<div class="sf-col sf-contact">
+<h3>Get in touch</h3>
+<a href="mailto:sales@metline.in">sales@metline.in</a>
+<a href="tel:+919967731666">+91 99677 31666</a>
+<a href="tel:+919892451458">+91 98924 51458</a>
+<a href="tel:+919833604219">+91 98336 04219</a>
+<address>83 Dr. Maheshwari Road, Chinch Bunder, BIT Chawl No. 7, Godown No. 1, Near Sandhurst Road Railway Station, Mumbai, Maharashtra 400009</address>
+<a data-cms-id="text-631" href="/metline-aluminium/contact/">Send an enquiry &rarr;</a>
+</div>
+</div>
+<div class="sf-bottom">
+<p data-cms-id="text-634">&copy; 2026 Metline Industries. All rights reserved.</p>
+<div class="sf-legal">
+<a data-cms-id="text-633" href="/metline-aluminium/privacy.html">Privacy Policy</a>
+<a data-cms-id="text-632" href="/metline-aluminium/sitemap/">Site Map</a>
+</div>
+</div>
+</div>
+</footer>
+<aside class="m-60a69">
+<ul class="clearfix">
+<li><a data-cms-id="text-720" href="mailto:sales@metline.in" id="m-e88db">E-mail</a></li>
+<li><a data-cms-id="text-722" href="tel:+919967731666" id="m-63c62">Call us</a></li>
+</ul>
+</aside>
+<script src="/metline-aluminium/js/jquery-3.5.1.min.js"></script><script src="/metline-aluminium/js/swiper.min.js"></script><script src="/metline-aluminium/framework/navigation.js"></script><script src="/metline-aluminium/framework/industries.js"></script><script src="/metline-aluminium/framework/client.js"></script></body>
+</html>

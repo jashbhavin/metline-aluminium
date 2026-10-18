@@ -1,0 +1,71 @@
+{
+  "id": "6101",
+  "family": "6000",
+  "summary": "A heat-treatable electrical extrusion alloy for bus conductors. Temper selection balances strength, bending behaviour and conductivity.",
+  "forms": [
+    "Busbar",
+    "Extruded profiles",
+    "Rod and bar",
+    "Tube and pipe"
+  ],
+  "tempers": [
+    "F",
+    "T6",
+    "T61",
+    "T63",
+    "T64",
+    "T65"
+  ],
+  "applications": [
+    "Electrical conductors",
+    "Power transmission"
+  ],
+  "guidance": "Specify electrical conductivity as well as strength. T61, T63 and T64 have alloy-specific processing objectives. Check joint design and operating temperature independently of a simple resistance calculation.",
+  "sources": [
+    "hydro6101"
+  ],
+  "properties": [
+    {
+      "name": "Electrical conductivity",
+      "value": 55,
+      "unit": "% IACS",
+      "temper": "T6",
+      "form": "Extrusion",
+      "condition": "20 °C; section 3.20–12.50 mm",
+      "source": "hydro6101",
+      "kind": "source-minimum",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "name": "Thermal conductivity",
+      "value": 218,
+      "unit": "W/(m·K)",
+      "temper": "T6",
+      "form": "Extrusion",
+      "condition": "25 °C",
+      "source": "hydro6101",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T6",
+      "form": "Extrusion",
+      "thickness": "3.20–12.50 mm",
+      "ultimate": 200,
+      "yield": 170,
+      "unit": "MPa",
+      "kind": "source-minimum",
+      "source": "hydro6101",
+      "verification": "single-source",
+      "condition": "Supplier reference; thickness of tensile specimen section; not a certificate or design allowable",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

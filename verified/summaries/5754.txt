@@ -1,0 +1,11 @@
+5754 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+An aluminium alloy referenced in H111 sheet and treadplate contexts. Patterned material requires geometry-specific mass information.
+
+The cited strength row is for sheet, not a universal patterned-plate section. For treadplate mass, specify base thickness and obtain supplier area or measured mass; raised patterns are not captured by a plain-sheet tool.
+
+Density: 2660 kg/m³; Not specified; Sheet; Temperature not specified; supplier indicative reference; typical; single-source; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-5754-H111-Treadplate_142.ashx
+
+H111 Sheet: 0.2–6.00 mm; BS EN 485-2:2008 cited by supplier; tensile 160–200 MPa; yield 60 MPa; indicative-range; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-5754-H111-Treadplate_142.ashx
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

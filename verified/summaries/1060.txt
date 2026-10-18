@@ -1,0 +1,11 @@
+1060 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A commercially pure aluminium designation with 99.6% minimum aluminium in the cited reference. Product-specific condition is essential when interpreting its properties.
+
+High-purity material is referenced for handling equipment and containers. Suitability for food or pharmaceutical use still requires assessment of the complete product and its surface condition.
+
+Density: 0.0975 lb/in³; Not specified; Extrusion; Temperature not specified; typical; single-source; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_1xxx.pdf
+
+H112 Extrusion: All thicknesses in cited supplier table; tensile 60 MPa; yield 15 MPa; source-minimum; https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_1xxx.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

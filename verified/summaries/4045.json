@@ -1,0 +1,32 @@
+{
+  "id": "4045",
+  "family": "4000",
+  "summary": "An aluminium-silicon braze-cladding option listed by Gränges for controlled-atmosphere brazing of rolled heat-exchanger products.",
+  "forms": [
+    "Braze cladding on rolled products"
+  ],
+  "tempers": [],
+  "applications": [
+    "Brazed heat exchangers"
+  ],
+  "guidance": "Treat this as a clad-layer material, with core alloy, layer ratio and brazing cycle specified separately. The brochure lists iron variants and permits zinc modification; this entry retains only the shared silicon interval.",
+  "sources": [
+    "granges-braze2022"
+  ],
+  "properties": [],
+  "mechanical": [],
+  "chemistry": [
+    {
+      "element": "Si",
+      "min": 9,
+      "max": 11,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "granges-braze2022",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected clad-layer chemistry only; no clad temper, standalone mechanical data or complete composition established."
+}

@@ -1,0 +1,14 @@
+6060 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+An extrusion grade selected for visible architectural profiles and heat sinks, with decorative anodizing response and strength below 6063 in Hydro’s comparison.
+
+Specify wall thickness and temper together. Hydro applies the lowest applicable mechanical requirement to a profile containing multiple thickness bands; T64 is identified as bending quality.
+
+Thermal conductivity: 200 W/(m·K); T6; Extruded products; 20 °C; typical reference property; typical; single-source; https://www.hydro.com/globalassets/08-about-hydro/hydro-worldwide/austria/nenzing/alloy-data-sheets/hydro-en-aw-6060.pdf
+
+T4 Extruded profile: ≤25 mm; tensile 120 MPa; yield 60 MPa; source-minimum; https://www.hydro.com/globalassets/08-about-hydro/hydro-worldwide/austria/nenzing/alloy-data-sheets/hydro-en-aw-6060.pdf
+T6 Extruded profile: ≤5 mm; tensile 190 MPa; yield 150 MPa; source-minimum; https://www.hydro.com/globalassets/08-about-hydro/hydro-worldwide/austria/nenzing/alloy-data-sheets/hydro-en-aw-6060.pdf
+T6 Extruded profile: >5–25 mm; tensile 170 MPa; yield 140 MPa; source-minimum; https://www.hydro.com/globalassets/08-about-hydro/hydro-worldwide/austria/nenzing/alloy-data-sheets/hydro-en-aw-6060.pdf
+T66 Extruded profile: ≤5 mm; tensile 215 MPa; yield 160 MPa; source-minimum; https://www.hydro.com/globalassets/08-about-hydro/hydro-worldwide/austria/nenzing/alloy-data-sheets/hydro-en-aw-6060.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

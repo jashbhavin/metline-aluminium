@@ -1,0 +1,12 @@
+2011 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A free-machining aluminium rod and bar alloy referenced in T3 and T8 conditions. Machining benefits do not establish suitability for welded assemblies.
+
+The supplier cautions against most welding methods. Review corrosion exposure and the complete chemistry against end-use substance requirements; do not copy a historical product compliance statement as a guarantee for all 2011 stock.
+
+
+
+T3 Rod and bar: 0.500 inch diameter tensile specimen; thickness unspecified; tensile 379 MPa; yield 296 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1021/Kaiser_Aluminum_Alloy_2011_Hard_Alloy_Rod_and_Bar_Technical_Data.pdf
+T8 Rod and bar: 0.500 inch diameter tensile specimen; thickness unspecified; tensile 407 MPa; yield 310 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1021/Kaiser_Aluminum_Alloy_2011_Hard_Alloy_Rod_and_Bar_Technical_Data.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

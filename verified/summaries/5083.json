@@ -1,0 +1,37 @@
+{
+  "id": "5083",
+  "family": "5000",
+  "summary": "A non-heat-treatable magnesium alloy referenced for marine sheet and plate. Exact temper, section and service requirements govern acceptance.",
+  "forms": [
+    "Sheet"
+  ],
+  "tempers": [
+    "O",
+    "H111"
+  ],
+  "applications": [],
+  "guidance": "The supplier density field is malformed and remains withheld. Marine selection must consider the approved material specification and fabricated condition; the alloy name alone does not establish vessel qualification.",
+  "sources": [
+    "aalco5083"
+  ],
+  "properties": [],
+  "mechanical": [
+    {
+      "temper": "O / H111",
+      "form": "Sheet",
+      "thickness": "0.2–6.3 mm; BS EN 485-2:2008 cited by supplier",
+      "ultimate": 275,
+      "ultimateMax": 350,
+      "yield": 125,
+      "unit": "MPa",
+      "kind": "indicative-range",
+      "source": "aalco5083",
+      "verification": "single-source",
+      "condition": "Supplier cites historic EN edition; not an authorized standard table or certification",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected indicative supplier facts; critical specification values require independent confirmation"
+}

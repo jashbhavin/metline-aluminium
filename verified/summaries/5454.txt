@@ -1,0 +1,11 @@
+5454 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+An aluminium sheet alloy referenced for transport and process-plant fabrication. The supplied condition must be matched to its dimensional range.
+
+Electrical data is withheld because the source labels a conductivity unit as resistivity. End-use performance, weld condition and the governing purchase specification require separate confirmation.
+
+Density: 2690 kg/m³; Not specified; Sheet; Temperature not specified; supplier indicative reference; typical; single-source; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-5454-O-and-H111-Sheet_238.ashx
+
+O / H111 Sheet: 0.2–6.0 mm; BS EN 485-2:2008 cited by supplier; tensile 215–275 MPa; yield 85 MPa; indicative-range; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-5454-O-and-H111-Sheet_238.ashx
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

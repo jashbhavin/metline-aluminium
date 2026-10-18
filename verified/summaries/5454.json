@@ -1,0 +1,50 @@
+{
+  "id": "5454",
+  "family": "5000",
+  "summary": "An aluminium sheet alloy referenced for transport and process-plant fabrication. The supplied condition must be matched to its dimensional range.",
+  "forms": [
+    "Sheet"
+  ],
+  "tempers": [
+    "O",
+    "H111"
+  ],
+  "applications": [],
+  "guidance": "Electrical data is withheld because the source labels a conductivity unit as resistivity. End-use performance, weld condition and the governing purchase specification require separate confirmation.",
+  "sources": [
+    "aalco5454"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2690,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Sheet",
+      "condition": "Temperature not specified; supplier indicative reference",
+      "source": "aalco5454",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "O / H111",
+      "form": "Sheet",
+      "thickness": "0.2–6.0 mm; BS EN 485-2:2008 cited by supplier",
+      "ultimate": 215,
+      "ultimateMax": 275,
+      "yield": 85,
+      "unit": "MPa",
+      "kind": "indicative-range",
+      "source": "aalco5454",
+      "verification": "single-source",
+      "condition": "Supplier cites historic EN edition; not an authorized standard table or certification",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected indicative supplier facts; critical specification values require independent confirmation"
+}

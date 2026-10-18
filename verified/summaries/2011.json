@@ -1,0 +1,49 @@
+{
+  "id": "2011",
+  "family": "2000",
+  "summary": "A free-machining aluminium rod and bar alloy referenced in T3 and T8 conditions. Machining benefits do not establish suitability for welded assemblies.",
+  "forms": [
+    "Rod and bar"
+  ],
+  "tempers": [
+    "T3",
+    "T8"
+  ],
+  "applications": [],
+  "guidance": "The supplier cautions against most welding methods. Review corrosion exposure and the complete chemistry against end-use substance requirements; do not copy a historical product compliance statement as a guarantee for all 2011 stock.",
+  "sources": [
+    "kaiser2011"
+  ],
+  "properties": [],
+  "mechanical": [
+    {
+      "temper": "T3",
+      "form": "Rod and bar",
+      "thickness": "0.500 inch diameter tensile specimen; thickness unspecified",
+      "ultimate": 379,
+      "yield": 296,
+      "source": "kaiser2011",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T8",
+      "form": "Rod and bar",
+      "thickness": "0.500 inch diameter tensile specimen; thickness unspecified",
+      "ultimate": 407,
+      "yield": 310,
+      "source": "kaiser2011",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

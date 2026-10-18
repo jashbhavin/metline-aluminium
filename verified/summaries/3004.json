@@ -1,0 +1,79 @@
+{
+  "id": "3004",
+  "family": "3000",
+  "summary": "A moderate-strength rolled alloy documented by Hulamin for roofing, cladding and signage, with mill, painted and embossed finishes.",
+  "forms": [
+    "Rolled products"
+  ],
+  "tempers": [
+    "H14",
+    "H32",
+    "H34",
+    "H42",
+    "H44",
+    "H46"
+  ],
+  "applications": [
+    "Roofing and cladding",
+    "Signage",
+    "General engineering"
+  ],
+  "guidance": "Select the finish and temper for the fabrication route. Hulamin identifies suitability for roll forming and coating; its strength table does not state a thickness band, so confirm the ordered gauge and certificate.",
+  "sources": [
+    "hulamin3004"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2.72,
+      "unit": "g/cm³",
+      "temper": "Not specified",
+      "form": "Rolled products",
+      "condition": "20 °C",
+      "kind": "source-reference",
+      "source": "hulamin3004",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "H14",
+      "form": "Rolled products",
+      "thickness": "Not stated in source mechanical table",
+      "ultimate": 220,
+      "ultimateMax": 265,
+      "unit": "MPa",
+      "kind": "source-minimum-and-range",
+      "condition": "Supplier reference: proof stress minimum and tensile range; no thickness or test-direction detail supplied",
+      "yield": 180,
+      "source": "hulamin3004",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [
+    {
+      "element": "Mn",
+      "min": 1,
+      "max": 1.5,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hulamin3004",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mg",
+      "min": 0.8,
+      "max": 1.3,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hulamin3004",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected rolled-product facts; single manufacturer source; thickness scope of mechanical table not stated."
+}

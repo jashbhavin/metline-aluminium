@@ -1,0 +1,12 @@
+7050 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+An aerospace structural aluminium alloy referenced in stress-relieved sheet, coil and plate conditions. Direction and specimen basis accompany its typical strength values.
+
+The displayed data is longitudinal and typical. It does not establish transverse allowables or part qualification. Melting range is withheld because the source Celsius and Fahrenheit lower limits disagree.
+
+Density: 2830 kg/m³; Not specified; Sheet, coil, plate; 20 °C; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1016/Kaiser_Aluminum_7050_Sheet_Coil_and_Plate.pdf
+
+T7651 Sheet, coil, plate: Longitudinal; 0.500 inch diameter specimen; thickness unspecified; tensile 552 MPa; yield 489 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1016/Kaiser_Aluminum_7050_Sheet_Coil_and_Plate.pdf
+T7451 Sheet, coil, plate: Longitudinal; 0.500 inch diameter specimen; thickness unspecified; tensile 524 MPa; yield 469 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1016/Kaiser_Aluminum_7050_Sheet_Coil_and_Plate.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

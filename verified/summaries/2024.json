@@ -1,0 +1,162 @@
+{
+  "id": "2024",
+  "family": "2000",
+  "summary": "A copper-containing aluminium alloy with published sheet, coil and plate reference data. Select a complete alloy, temper and product specification before comparing strength.",
+  "forms": [
+    "Sheet, coil and plate"
+  ],
+  "tempers": [
+    "O",
+    "T4",
+    "T351"
+  ],
+  "applications": [],
+  "guidance": "Compare exact material conditions. The typical T4/T351 value is not a guaranteed specification minimum. Evaluate corrosion protection and fabrication for the actual assembly; aerospace qualification requires approved material documentation.",
+  "sources": [
+    "kaiser2024"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2770,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Sheet, coil, plate",
+      "condition": "20 °C",
+      "source": "kaiser2024",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T4 / T351",
+      "form": "Sheet, coil, plate",
+      "thickness": "0.500 inch diameter tensile specimen; thickness unspecified",
+      "ultimate": 469,
+      "yield": 324,
+      "source": "kaiser2024",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [
+    {
+      "element": "Si",
+      "min": null,
+      "max": 0.5,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Fe",
+      "min": null,
+      "max": 0.5,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Cu",
+      "min": 3.8,
+      "max": 4.9,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mn",
+      "min": 0.3,
+      "max": 0.9,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mg",
+      "min": 1.2,
+      "max": 1.8,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Cr",
+      "min": null,
+      "max": 0.1,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Zn",
+      "min": null,
+      "max": 0.25,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Ti",
+      "min": null,
+      "max": 0.15,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Other each",
+      "min": null,
+      "max": 0.05,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Other total",
+      "min": null,
+      "max": 0.15,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "kaiser2024",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Al",
+      "min": null,
+      "max": null,
+      "remainder": true,
+      "source": "kaiser2024",
+      "unit": "wt %",
+      "kind": "remainder",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

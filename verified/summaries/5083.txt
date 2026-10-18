@@ -1,0 +1,11 @@
+5083 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A non-heat-treatable magnesium alloy referenced for marine sheet and plate. Exact temper, section and service requirements govern acceptance.
+
+The supplier density field is malformed and remains withheld. Marine selection must consider the approved material specification and fabricated condition; the alloy name alone does not establish vessel qualification.
+
+
+
+O / H111 Sheet: 0.2–6.3 mm; BS EN 485-2:2008 cited by supplier; tensile 275–350 MPa; yield 125 MPa; indicative-range; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-5083-0-H111-Sheet-and-Plate_149.ashx
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

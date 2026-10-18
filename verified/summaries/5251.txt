@@ -1,0 +1,11 @@
+5251 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A formable aluminium sheet and plate alloy referenced in the annealed condition. Cold-work conditions require their own property data.
+
+Only the O-condition strength row is imported. A heading elsewhere in the source names a different grade, so no additional temper compatibility is inferred from that section.
+
+Density: 2690 kg/m³; Not specified; Sheet and plate; Temperature not specified; supplier indicative reference; typical; single-source; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-5251-0-Sheet-and-Plate_141.ashx
+
+O Sheet and plate: 0.2–50.00 mm; BS EN 485-2:2008 cited by supplier; tensile 160–200 MPa; yield 60 MPa; indicative-range; https://www.aalco.co.uk/datasheets/Aluminium-Alloy-5251-0-Sheet-and-Plate_141.ashx
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

@@ -1,0 +1,12 @@
+7075 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A high-strength aluminium alloy with separate T6 and T73 family reference conditions. Rod and bar values must retain their form and test basis.
+
+The source distinguishes the corrosion response of T6 and T73 family tempers. A substitution needs assessment of strength, environment and fabrication. No exact equivalence to 2024 or other aerospace grades is asserted.
+
+Density: 2800 kg/m³; Not specified; Rod and bar; 20 °C; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1028/Kaiser_Aluminum_7075_Rod_and_Bar.pdf
+
+T6 / T651 Rod and bar: 0.500 inch diameter tensile specimen; material thickness unspecified; tensile 572 MPa; yield 503 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1028/Kaiser_Aluminum_7075_Rod_and_Bar.pdf
+T73 / T7351 Rod and bar: 0.500 inch diameter tensile specimen; material thickness unspecified; tensile 503 MPa; yield 434 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1028/Kaiser_Aluminum_7075_Rod_and_Bar.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

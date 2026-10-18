@@ -1,0 +1,11 @@
+3004 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A moderate-strength rolled alloy documented by Hulamin for roofing, cladding and signage, with mill, painted and embossed finishes.
+
+Select the finish and temper for the fabrication route. Hulamin identifies suitability for roll forming and coating; its strength table does not state a thickness band, so confirm the ordered gauge and certificate.
+
+Density: 2.72 g/cm³; Not specified; Rolled products; 20 °C; source-reference; single-source; https://www.hulamin.com/sites/default/files/downloads/3004%20Datasheet.pdf
+
+H14 Rolled products: Not stated in source mechanical table; tensile 220–265 MPa; yield 180 MPa; source-minimum-and-range; https://www.hulamin.com/sites/default/files/downloads/3004%20Datasheet.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

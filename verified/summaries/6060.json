@@ -1,0 +1,116 @@
+{
+  "id": "6060",
+  "family": "6000",
+  "summary": "An extrusion grade selected for visible architectural profiles and heat sinks, with decorative anodizing response and strength below 6063 in Hydro’s comparison.",
+  "forms": [
+    "Extruded profiles"
+  ],
+  "tempers": [
+    "T4",
+    "T5",
+    "T6",
+    "T64",
+    "T66"
+  ],
+  "applications": [
+    "Door and window frames",
+    "Heat sinks",
+    "Railings and furniture"
+  ],
+  "guidance": "Specify wall thickness and temper together. Hydro applies the lowest applicable mechanical requirement to a profile containing multiple thickness bands; T64 is identified as bending quality.",
+  "sources": [
+    "hydro6060rev4"
+  ],
+  "properties": [
+    {
+      "name": "Thermal conductivity",
+      "value": 200,
+      "unit": "W/(m·K)",
+      "temper": "T6",
+      "form": "Extruded products",
+      "condition": "20 °C; typical reference property",
+      "kind": "typical",
+      "source": "hydro6060rev4",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T4",
+      "form": "Extruded profile",
+      "thickness": "≤25 mm",
+      "ultimate": 120,
+      "unit": "MPa",
+      "kind": "source-minimum",
+      "condition": "EN 755-2:2016 reference minima as reproduced by Hydro; press quenching permitted for these tempers; specimen and mixed-wall rules apply",
+      "yield": 60,
+      "source": "hydro6060rev4",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T6",
+      "form": "Extruded profile",
+      "thickness": "≤5 mm",
+      "ultimate": 190,
+      "unit": "MPa",
+      "kind": "source-minimum",
+      "condition": "EN 755-2:2016 reference minima as reproduced by Hydro; press quenching permitted for these tempers; specimen and mixed-wall rules apply",
+      "yield": 150,
+      "source": "hydro6060rev4",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T6",
+      "form": "Extruded profile",
+      "thickness": ">5–25 mm",
+      "ultimate": 170,
+      "unit": "MPa",
+      "kind": "source-minimum",
+      "condition": "EN 755-2:2016 reference minima as reproduced by Hydro; press quenching permitted for these tempers; specimen and mixed-wall rules apply",
+      "yield": 140,
+      "source": "hydro6060rev4",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T66",
+      "form": "Extruded profile",
+      "thickness": "≤5 mm",
+      "ultimate": 215,
+      "unit": "MPa",
+      "kind": "source-minimum",
+      "condition": "EN 755-2:2016 reference minima as reproduced by Hydro; press quenching permitted for these tempers; specimen and mixed-wall rules apply",
+      "yield": 160,
+      "source": "hydro6060rev4",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [
+    {
+      "element": "Si",
+      "min": 0.3,
+      "max": 0.6,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6060rev4",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mg",
+      "min": 0.35,
+      "max": 0.6,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6060rev4",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected extrusion facts; single manufacturer source; no design allowables or full composition table."
+}

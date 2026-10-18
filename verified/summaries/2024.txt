@@ -1,0 +1,11 @@
+2024 ALUMINIUM — ORIGINAL REFERENCE SUMMARY
+
+A copper-containing aluminium alloy with published sheet, coil and plate reference data. Select a complete alloy, temper and product specification before comparing strength.
+
+Compare exact material conditions. The typical T4/T351 value is not a guaranteed specification minimum. Evaluate corrosion protection and fabrication for the actual assembly; aerospace qualification requires approved material documentation.
+
+Density: 2770 kg/m³; Not specified; Sheet, coil, plate; 20 °C; typical; single-source; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1012/Kaiser_Aluminum_2024_Sheet_Coil_and_Plate.pdf
+
+T4 / T351 Sheet, coil, plate: 0.500 inch diameter tensile specimen; thickness unspecified; tensile 469 MPa; yield 324 MPa; typical; https://online.kaiseraluminum.com/depot/PublicProductInformation/Document/1012/Kaiser_Aluminum_2024_Sheet_Coil_and_Plate.pdf
+
+Checked 2026-10-14. Partial reference coverage; not design allowables or certification.

@@ -1,0 +1,214 @@
+{
+  "id": "6061",
+  "family": "6000",
+  "summary": "A heat-treatable structural alloy used for profiles, rod, bar and tube. Its strength and forming behaviour depend on the supplied temper.",
+  "forms": [
+    "Extruded profiles",
+    "Rod and bar",
+    "Tube and pipe",
+    "Sheet and plate"
+  ],
+  "tempers": [
+    "O",
+    "T1",
+    "T4",
+    "T6",
+    "T651",
+    "T6511"
+  ],
+  "applications": [
+    "Machinery",
+    "Transportation",
+    "General fabrication"
+  ],
+  "guidance": "Consider softer tempers before severe forming. Welding can lower strength near the joint; use properties appropriate to the welded condition. Compare 6063 when exposed surface appearance drives selection.",
+  "sources": [
+    "hydro6061",
+    "kaiser6061"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2700,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Sheet, coil, plate",
+      "condition": "20 °C",
+      "source": "kaiser6061",
+      "kind": "typical",
+      "verification": "cross-checked-rounded",
+      "checked": "2026-10-14",
+      "corroboratingSources": [
+        "hydro6061"
+      ],
+      "normalization": "Kaiser 2700 kg/m³ retained; Hydro 0.098 lb/in³ reconciled within its displayed rounding interval."
+    },
+    {
+      "name": "Thermal conductivity",
+      "value": 167,
+      "unit": "W/(m·K)",
+      "temper": "T6 / T651",
+      "form": "Sheet, coil, plate",
+      "condition": "20 °C",
+      "source": "kaiser6061",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "name": "Linear thermal expansion",
+      "value": 23.6,
+      "unit": "µm/(m·K)",
+      "temper": "Not specified",
+      "form": "Sheet, coil, plate",
+      "condition": "20–100 °C average",
+      "source": "kaiser6061",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T6 / T6511",
+      "form": "Extrusion",
+      "thickness": "≤6.30 mm",
+      "ultimate": 260,
+      "yield": 240,
+      "unit": "MPa",
+      "kind": "source-minimum",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "condition": "Supplier reference; thickness of tensile specimen section; not a certificate or design allowable",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T6 / T651",
+      "form": "Sheet, coil, plate",
+      "thickness": "0.500 inch diameter tensile specimen; material thickness unspecified",
+      "ultimate": 310,
+      "yield": 276,
+      "unit": "MPa",
+      "kind": "typical",
+      "source": "kaiser6061",
+      "verification": "single-source",
+      "condition": "Supplier reference; thickness of tensile specimen section; not a certificate or design allowable",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [
+    {
+      "element": "Si",
+      "min": 0.4,
+      "max": 0.8,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Fe",
+      "min": null,
+      "max": 0.7,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Cu",
+      "min": 0.15,
+      "max": 0.4,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mn",
+      "min": null,
+      "max": 0.15,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mg",
+      "min": 0.8,
+      "max": 1.2,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Cr",
+      "min": 0.04,
+      "max": 0.35,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Zn",
+      "min": null,
+      "max": 0.25,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Ti",
+      "min": null,
+      "max": 0.15,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Other each",
+      "min": null,
+      "max": 0.05,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Other total",
+      "min": null,
+      "max": 0.15,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6061",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Al",
+      "min": null,
+      "max": null,
+      "remainder": true,
+      "source": "hydro6061",
+      "unit": "wt %",
+      "kind": "remainder",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

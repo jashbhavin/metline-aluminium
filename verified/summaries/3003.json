@@ -1,0 +1,74 @@
+{
+  "id": "3003",
+  "family": "3000",
+  "summary": "A non-heat-treatable manganese alloy referenced for tube applications in condensers and heat-exchange equipment. Cold-work condition changes its mechanical behaviour.",
+  "forms": [
+    "Tube and pipe"
+  ],
+  "tempers": [
+    "O",
+    "H14"
+  ],
+  "applications": [],
+  "guidance": "Use the actual tube condition and specification. The source contains a malformed copper value and an unusual tensile-specimen diameter; composition and that specimen-size detail remain withheld pending clarification.",
+  "sources": [
+    "kaiser3003"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 2730,
+      "unit": "kg/m³",
+      "temper": "Not specified",
+      "form": "Tube and pipe",
+      "condition": "20 °C",
+      "source": "kaiser3003",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "name": "Thermal conductivity",
+      "value": 193,
+      "unit": "W/(m·K)",
+      "temper": "O",
+      "form": "Tube and pipe",
+      "condition": "20 °C",
+      "source": "kaiser3003",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "O",
+      "form": "Tube and pipe",
+      "thickness": "Material thickness unspecified; elongation basis 4D",
+      "ultimate": 110,
+      "yield": 40,
+      "source": "kaiser3003",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "H14",
+      "form": "Tube and pipe",
+      "thickness": "Material thickness unspecified; elongation basis 4D",
+      "ultimate": 152,
+      "yield": 145,
+      "source": "kaiser3003",
+      "kind": "typical",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

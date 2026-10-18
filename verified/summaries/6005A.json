@@ -1,0 +1,50 @@
+{
+  "id": "6005A",
+  "family": "6000",
+  "summary": "A heat-treatable extrusion alloy for solid and hollow structural sections. The letter suffix identifies a distinct designation; it is not interchangeable with 6005.",
+  "forms": [
+    "Extruded profiles"
+  ],
+  "tempers": [
+    "T1",
+    "T5",
+    "T61"
+  ],
+  "applications": [],
+  "guidance": "Match the complete designation and temper. The chemistry reference includes a combined manganese-plus-chromium limit; composition is withheld until those compound constraints are represented in the data model.",
+  "sources": [
+    "hydro6005a"
+  ],
+  "properties": [
+    {
+      "name": "Thermal conductivity",
+      "value": 188,
+      "unit": "W/(m·K)",
+      "temper": "T61",
+      "form": "Extrusion",
+      "condition": "25 °C",
+      "source": "hydro6005a",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T61",
+      "form": "Extrusion",
+      "thickness": "≤6.30 mm",
+      "ultimate": 260,
+      "yield": 240,
+      "source": "hydro6005a",
+      "kind": "source-minimum",
+      "unit": "MPa",
+      "verification": "single-source",
+      "condition": "Supplier reference; not a design allowable or certificate.",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}

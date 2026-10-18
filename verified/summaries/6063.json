@@ -1,0 +1,195 @@
+{
+  "id": "6063",
+  "family": "6000",
+  "summary": "A heat-treatable extrusion alloy selected for architectural shapes, visible finishes and heat sinks. Surface requirements should be specified separately from mechanical properties.",
+  "forms": [
+    "Extruded profiles",
+    "Tube and pipe",
+    "Heat sinks"
+  ],
+  "tempers": [
+    "O",
+    "T1",
+    "T4",
+    "T5",
+    "T6"
+  ],
+  "applications": [
+    "Architecture",
+    "Electrical components",
+    "Heat sinks"
+  ],
+  "guidance": "State the exposed faces, finish and protective packaging in the enquiry. Weld regions may lose strength. T5 and T6 denote different processing histories; use the exact supplied condition.",
+  "sources": [
+    "hydro6063"
+  ],
+  "properties": [
+    {
+      "name": "Density",
+      "value": 0.097,
+      "unit": "lb/in³",
+      "temper": "Not specified",
+      "form": "Extrusion",
+      "condition": "Temperature not specified",
+      "source": "hydro6063",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "name": "Thermal conductivity",
+      "value": 201,
+      "unit": "W/(m·K)",
+      "temper": "T6",
+      "form": "Extrusion",
+      "condition": "25 °C",
+      "source": "hydro6063",
+      "kind": "typical",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "mechanical": [
+    {
+      "temper": "T5",
+      "form": "Extrusion",
+      "thickness": "≤12.50 mm",
+      "ultimate": 150,
+      "yield": 110,
+      "unit": "MPa",
+      "kind": "source-minimum",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "condition": "Supplier reference; thickness of tensile specimen section; not a certificate or design allowable",
+      "checked": "2026-10-14"
+    },
+    {
+      "temper": "T6",
+      "form": "Extrusion",
+      "thickness": "≤3.20 mm",
+      "ultimate": 205,
+      "yield": 170,
+      "unit": "MPa",
+      "kind": "source-minimum",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "condition": "Supplier reference; thickness of tensile specimen section; not a certificate or design allowable",
+      "checked": "2026-10-14"
+    }
+  ],
+  "chemistry": [
+    {
+      "element": "Si",
+      "min": 0.2,
+      "max": 0.6,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Fe",
+      "min": null,
+      "max": 0.35,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Cu",
+      "min": null,
+      "max": 0.1,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mn",
+      "min": null,
+      "max": 0.1,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Mg",
+      "min": 0.45,
+      "max": 0.9,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Cr",
+      "min": null,
+      "max": 0.1,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Zn",
+      "min": null,
+      "max": 0.1,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Ti",
+      "min": null,
+      "max": 0.1,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Other each",
+      "min": null,
+      "max": 0.05,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Other total",
+      "min": null,
+      "max": 0.15,
+      "unit": "wt %",
+      "kind": "composition-limit",
+      "source": "hydro6063",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    },
+    {
+      "element": "Al",
+      "min": null,
+      "max": null,
+      "remainder": true,
+      "source": "hydro6063",
+      "unit": "wt %",
+      "kind": "remainder",
+      "verification": "single-source",
+      "checked": "2026-10-14"
+    }
+  ],
+  "status": "published",
+  "scope": "Selected reference facts; incomplete alloy coverage"
+}
