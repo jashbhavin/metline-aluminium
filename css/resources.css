@@ -669,7 +669,7 @@
     right: 0px;
     width: 280px; /* Increased from 220px */
     height: 210px; /* Increased from 160px */
-    background-image: url("/metline-aluminium/framework/placeholder.svg?w=1920&h=480"); /* Restored correct image path */
+    background-image: none; /* Restored correct image path */
     background-size: contain;
     background-position: top right;
     background-repeat: no-repeat;

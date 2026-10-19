@@ -106,7 +106,7 @@
 .m-74feb .hero {
     overflow: hidden;
     border-bottom: 1px solid #123b66;
-    background: url("/metline-aluminium/framework/placeholder.svg?w=1920&h=480") center center / cover no-repeat;
+    background: none center center / cover no-repeat;
     color: var(--white);
 }
 

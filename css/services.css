@@ -59,7 +59,7 @@
 /* About Services Page - Features Section */
 .m-3c346 {
     width: 100%;
-    background: url("/metline-aluminium/framework/placeholder.svg?w=1920&h=480") no-repeat center center / cover;
+    background: none no-repeat center center / cover;
     background-color: #1a2a3a; /* Fallback color */
     padding: 300px 0;
     margin-top: 100px;

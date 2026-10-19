@@ -100,7 +100,7 @@ $(document).ready(function () {
 
     function setHoverStyles(show) {
       $('.m-55bf0').css('background', show ? '#ffffff' : 'linear-gradient(to bottom,#001b34 0%,rgba(250,250,250,0))');
-      $('.logo>img').each(function(){if(!this.dataset.cmsOverride)this.src=show?'/metline-aluminium/demo/logo-blue.svg':'/metline-aluminium/demo/logo-white.svg';});
+      $('.logo>img').each(function(){if(!this.dataset.cmsOverride)this.src='/metline-aluminium/brand/metline-logo.png';});
       $('.m-1477c>img').each(function(){if(!this.dataset.cmsOverride)this.src='/metline-aluminium/demo/icons/search-white.svg';});
       $('.header .nav>ul>li>a').css('color', show ? '#001b34' : '#ffffff');
       if (!show && product_v != 1) {

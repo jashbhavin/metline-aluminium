@@ -26,7 +26,7 @@
 .m-a2169 {
     top: 110px;
     z-index: 10;
-    background: url("/metline-aluminium/framework/placeholder.svg?w=1920&h=480") no-repeat left 0;
+    background: none no-repeat left 0;
 }
 
 .m-a2169,
@@ -1526,7 +1526,7 @@
     height: 220px;
     background-color: #eef1f6;
     /* Fallback color */
-    background-image: url("/metline-aluminium/framework/placeholder.svg?w=1920&h=480");
+    background-image: none;
     /* Replace with your specific background image path */
     background-size: cover;
     background-position: center;
@@ -2420,7 +2420,7 @@ a.m-391ae:hover .m-a9618 {
     overflow: hidden;
     color: #fff;
     z-index: 1;
-    background-image: url("/metline-aluminium/framework/placeholder.svg?w=1920&h=480");
+    background-image: none;
     background-attachment: fixed;
     
     background-position: center;

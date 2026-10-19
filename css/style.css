@@ -714,25 +714,25 @@ table {
 }
 
 .advantage .m-7eb69:before {
-	background: url("/metline-aluminium/demo/822ac4a7feb64b.png") no-repeat;
+	background: none no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 
 .advantage .m-cd6df:before {
-	background: url("/metline-aluminium/demo/946fb84c599c99.png") no-repeat;
+	background: none no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 
 .advantage .world:before {
-	background: url("/metline-aluminium/demo/326d9581a26f05.png") no-repeat;
+	background: none no-repeat;
 	background-position: center;
 	background-size: cover;
 }
 
 .advantage .m-76edc:before {
-	background: url("/metline-aluminium/demo/52409a8a066d1a.png") no-repeat;
+	background: none no-repeat;
 	background-position: center;
 	background-size: cover;
 }
@@ -1034,7 +1034,7 @@ width: 230px;
 	margin-top: -5px;
 	width: 35px;
 	height: 11px;
-	background: url("/metline-aluminium/demo/a9c560f14c5052.png") no-repeat;
+	background: url("/metline-aluminium/brand/ui/arrow-more.svg") no-repeat;
 	-webkit-background-size: 100% 100%;
 	background-size: 100% 100%;
 	-webkit-transition: all .3s ease;
@@ -1099,7 +1099,7 @@ width: 230px;
 	top: -80px;
 	width: 168px;
 	height: 168px;
-	background: url("/metline-aluminium/demo/9cd830eab1dbad.png") no-repeat;
+	background: url("/metline-aluminium/brand/ui/dot-grid.svg") no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1888,7 +1888,7 @@ transform: rotate(255deg);
 	width: 50px;
 	height: 50px;
 	flex-shrink: 0;
-	background: url("/metline-aluminium/demo/fe5facb95311f2.png") no-repeat center/contain;
+	background: none no-repeat center/contain;
 }
 
 .m-167bd {
@@ -1989,7 +1989,7 @@ transform: rotate(255deg);
 	position: absolute;
 	top: 0;
 	display: none;
-	background: #1460aa url("/metline-aluminium/demo/01b92900597349.png") no-repeat;
+	background: #1460aa none no-repeat;
 	background-size: 50px 50px;
 	background-position: 0px 0px;
 	width: 290px;
@@ -2000,7 +2000,7 @@ transform: rotate(255deg);
 	position: absolute;
 	top: 0;
 	display: none;
-	background: #1460aa url("/metline-aluminium/demo/6aaf23d00299ea.png") no-repeat;
+	background: #1460aa none no-repeat;
 	background-size: 50px 50px;
 	background-position: 0px 0px;
 	width: 290px;
@@ -2068,7 +2068,7 @@ transform: rotate(255deg);
 	position: absolute;
 	top: 0;
 	display: none;
-	background: #1460aa url("/metline-aluminium/demo/ec4d88d4a33ceb.png") no-repeat;
+	background: #1460aa none no-repeat;
 	background-size: 50px 50px;
 	background-position: 0px 0px;
 	width: 230px;
@@ -2078,7 +2078,7 @@ transform: rotate(255deg);
 	position: absolute;
 	top: 0;
 	display: none;
-	background: #1460aa url("/metline-aluminium/demo/0ebe504408632b.png") no-repeat;
+	background: #1460aa none no-repeat;
 	background-size: 50px 50px;
 	background-position: 0px 0px;
 	width: 215px;
@@ -2285,7 +2285,7 @@ transform: rotate(255deg);
 	font-family: 'Hind-Light';
 	line-height: 16px;
 	z-index: 22;
-	background: url("/metline-aluminium/demo/9a595ce474c391.png") no-repeat left 0;
+	background: url("/metline-aluminium/brand/ui/home.svg") no-repeat left 0;
 	padding-left: 20px;
 }
 
@@ -2391,7 +2391,7 @@ transform: rotate(255deg);
 }
 
 .about-data {
-	background: url("/metline-aluminium/demo/59e8c31d7c2e67.jpg") no-repeat center;
+	background: none no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -2432,7 +2432,7 @@ transform: rotate(255deg);
 
 
 .about-time {
-	background: url("/metline-aluminium/demo/0c41540425a566.jpg") no-repeat center bottom;
+	background: none no-repeat center bottom;
 	padding-bottom: 170px;
 }
 
@@ -3044,11 +3044,11 @@ transform: rotate(255deg);
 	height: 17px;
 	border-radius: 0;
 	opacity: 1;
-	background: url("/metline-aluminium/demo/8b251e729c45c8.png") no-repeat;
+	background: none no-repeat;
 }
 
 .m-9dcb3 .swiper-pagination-bullet-active {
-	background-image: url("/metline-aluminium/demo/8c2f8cecbe8c48.png");
+	background-image: none;
 }
 
 .m-9dcb3 img {
@@ -3843,7 +3843,7 @@ transform: rotate(255deg);
 	position: absolute;
 	left: 0;
 	top: 6px;
-	background: url("/metline-aluminium/demo/fd3c5e185dd069.png") no-repeat;
+	background: none no-repeat;
 	width: 23px;
 	height: 23px;
 	text-align: center;
@@ -4240,7 +4240,7 @@ a.m-20a58 {
 	top: 5px;
 	width: 12px;
 	height: 12px;
-	background: url("/metline-aluminium/demo/ce7fd7cb54b5c5.png") no-repeat;
+	background: none no-repeat;
 }
 
 .m-4073c {
@@ -4652,7 +4652,7 @@ table.m-87f43 .add td {
 	top: 7px;
 	width: 12px;
 	height: 12px;
-	background: url("/metline-aluminium/demo/fb7e353630b80c.png") no-repeat;
+	background: none no-repeat;
 }
 
 .m-a7ab5 {
@@ -4730,7 +4730,7 @@ table.m-87f43 .add td {
 	top: 5px;
 	width: 12px;
 	height: 14px;
-	background: url("/metline-aluminium/demo/fc70a8f7060a9e.png") no-repeat;
+	background: none no-repeat;
 }
 
 
@@ -4785,7 +4785,7 @@ table.m-87f43 .add td {
 .m-5338b ul li {
 	font-size: 24px;
 	line-height: 2.5;
-	background: url("/metline-aluminium/demo/96357d37cf0964.png") no-repeat left center;
+	background: url("/metline-aluminium/brand/ui/burst-orange.svg") no-repeat left center;
 	padding-left: 30px;
 }
 
@@ -4850,7 +4850,7 @@ table.m-87f43 .add td {
 	height: 18px;
 	flex-shrink: 0;
 	margin-top: 2px;
-	background: url("/metline-aluminium/demo/40fbc326fd12cc.png") no-repeat center / contain;
+	background: url("/metline-aluminium/brand/ui/warning.svg") no-repeat center / contain;
 }
 
 .m-81bd4>span>a {
@@ -4936,7 +4936,7 @@ table.m-87f43 .add td {
 	top: 6px;
 	width: 10px;
 	height: 10px;
-	background: url("/metline-aluminium/demo/92ae63d252989d.png") no-repeat;
+	background: none no-repeat;
 }
 
 .m-fce1a li:after {
@@ -5059,7 +5059,7 @@ table.m-87f43 .add td {
 	margin-top: 70px;
 }
 
-/*.m-11800:before{content: '';position: absolute;left: 0;right: 0;width: 1478px;height: 667px;background: url("/metline-aluminium/demo/45771fd3789b0c.jpg") no-repeat top center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;margin: 0 auto;z-index: -1;}*/
+/*.m-11800:before{content: '';position: absolute;left: 0;right: 0;width: 1478px;height: 667px;background: none no-repeat top center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;margin: 0 auto;z-index: -1;}*/
 
 .m-3b721 ul {
 	margin-left: -2.3%;
@@ -5173,7 +5173,7 @@ table.m-87f43 .add td {
 
 .m-87819 .m-5338b ul li {
 	color: #333;
-	background-image: url("/metline-aluminium/demo/5ed9b3fcb476cd.png");
+	background-image: url("/metline-aluminium/brand/ui/burst-blue.svg");
 }
 
 .m-87819 .m-b26dc .m-590cf {
@@ -5270,7 +5270,7 @@ table.m-87f43 .add td {
 	top: 8px;
 	width: 12px;
 	height: 12px;
-	background: url("/metline-aluminium/demo/6445fc6450f46b.png") no-repeat;
+	background: none no-repeat;
 }
 
 
@@ -5306,7 +5306,7 @@ p video {
 }
 
 .m-7ceb4 h3.m-4cfd6:before {
-	background-image: url("/metline-aluminium/demo/ccbaad33a8e5d3.png");
+	background-image: none;
 	top: 5px;
 }
 
@@ -5752,7 +5752,7 @@ p video {
 	height: 24px;
 	font-size: 0;
 	line-height: 1;
-	background: url("/metline-aluminium/demo/9adefbc48c29ae.webp") no-repeat left top;
+	background: none no-repeat left top;
 	background-size: contain;
 }
 
@@ -6344,7 +6344,7 @@ p video {
 	margin-right: auto;
 }
 
-/*.m-a259a li:before{content: '';position: absolute;right: 20px;top: 27px;width: 20px;height: 4px;background: url("/metline-aluminium/demo/16d77c1912570e.png") no-repeat;}*/
+/*.m-a259a li:before{content: '';position: absolute;right: 20px;top: 27px;width: 20px;height: 4px;background: none no-repeat;}*/
 .m-a259a .m-266b7 {
 	border: 2px dashed #c1c1c1;
 	padding: 5px 10px;
@@ -6894,7 +6894,7 @@ p video {
 	margin-top: -8px;
 	width: 17px;
 	height: 17px;
-	background: url("/metline-aluminium/demo/d5185205c1ccd8.png") no-repeat;
+	background: none no-repeat;
 }
 
 .m-86190 .m-6220d p {
@@ -6928,7 +6928,7 @@ p video {
 }
 
 .m-86190 li.select .m-6220d i {
-	background-image: url("/metline-aluminium/demo/2f192f5b1f1846.png");
+	background-image: none;
 }
 
 .m-e3fd9 strong {
@@ -6960,7 +6960,7 @@ p video {
 	top: 7px;
 	width: 11px;
 	height: 11px;
-	background: url("/metline-aluminium/demo/b12add5474568c.png") no-repeat;
+	background: none no-repeat;
 }
 
 .m-e3fd9 ul li a:hover {
@@ -7027,7 +7027,7 @@ p video {
 	z-index: 999;
 	margin-top: -42px;
 	margin-left: -42px;
-	background: url("/metline-aluminium/demo/94a308cc875e25.png") center no-repeat;
+	background: none center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -7762,7 +7762,7 @@ p video {
 	right: 0;
 	width: 26px;
 	height: 100%;
-	background-image: url("/metline-aluminium/demo/ee1125d1b665fb.png");
+	background-image: none;
 	background-repeat: no-repeat;
 	background-position: center 50%;
 	background-size: 8px 13px;
@@ -8439,7 +8439,7 @@ p video {
 }
 
 .m-3eab4 .m-f4cce a:after {
-	background: url("/metline-aluminium/demo/7ff78690480f6a.png") no-repeat;
+	background: none no-repeat;
 	-webkit-background-size: 100% 100%;
 	background-size: 100% 100%;
 }
@@ -8744,25 +8744,25 @@ article p em {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url("/metline-aluminium/demo/4d18b8dfb9de61.webp") no-repeat;
+	background: none no-repeat;
 	background-size: 100% 100%;
 }
 
 .m-71be2 .m-d1155 span:nth-child(1) {
-	background: url("/metline-aluminium/demo/36c1adce5bd241.webp") no-repeat;
+	background: none no-repeat;
 	background-size: 100% 100%;
 }
 
 .m-71be2 .m-4395a span:nth-child(1),
 .m-71be2 .m-4395a span:nth-child(2) {
-	background: url("/metline-aluminium/demo/36c1adce5bd241.webp") no-repeat;
+	background: none no-repeat;
 	background-size: 100% 100%;
 }
 
 .m-71be2 .m-d416c span:nth-child(1),
 .m-71be2 .m-d416c span:nth-child(2),
 .m-71be2 .m-d416c span:nth-child(3) {
-	background: url("/metline-aluminium/demo/36c1adce5bd241.webp") no-repeat;
+	background: none no-repeat;
 	background-size: 100% 100%;
 }
 
@@ -8770,7 +8770,7 @@ article p em {
 .m-71be2 .m-6f79b span:nth-child(2),
 .m-71be2 .m-6f79b span:nth-child(3),
 .m-71be2 .m-6f79b span:nth-child(4) {
-	background: url("/metline-aluminium/demo/36c1adce5bd241.webp") no-repeat;
+	background: none no-repeat;
 	background-size: 100% 100%;
 }
 
@@ -8779,7 +8779,7 @@ article p em {
 .m-71be2 .m-83786 span:nth-child(3),
 .m-71be2 .m-83786 span:nth-child(4),
 .m-71be2 .m-83786 span:nth-child(5) {
-	background: url("/metline-aluminium/demo/36c1adce5bd241.webp") no-repeat;
+	background: none no-repeat;
 	background-size: 100% 100%;
 }
 
@@ -8790,7 +8790,7 @@ article p em {
 
 .m-58ef5 p {
 	padding-left: 31px;
-	background: url("/metline-aluminium/demo/7329fe0727f428.webp") no-repeat 8px 8px;
+	background: none no-repeat 8px 8px;
 }
 
 .m-58ef5 .box {
@@ -8842,7 +8842,7 @@ article p em {
 	padding: 8px 0 8px 20px;
 	color: #4D4D4D;
 	font-family: philosopher;
-	background: url("/metline-aluminium/demo/0c507c669fc5c7.webp") no-repeat left 13px;
+	background: none no-repeat left 13px;
 }
 
 
@@ -9236,7 +9236,7 @@ article p em {
 	cursor: pointer;
 	transition: all 0.3s;
 	background-color: #fff;
-	background-image: url("/metline-aluminium/demo/00792787973e96.png");
+	background-image: none;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 26px;
@@ -11881,7 +11881,7 @@ article p em {
 
 	.m-56aa0 {
 		padding: 60px 0 30px;
-		background: url("/metline-aluminium/demo/2c3725460d3d3c.jpg") no-repeat;
+		background: none no-repeat;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
@@ -14024,7 +14024,7 @@ width: 130px;
 	width: 14px;
 	height: 14px;
 	background-color: #3778ff;
-	background-image: url("/metline-aluminium/demo/55fa18e1dc5510.png");
+	background-image: none;
 	background-size: 14px;
 }
 
@@ -14252,12 +14252,12 @@ a {
 	top: 2px;
 	width: 14px;
 	height: 14px;
-	background: url("/metline-aluminium/demo/92eb8aba6079e7.png");
+	background: none;
 	background-size: 14px;
 }
 
 .m-8ffb0 table tr a:hover::before {
-	background: url("/metline-aluminium/demo/79c74e969fd6a0.png");
+	background: none;
 	background-size: 14px;
 }
 
@@ -14331,7 +14331,7 @@ a {
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	background: url("/metline-aluminium/demo/439ab420b627fa.png") center no-repeat;
+	background: none center no-repeat;
 	right: 0;
 	top: 0;
 	cursor: pointer;
@@ -15342,7 +15342,7 @@ a {
 
 .m-e9253 {
 	height: 240px;
-	background: url("/metline-aluminium/demo/f3c62e96d6a621.jpg") center no-repeat;
+	background: url("/metline-aluminium/brand/ui/band-navy.svg") center no-repeat;
 }
 
 .m-e9253 .m-0779b {
@@ -15389,7 +15389,7 @@ a {
 	/*height: 460px;*/
 	padding-bottom: 40px;
 	color: #fff;
-	background: url("/metline-aluminium/demo/bc5999b3d6d32f.jpg") center no-repeat;
+	background: none center no-repeat;
 	background-size: cover;
 	text-align: center;
 	margin-top: 20px;
@@ -15444,12 +15444,12 @@ a {
 	content: "";
 	width: 15px;
 	height: 15px;
-	background: url("/metline-aluminium/demo/4300b56665e6da.png") no-repeat;
+	background: none no-repeat;
 	background-size: 15px 15px;
 }
 
 .m-f5710 .m-f6332 span:nth-child(2)::before {
-	background: url("/metline-aluminium/demo/533e107b2db71b.png") no-repeat;
+	background: none no-repeat;
 	background-size: 15px 15px;
 }
 
@@ -15755,7 +15755,7 @@ a {
 	flex: 0 0 24px;
 	width: 24px;
 	height: 24px;
-	background: url("/metline-aluminium/demo/b0640a159a85ec.png") center / contain no-repeat;
+	background: url("/metline-aluminium/brand/ui/menu-product.svg") center / contain no-repeat;
 	transform: translateY(-4px);
 }
 
@@ -20268,3 +20268,10 @@ a.m-73498.m-38e2d:hover>p {
 		gap: 16px;
 	}
 }
+
+/* Creative Commons photo credits (scripts/image_credits.py) */
+.ip-hero-media{position:relative}
+.ip-hero-media .img-credit{position:absolute;right:10px;bottom:8px;max-width:calc(100% - 20px);margin:0;padding:3px 8px;border-radius:6px;background:rgba(0,20,40,.62);color:#fff;font-size:11px;line-height:1.4}
+.ip-hero-media .img-credit a{color:#fff;text-decoration:underline}
+.img-credits{max-width:1200px;margin:28px auto 0;padding:0 20px;font-size:12px;line-height:1.6;color:#6b7785}
+.img-credits a{color:inherit;text-decoration:underline}
