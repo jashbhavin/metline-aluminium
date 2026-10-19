@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin
 Disallow: /api/
 
-Sitemap: https://metline.in/sitemap.xml
+Sitemap: https://www.thealuminiumfactory.com/sitemap.xml

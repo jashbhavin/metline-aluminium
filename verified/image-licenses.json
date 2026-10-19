@@ -12,19 +12,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/aluminium-stock-300.webp",
+        "path": "/verified/images/aluminium-stock-300.webp",
         "width": 300,
         "height": 200,
         "bytes": 11024
       },
       {
-        "path": "/metline-aluminium/verified/images/aluminium-stock-600.webp",
+        "path": "/verified/images/aluminium-stock-600.webp",
         "width": 600,
         "height": 400,
         "bytes": 36310
       },
       {
-        "path": "/metline-aluminium/verified/images/aluminium-stock-1200.webp",
+        "path": "/verified/images/aluminium-stock-1200.webp",
         "width": 1200,
         "height": 800,
         "bytes": 126656
@@ -53,19 +53,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/flat-stock-300.webp",
+        "path": "/verified/images/flat-stock-300.webp",
         "width": 300,
         "height": 169,
         "bytes": 9558
       },
       {
-        "path": "/metline-aluminium/verified/images/flat-stock-600.webp",
+        "path": "/verified/images/flat-stock-600.webp",
         "width": 600,
         "height": 338,
         "bytes": 33970
       },
       {
-        "path": "/metline-aluminium/verified/images/flat-stock-1200.webp",
+        "path": "/verified/images/flat-stock-1200.webp",
         "width": 1200,
         "height": 675,
         "bytes": 123298
@@ -94,19 +94,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/tube-stock-300.webp",
+        "path": "/verified/images/tube-stock-300.webp",
         "width": 300,
         "height": 169,
         "bytes": 9316
       },
       {
-        "path": "/metline-aluminium/verified/images/tube-stock-600.webp",
+        "path": "/verified/images/tube-stock-600.webp",
         "width": 600,
         "height": 338,
         "bytes": 30984
       },
       {
-        "path": "/metline-aluminium/verified/images/tube-stock-1200.webp",
+        "path": "/verified/images/tube-stock-1200.webp",
         "width": 1200,
         "height": 675,
         "bytes": 97586
@@ -135,19 +135,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/bar-stock-300.webp",
+        "path": "/verified/images/bar-stock-300.webp",
         "width": 300,
         "height": 150,
         "bytes": 8708
       },
       {
-        "path": "/metline-aluminium/verified/images/bar-stock-600.webp",
+        "path": "/verified/images/bar-stock-600.webp",
         "width": 600,
         "height": 300,
         "bytes": 30026
       },
       {
-        "path": "/metline-aluminium/verified/images/bar-stock-1200.webp",
+        "path": "/verified/images/bar-stock-1200.webp",
         "width": 1200,
         "height": 600,
         "bytes": 107622
@@ -176,19 +176,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/extrusion-stock-300.webp",
+        "path": "/verified/images/extrusion-stock-300.webp",
         "width": 300,
         "height": 150,
         "bytes": 7338
       },
       {
-        "path": "/metline-aluminium/verified/images/extrusion-stock-600.webp",
+        "path": "/verified/images/extrusion-stock-600.webp",
         "width": 600,
         "height": 300,
         "bytes": 25340
       },
       {
-        "path": "/metline-aluminium/verified/images/extrusion-stock-1200.webp",
+        "path": "/verified/images/extrusion-stock-1200.webp",
         "width": 1200,
         "height": 600,
         "bytes": 84142
@@ -217,19 +217,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/rolling-process-300.webp",
+        "path": "/verified/images/rolling-process-300.webp",
         "width": 300,
         "height": 125,
         "bytes": 12462
       },
       {
-        "path": "/metline-aluminium/verified/images/rolling-process-600.webp",
+        "path": "/verified/images/rolling-process-600.webp",
         "width": 600,
         "height": 250,
         "bytes": 39462
       },
       {
-        "path": "/metline-aluminium/verified/images/rolling-process-1200.webp",
+        "path": "/verified/images/rolling-process-1200.webp",
         "width": 1200,
         "height": 500,
         "bytes": 113350
@@ -258,19 +258,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/extrusion-process-300.webp",
+        "path": "/verified/images/extrusion-process-300.webp",
         "width": 300,
         "height": 150,
         "bytes": 15432
       },
       {
-        "path": "/metline-aluminium/verified/images/extrusion-process-600.webp",
+        "path": "/verified/images/extrusion-process-600.webp",
         "width": 600,
         "height": 300,
         "bytes": 48964
       },
       {
-        "path": "/metline-aluminium/verified/images/extrusion-process-1200.webp",
+        "path": "/verified/images/extrusion-process-1200.webp",
         "width": 1200,
         "height": 600,
         "bytes": 134910
@@ -299,19 +299,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/casting-process-300.webp",
+        "path": "/verified/images/casting-process-300.webp",
         "width": 300,
         "height": 150,
         "bytes": 13866
       },
       {
-        "path": "/metline-aluminium/verified/images/casting-process-600.webp",
+        "path": "/verified/images/casting-process-600.webp",
         "width": 600,
         "height": 300,
         "bytes": 45898
       },
       {
-        "path": "/metline-aluminium/verified/images/casting-process-1200.webp",
+        "path": "/verified/images/casting-process-1200.webp",
         "width": 1200,
         "height": 600,
         "bytes": 146840
@@ -340,19 +340,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/honeycomb-stock-300.webp",
+        "path": "/verified/images/honeycomb-stock-300.webp",
         "width": 300,
         "height": 200,
         "bytes": 8148
       },
       {
-        "path": "/metline-aluminium/verified/images/honeycomb-stock-600.webp",
+        "path": "/verified/images/honeycomb-stock-600.webp",
         "width": 600,
         "height": 400,
         "bytes": 25516
       },
       {
-        "path": "/metline-aluminium/verified/images/honeycomb-stock-1200.webp",
+        "path": "/verified/images/honeycomb-stock-1200.webp",
         "width": 1200,
         "height": 800,
         "bytes": 86964
@@ -381,19 +381,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/sheet-stock-300.webp",
+        "path": "/verified/images/sheet-stock-300.webp",
         "width": 300,
         "height": 169,
         "bytes": 10586
       },
       {
-        "path": "/metline-aluminium/verified/images/sheet-stock-600.webp",
+        "path": "/verified/images/sheet-stock-600.webp",
         "width": 600,
         "height": 338,
         "bytes": 37992
       },
       {
-        "path": "/metline-aluminium/verified/images/sheet-stock-1200.webp",
+        "path": "/verified/images/sheet-stock-1200.webp",
         "width": 1200,
         "height": 675,
         "bytes": 121556
@@ -420,19 +420,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/plate-stock-300.webp",
+        "path": "/verified/images/plate-stock-300.webp",
         "width": 300,
         "height": 169,
         "bytes": 12450
       },
       {
-        "path": "/metline-aluminium/verified/images/plate-stock-600.webp",
+        "path": "/verified/images/plate-stock-600.webp",
         "width": 600,
         "height": 338,
         "bytes": 39270
       },
       {
-        "path": "/metline-aluminium/verified/images/plate-stock-1200.webp",
+        "path": "/verified/images/plate-stock-1200.webp",
         "width": 1200,
         "height": 675,
         "bytes": 123238
@@ -459,19 +459,19 @@
     ],
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/coil-stock-300.webp",
+        "path": "/verified/images/coil-stock-300.webp",
         "width": 300,
         "height": 150,
         "bytes": 8094
       },
       {
-        "path": "/metline-aluminium/verified/images/coil-stock-600.webp",
+        "path": "/verified/images/coil-stock-600.webp",
         "width": 600,
         "height": 300,
         "bytes": 23598
       },
       {
-        "path": "/metline-aluminium/verified/images/coil-stock-1200.webp",
+        "path": "/verified/images/coil-stock-1200.webp",
         "width": 1200,
         "height": 600,
         "bytes": 80790
@@ -507,12 +507,12 @@
       3648,
       2736
     ],
-    "originalPath": "/metline-aluminium/verified/images/commons-extrusion-blanks-original.jpg",
+    "originalPath": "/verified/images/commons-extrusion-blanks-original.jpg",
     "originalBytes": 1241565,
     "originalSha256": "9e326daa13e4d7e716857d6db4f38bd0dbde0ad5f20ace3735a6584fa8093bf9",
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/commons-extrusion-blanks-300.webp",
+        "path": "/verified/images/commons-extrusion-blanks-300.webp",
         "width": 300,
         "height": 225,
         "bytes": 16940,
@@ -521,7 +521,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-extrusion-blanks-600.webp",
+        "path": "/verified/images/commons-extrusion-blanks-600.webp",
         "width": 600,
         "height": 450,
         "bytes": 45460,
@@ -530,7 +530,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-extrusion-blanks-1200.webp",
+        "path": "/verified/images/commons-extrusion-blanks-1200.webp",
         "width": 1200,
         "height": 900,
         "bytes": 121842,
@@ -563,12 +563,12 @@
       1992,
       864
     ],
-    "originalPath": "/metline-aluminium/verified/images/commons-extruded-sections-original.jpg",
+    "originalPath": "/verified/images/commons-extruded-sections-original.jpg",
     "originalBytes": 346999,
     "originalSha256": "c869a55119b7f02bf7ccbe52df42d4ad8a80eb49135c33e8d3d6742003d33fcb",
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/commons-extruded-sections-300.webp",
+        "path": "/verified/images/commons-extruded-sections-300.webp",
         "width": 300,
         "height": 130,
         "bytes": 6830,
@@ -577,7 +577,7 @@
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg#file"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-extruded-sections-600.webp",
+        "path": "/verified/images/commons-extruded-sections-600.webp",
         "width": 600,
         "height": 260,
         "bytes": 17330,
@@ -586,7 +586,7 @@
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Extruded_aluminium_section_x3.jpg#file"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-extruded-sections-1200.webp",
+        "path": "/verified/images/commons-extruded-sections-1200.webp",
         "width": 1200,
         "height": 520,
         "bytes": 46534,
@@ -619,12 +619,12 @@
       3648,
       1887
     ],
-    "originalPath": "/metline-aluminium/verified/images/commons-extrusion-die-original.jpg",
+    "originalPath": "/verified/images/commons-extrusion-die-original.jpg",
     "originalBytes": 823640,
     "originalSha256": "d555e29aac23e2c1292cf26f95e09851f985c2caf10a600bfdb6733d1ca567b4",
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/commons-extrusion-die-300.webp",
+        "path": "/verified/images/commons-extrusion-die-300.webp",
         "width": 300,
         "height": 155,
         "bytes": 8544,
@@ -633,7 +633,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-extrusion-die-600.webp",
+        "path": "/verified/images/commons-extrusion-die-600.webp",
         "width": 600,
         "height": 310,
         "bytes": 27238,
@@ -642,7 +642,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-extrusion-die-1200.webp",
+        "path": "/verified/images/commons-extrusion-die-1200.webp",
         "width": 1200,
         "height": 620,
         "bytes": 90232,
@@ -675,12 +675,12 @@
       3199,
       1440
     ],
-    "originalPath": "/metline-aluminium/verified/images/commons-marine-original.jpg",
+    "originalPath": "/verified/images/commons-marine-original.jpg",
     "originalBytes": 759395,
     "originalSha256": "a10b6a99fc166e86996c93b455ec62175526475d706da717d413b1f903ebe214",
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/commons-marine-300.webp",
+        "path": "/verified/images/commons-marine-300.webp",
         "width": 300,
         "height": 135,
         "bytes": 8868,
@@ -689,7 +689,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-marine-600.webp",
+        "path": "/verified/images/commons-marine-600.webp",
         "width": 600,
         "height": 270,
         "bytes": 29128,
@@ -698,7 +698,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-marine-1200.webp",
+        "path": "/verified/images/commons-marine-1200.webp",
         "width": 1200,
         "height": 540,
         "bytes": 95854,
@@ -731,12 +731,12 @@
       2552,
       1888
     ],
-    "originalPath": "/metline-aluminium/verified/images/commons-automotive-original.jpg",
+    "originalPath": "/verified/images/commons-automotive-original.jpg",
     "originalBytes": 863393,
     "originalSha256": "d4e8d3e3842ce72f7e785dc17cffd3c6d9d9eddbca879d728b4d36964762ea9f",
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/commons-automotive-300.webp",
+        "path": "/verified/images/commons-automotive-300.webp",
         "width": 300,
         "height": 222,
         "bytes": 14432,
@@ -745,7 +745,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-automotive-600.webp",
+        "path": "/verified/images/commons-automotive-600.webp",
         "width": 600,
         "height": 444,
         "bytes": 40570,
@@ -754,7 +754,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-automotive-1200.webp",
+        "path": "/verified/images/commons-automotive-1200.webp",
         "width": 1200,
         "height": 888,
         "bytes": 107782,
@@ -787,12 +787,12 @@
       1200,
       800
     ],
-    "originalPath": "/metline-aluminium/verified/images/commons-aerospace-original.jpg",
+    "originalPath": "/verified/images/commons-aerospace-original.jpg",
     "originalBytes": 477144,
     "originalSha256": "237423a265d2d9ec74cfc763fb34e32be5f5d37b57783a6fa68056a8959505bf",
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/commons-aerospace-300.webp",
+        "path": "/verified/images/commons-aerospace-300.webp",
         "width": 300,
         "height": 200,
         "bytes": 6520,
@@ -801,7 +801,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-aerospace-600.webp",
+        "path": "/verified/images/commons-aerospace-600.webp",
         "width": 600,
         "height": 400,
         "bytes": 16302,
@@ -810,7 +810,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-aerospace-1200.webp",
+        "path": "/verified/images/commons-aerospace-1200.webp",
         "width": 1200,
         "height": 800,
         "bytes": 38144,
@@ -843,12 +843,12 @@
       2256,
       1425
     ],
-    "originalPath": "/metline-aluminium/verified/images/commons-electrical-original.jpg",
+    "originalPath": "/verified/images/commons-electrical-original.jpg",
     "originalBytes": 1079837,
     "originalSha256": "4f6ee757762e357344607925056f13eabefff70e8ff0758dcbbf3fe298c34145",
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/commons-electrical-300.webp",
+        "path": "/verified/images/commons-electrical-300.webp",
         "width": 300,
         "height": 189,
         "bytes": 9260,
@@ -857,7 +857,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-electrical-600.webp",
+        "path": "/verified/images/commons-electrical-600.webp",
         "width": 600,
         "height": 379,
         "bytes": 31160,
@@ -866,7 +866,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-electrical-1200.webp",
+        "path": "/verified/images/commons-electrical-1200.webp",
         "width": 1200,
         "height": 758,
         "bytes": 108160,
@@ -899,12 +899,12 @@
       2631,
       3607
     ],
-    "originalPath": "/metline-aluminium/verified/images/commons-building-original.jpg",
+    "originalPath": "/verified/images/commons-building-original.jpg",
     "originalBytes": 8419722,
     "originalSha256": "7bd905365c847d375539bb684c0950667118f52e6b68db0fbba6b213082d21a3",
     "variants": [
       {
-        "path": "/metline-aluminium/verified/images/commons-building-300.webp",
+        "path": "/verified/images/commons-building-300.webp",
         "width": 300,
         "height": 411,
         "bytes": 27706,
@@ -913,7 +913,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-building-600.webp",
+        "path": "/verified/images/commons-building-600.webp",
         "width": 600,
         "height": 823,
         "bytes": 89296,
@@ -922,7 +922,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
       },
       {
-        "path": "/metline-aluminium/verified/images/commons-building-1200.webp",
+        "path": "/verified/images/commons-building-1200.webp",
         "width": 1200,
         "height": 1645,
         "bytes": 276776,

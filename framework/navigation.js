@@ -100,8 +100,8 @@ $(document).ready(function () {
 
     function setHoverStyles(show) {
       $('.m-55bf0').css('background', show ? '#ffffff' : 'linear-gradient(to bottom,#001b34 0%,rgba(250,250,250,0))');
-      $('.logo>img').each(function(){if(!this.dataset.cmsOverride)this.src='/metline-aluminium/brand/metline-logo.png';});
-      $('.m-1477c>img').each(function(){if(!this.dataset.cmsOverride)this.src='/metline-aluminium/demo/icons/search-white.svg';});
+      $('.logo>img').each(function(){if(!this.dataset.cmsOverride)this.src='/brand/metline-logo.png';});
+      $('.m-1477c>img').each(function(){if(!this.dataset.cmsOverride)this.src='/demo/icons/search-white.svg';});
       $('.header .nav>ul>li>a').css('color', show ? '#001b34' : '#ffffff');
       if (!show && product_v != 1) {
         if ($('.header').hasClass('m-dbb02')) {
@@ -147,8 +147,8 @@ $(document).ready(function () {
         $(this).show();
 
         $('.m-55bf0').css('background', '#ffffff');
-        $('.logo>img').each(function(){if(!this.dataset.cmsOverride)this.src='/metline-aluminium/demo/logo-blue.svg';});
-        $('.m-1477c>img').each(function(){if(!this.dataset.cmsOverride)this.src='/metline-aluminium/demo/icons/search-white.svg';});
+        $('.logo>img').each(function(){if(!this.dataset.cmsOverride)this.src='/demo/logo-blue.svg';});
+        $('.m-1477c>img').each(function(){if(!this.dataset.cmsOverride)this.src='/demo/icons/search-white.svg';});
         var customValue = $(this).data("value");
         $('#' + customValue).children('a').css('color', '#1460aa');
         if (product_v == 1) {
@@ -164,8 +164,8 @@ $(document).ready(function () {
         $(this).hide();
 
         $('.header .nav>ul>li>a').css('color', '#ffffff');
-        $('.logo>img').each(function(){if(!this.dataset.cmsOverride)this.src='/metline-aluminium/demo/logo-white.svg';});
-        $('.m-1477c>img').each(function(){if(!this.dataset.cmsOverride)this.src='/metline-aluminium/demo/icons/search-white.svg';});
+        $('.logo>img').each(function(){if(!this.dataset.cmsOverride)this.src='/demo/logo-white.svg';});
+        $('.m-1477c>img').each(function(){if(!this.dataset.cmsOverride)this.src='/demo/icons/search-white.svg';});
         $('.m-ae851').children('a').css('color', '#808080');
         $('.m-ae851').children('a').css('font-weight', 'normal');
         $('.m-ae851').children('span').css('color', '#808080');
@@ -211,7 +211,7 @@ $(document).ready(function () {
         var $material = $(this);
         var $sourceLink = $material.children('a').first();
         var href = $.trim($sourceLink.attr('href') || '');
-        var image = $.trim($material.attr('data-featured-image')||'/metline-aluminium/verified/images/coil-stock-600.webp');
+        var image = $.trim($material.attr('data-featured-image')||'/verified/images/coil-stock-600.webp');
         var title = $.trim($sourceLink.text());
         var $cardLinks = $cards.eq(index).children('a');
         var $imageLink = $cardLinks.eq(0);

@@ -97,7 +97,7 @@ for (const form of document.querySelectorAll('form.wc')) {
       dims.querySelectorAll('.wc-field').forEach(f => { const i = f.querySelector('input'); if (i.value) parts.push(`${f.querySelector('label').textContent} ${i.value} ${f.querySelector('select').value}`); });
       parts.push(`${pieces.value || 1} pcs`);
       if (r) parts.push(`approx. ${fmt(r.total)} kg`);
-      quote.href = '/metline-aluminium/contact/?enquiry=' + encodeURIComponent(parts.join(', ')) + '#enquiry';
+      quote.href = '/contact/?enquiry=' + encodeURIComponent(parts.join(', ')) + '#enquiry';
     }
   }
 

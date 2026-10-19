@@ -63,7 +63,7 @@ body {
 
 @font-face {
 	font-family: 'Hind';
-	src: url("/metline-aluminium/fonts/Hind-Regular.ttf") format('truetype');
+	src: url("/fonts/Hind-Regular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -72,7 +72,7 @@ body {
 
 @font-face {
 	font-family: 'Hind-Light';
-	src: url("/metline-aluminium/fonts/Hind-Light.ttf") format('truetype');
+	src: url("/fonts/Hind-Light.ttf") format('truetype');
 	font-weight: 300;
 	font-style: normal;
 	font-display: swap;
@@ -80,7 +80,7 @@ body {
 
 @font-face {
 	font-family: 'Hind-Medium';
-	src: url("/metline-aluminium/fonts/Hind-Medium.ttf") format('truetype');
+	src: url("/fonts/Hind-Medium.ttf") format('truetype');
 	font-weight: 500;
 	font-style: normal;
 	font-display: swap;
@@ -89,7 +89,7 @@ body {
 
 @font-face {
 	font-family: 'Helvetica';
-	src: url("/metline-aluminium/fonts/Helvetica-Bold.Ttf") format('truetype');
+	src: url("/fonts/Helvetica-Bold.Ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -97,7 +97,7 @@ body {
 
 @font-face {
 	font-family: 'AgencyFB';
-	src: url("/metline-aluminium/fonts/AGENCYB.TTF") format('truetype');
+	src: url("/fonts/AGENCYB.TTF") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -105,7 +105,7 @@ body {
 
 @font-face {
 	font-family: 'AgencyFB-Bold';
-	src: url("/metline-aluminium/fonts/AgencyFB-Bold.ttf") format('truetype');
+	src: url("/fonts/AgencyFB-Bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -113,7 +113,7 @@ body {
 
 @font-face {
 	font-family: 'AGENCYR';
-	src: url("/metline-aluminium/fonts/AGENCYR.TTF") format('truetype');
+	src: url("/fonts/AGENCYR.TTF") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -121,7 +121,7 @@ body {
 
 @font-face {
 	font-family: 'Vollkorn';
-	src: url("/metline-aluminium/fonts/Vollkorn-Regular.ttf") format('truetype');
+	src: url("/fonts/Vollkorn-Regular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -1034,7 +1034,7 @@ width: 230px;
 	margin-top: -5px;
 	width: 35px;
 	height: 11px;
-	background: url("/metline-aluminium/brand/ui/arrow-more.svg") no-repeat;
+	background: url("/brand/ui/arrow-more.svg") no-repeat;
 	-webkit-background-size: 100% 100%;
 	background-size: 100% 100%;
 	-webkit-transition: all .3s ease;
@@ -1099,7 +1099,7 @@ width: 230px;
 	top: -80px;
 	width: 168px;
 	height: 168px;
-	background: url("/metline-aluminium/brand/ui/dot-grid.svg") no-repeat;
+	background: url("/brand/ui/dot-grid.svg") no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -2285,7 +2285,7 @@ transform: rotate(255deg);
 	font-family: 'Hind-Light';
 	line-height: 16px;
 	z-index: 22;
-	background: url("/metline-aluminium/brand/ui/home.svg") no-repeat left 0;
+	background: url("/brand/ui/home.svg") no-repeat left 0;
 	padding-left: 20px;
 }
 
@@ -2782,7 +2782,7 @@ transform: rotate(255deg);
 }
 
 .about-major {
-	background: linear-gradient(rgba(0, 17, 41, 0.55), rgba(0, 17, 41, 0.55)), url("/metline-aluminium/verified/images/aluminium-stock-1200.webp") no-repeat center;
+	background: linear-gradient(rgba(0, 17, 41, 0.55), rgba(0, 17, 41, 0.55)), url("/verified/images/aluminium-stock-1200.webp") no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -4785,7 +4785,7 @@ table.m-87f43 .add td {
 .m-5338b ul li {
 	font-size: 24px;
 	line-height: 2.5;
-	background: url("/metline-aluminium/brand/ui/burst-orange.svg") no-repeat left center;
+	background: url("/brand/ui/burst-orange.svg") no-repeat left center;
 	padding-left: 30px;
 }
 
@@ -4850,7 +4850,7 @@ table.m-87f43 .add td {
 	height: 18px;
 	flex-shrink: 0;
 	margin-top: 2px;
-	background: url("/metline-aluminium/brand/ui/warning.svg") no-repeat center / contain;
+	background: url("/brand/ui/warning.svg") no-repeat center / contain;
 }
 
 .m-81bd4>span>a {
@@ -5173,7 +5173,7 @@ table.m-87f43 .add td {
 
 .m-87819 .m-5338b ul li {
 	color: #333;
-	background-image: url("/metline-aluminium/brand/ui/burst-blue.svg");
+	background-image: url("/brand/ui/burst-blue.svg");
 }
 
 .m-87819 .m-b26dc .m-590cf {
@@ -8416,7 +8416,7 @@ p video {
 .m-3eab4 {
 	padding: 100px 0;
 	margin-bottom: 80px;
-	background: url("/metline-aluminium/verified/images/rolling-process-1200.webp") center no-repeat;
+	background: url("/verified/images/rolling-process-1200.webp") center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -15342,7 +15342,7 @@ a {
 
 .m-e9253 {
 	height: 240px;
-	background: url("/metline-aluminium/brand/ui/band-navy.svg") center no-repeat;
+	background: url("/brand/ui/band-navy.svg") center no-repeat;
 }
 
 .m-e9253 .m-0779b {
@@ -15473,7 +15473,7 @@ a {
 	padding-bottom: 40px;
 	background-color: #fff;
 	color: #fff;
-	background: url("/metline-aluminium/verified/images/aluminium-stock-600.webp") center no-repeat;
+	background: url("/verified/images/aluminium-stock-600.webp") center no-repeat;
 	background-size: 100% auto;
 }
 
@@ -15575,7 +15575,7 @@ a {
 
 @media screen and (max-width: 500px) {
 	.m-f355d {
-		background: url("/metline-aluminium/verified/images/aluminium-stock-600.webp") center no-repeat;
+		background: url("/verified/images/aluminium-stock-600.webp") center no-repeat;
 		background-size: contain;
 		/*height: 300px;*/
 		padding-bottom: 30px;
@@ -15755,7 +15755,7 @@ a {
 	flex: 0 0 24px;
 	width: 24px;
 	height: 24px;
-	background: url("/metline-aluminium/brand/ui/menu-product.svg") center / contain no-repeat;
+	background: url("/brand/ui/menu-product.svg") center / contain no-repeat;
 	transform: translateY(-4px);
 }
 
@@ -16132,7 +16132,7 @@ a.m-73498.m-38e2d:hover>p {
 }
 
 .m-b6768:hover {
-	background-image: url("/metline-aluminium/verified/images/plate-stock-1200.webp");
+	background-image: url("/verified/images/plate-stock-1200.webp");
 
 
 }
@@ -20128,12 +20128,12 @@ a.m-73498.m-38e2d:hover>p {
 @media screen and (max-width:768px) { .m-a1995 .m-4243d { margin-top: 16px; } .m-a1995 .m-4243d h1 { font-size: 28px; } }
 
 /* ===== Placeholder backgrounds replaced with licensed photos ===== */
-.m-2ae33 { background-image: linear-gradient(180deg, rgba(0, 27, 52, .55), rgba(0, 27, 52, .2)), url("/metline-aluminium/verified/images/industry-building-1200.webp") !important; }
+.m-2ae33 { background-image: linear-gradient(180deg, rgba(0, 27, 52, .55), rgba(0, 27, 52, .2)), url("/verified/images/industry-building-1200.webp") !important; }
 .m-1a268 .m-a2169 { position: absolute; top: 118px; left: 50%; transform: translateX(-50%); width: min(1200px, calc(100% - 32px)); margin: 0; padding-left: 0; background: none !important; z-index: 5; }
 .m-1a268 .m-a2169, .m-1a268 .m-a2169 a { color: rgba(255, 255, 255, .85) !important; }
-.m-74feb .hero { background: linear-gradient(90deg, rgba(0, 27, 52, .92) 0%, rgba(0, 27, 52, .6) 60%, rgba(0, 27, 52, .35) 100%), url("/metline-aluminium/verified/images/aluminium-stock-1200.webp") center / cover no-repeat !important; }
+.m-74feb .hero { background: linear-gradient(90deg, rgba(0, 27, 52, .92) 0%, rgba(0, 27, 52, .6) 60%, rgba(0, 27, 52, .35) 100%), url("/verified/images/aluminium-stock-1200.webp") center / cover no-repeat !important; }
 .m-74feb .eyebrow span { background: var(--mt-blue) !important; }
-.m-3c346, .m-47627, .m-0c6ab { background-image: linear-gradient(90deg, rgba(0, 27, 52, .9), rgba(0, 27, 52, .55)), url("/metline-aluminium/verified/images/extrusion-stock-1200.webp") !important; background-size: cover !important; background-position: center !important; }
+.m-3c346, .m-47627, .m-0c6ab { background-image: linear-gradient(90deg, rgba(0, 27, 52, .9), rgba(0, 27, 52, .55)), url("/verified/images/extrusion-stock-1200.webp") !important; background-size: cover !important; background-position: center !important; }
 @media screen and (max-width:768px) { .m-1a268 .m-a2169 { top: 84px; font-size: 13px; } }
 .m-1a268 .m-a2169 ol { display: flex; flex-wrap: wrap; }
 /* Keep article columns inside the grid; let wide tables scroll on small screens */

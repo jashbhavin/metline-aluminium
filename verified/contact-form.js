@@ -13,7 +13,7 @@ const mailto=()=>{const body=['Product: '+data.product,'Name: '+data.name,'Phone
  status.textContent='Online sending is not available yet, so your email app should now open with this enquiry addressed to sales@metline.in. Please press send there. If it does not open, email us directly or call +91 9967731666.';
  push('enquiry_email_opened',{product:data.product})};
 if(button){button.disabled=true;button.dataset.label=button.value;button.value='Sending…'}status.textContent='';
-try{const r=await fetch('/metline-aluminium/api/enquiry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
+try{const r=await fetch('/api/enquiry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
  const out=await r.json().catch(()=>({}));
  if(r.ok&&out.sent){status.textContent='Thank you — your enquiry has been sent to our sales team. We will reply by email.';form.reset();push('generate_lead',{product:data.product})}
  else if(r.status===400&&out.errors){status.textContent=out.errors.join(' ')}
