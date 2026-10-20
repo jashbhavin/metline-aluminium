@@ -204,7 +204,7 @@ $(document).ready(function () {
 
     function updateKnowledgeFeatured($column) {
       var $materials = $column.children('ul').children('.m-8d20a');
-      var $cards = $('#m-86b38 .m-3c994>li');
+      var $cards = $('#m-86b38 .m-3c994>li:not(.mm-feat-title)');
 
       $materials.show();
       $materials.slice(0, 4).each(function (index) {

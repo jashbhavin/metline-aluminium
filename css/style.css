@@ -20275,3 +20275,48 @@ a.m-73498.m-38e2d:hover>p {
 .ip-hero-media .img-credit a{color:#fff;text-decoration:underline}
 .img-credits{max-width:1200px;margin:28px auto 0;padding:0 20px;font-size:12px;line-height:1.6;color:#6b7785}
 .img-credits a{color:inherit;text-decoration:underline}
+/* === Metline mega-menu (redesign 2026-10-19) === */
+.m-bb6cb{height:auto;min-height:650px;background:linear-gradient(180deg,#f4f7fb 0%,#eef3f9 100%);border-top:3px solid #1557a8;box-shadow:0 22px 44px rgba(9,30,58,.16)}
+.m-bb6cb>div{grid-template-columns:24% 42% 34%;height:650px;padding:28px 24px 104px}
+/* left: dark category rail */
+.m-bb6cb>div>ul:first-of-type{height:auto;align-self:start;padding:22px 14px 18px;border-right:0;background:#0f2a4a;border-radius:16px;box-shadow:0 10px 24px rgba(15,42,74,.25)}
+.m-bb6cb>div>ul>.m-9e5c5{display:block;margin:0 0 14px 12px;font-family:Hind;font-size:12px;line-height:1.4;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.62)}
+.m-bb6cb>div>ul>.m-9e5c5::before{display:none}
+.m-bb6cb .m-ae851>a,.m-bb6cb .m-ae851>span{min-height:42px;margin:1px 0;padding:8px 14px;border-left:0;border-radius:10px;font-size:15.5px;color:#dbe6f3 !important;background:transparent;transition:background-color .15s ease,color .15s ease}
+.m-bb6cb .m-ae851>a.m-d5b36,.m-bb6cb .m-ae851:hover>a,.m-bb6cb .m-ae851:hover>span{background:#ffffff;color:#0f2a4a !important;font-family:'Hind-Medium';border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.18)}
+.m-bb6cb .m-ae851>a.m-d5b36::after,.m-bb6cb .m-ae851:hover>a::after{content:"";margin-left:auto;width:7px;height:7px;border-top:2px solid #1557a8;border-right:2px solid #1557a8;transform:rotate(45deg)}
+/* middle: two-column link grid, no dividers or chevrons */
+.m-bb6cb .m-ae851>ul{top:28px;bottom:104px;left:24%;width:42%;padding:8px 32px 0 40px;border-right:0;overflow:auto}
+.m-bb6cb .m-ae851>ul>.m-9e5c5{margin:0 0 12px;font-family:Hind;font-size:12px;line-height:1.4;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#1557a8}
+.m-bb6cb .m-ae851>ul>.m-8d20a,.m-bb6cb .m-ae851>ul>.m-9e5c5+.m-8d20a{display:inline-block;width:calc(50% - 10px);margin:0 6px 4px 0;vertical-align:top;border:0}
+.m-bb6cb .m-8d20a>a{min-height:0;padding:10px 12px 10px 22px;border-radius:8px;font-size:15px;color:#1b2b40}
+.m-bb6cb .m-8d20a>a::after{display:none}
+.m-bb6cb .m-8d20a>a::before{content:"";position:absolute;left:8px;top:50%;width:6px;height:6px;border-radius:2px;background:#1557a8;opacity:.55;transform:translateY(-50%)}
+.m-bb6cb .m-8d20a>a:hover{background:#ffffff;color:#1557a8;box-shadow:0 2px 8px rgba(15,42,74,.08)}
+.m-bb6cb .m-8d20a>a:hover::before{opacity:1}
+/* right: vertical featured list */
+.m-bb6cb .m-3c994{display:flex;flex-direction:column;gap:10px;padding:8px 0 0 28px;border-left:1px solid #d6dfea}
+.m-bb6cb .m-3c994>.mm-feat-title{display:block;aspect-ratio:auto;height:auto;margin:0 0 2px;background:none;box-shadow:none;border-radius:0;font-family:Hind;font-size:12px;line-height:1.4;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#1557a8}
+.m-bb6cb .m-3c994>li:not(.mm-feat-title){flex-direction:row;align-items:center;aspect-ratio:auto;height:78px;border-radius:12px;background:#fff;box-shadow:0 2px 10px rgba(15,42,74,.08)}
+.m-bb6cb .m-3c994>li:not(.mm-feat-title):hover{transform:translateX(3px);box-shadow:0 6px 16px rgba(15,42,74,.14)}
+.m-bb6cb .m-3c994>li>a:first-of-type{flex:0 0 104px;width:104px;height:78px}
+.m-bb6cb .m-3c994>li>a:nth-of-type(2){flex:1;flex-direction:column;align-items:flex-start;justify-content:center;min-height:0;padding:8px 16px;font-family:'Hind-Medium';font-size:15px;text-align:left;color:#0f2a4a}
+.m-bb6cb .m-3c994>li>a:nth-of-type(2)::after{content:"View details \2192";margin-top:3px;font-family:Hind;font-size:12.5px;color:#1557a8}
+/* bottom: help strip */
+.m-bb6cb .mm-cta{position:absolute;left:24px;right:24px;bottom:22px;display:flex;align-items:center;gap:22px;min-height:58px;padding:10px 12px 10px 22px;border-radius:14px;background:#ffffff;box-shadow:0 2px 10px rgba(15,42,74,.08);font-family:Hind;font-size:15px;color:#33475e}
+.m-bb6cb .mm-cta strong{font-family:'Hind-Medium';font-weight:normal;color:#0f2a4a}
+.m-bb6cb .mm-cta a{color:#1557a8}
+.m-bb6cb .mm-cta .mm-cta-btn{margin-left:auto;padding:10px 20px;border-radius:999px;background:#1557a8;color:#fff;font-family:'Hind-Medium'}
+.m-bb6cb .mm-cta .mm-cta-btn:hover{background:#0f2a4a}
+/* === end Metline mega-menu === */
+/* === WhatsApp button === */
+.wa-float{position:fixed;right:max(20px,env(safe-area-inset-right));bottom:max(20px,env(safe-area-inset-bottom));z-index:9990;display:flex;align-items:center;gap:0;height:56px;min-width:56px;padding:0 13px;border-radius:999px;background:#25d366;color:#fff;font-family:'Hind-Medium',Hind,sans-serif;font-size:15px;line-height:1;text-decoration:none;box-shadow:0 6px 18px rgba(0,0,0,.22);transition:box-shadow .2s ease,transform .2s ease,gap .2s ease}
+.wa-float svg{flex:0 0 28px;margin:0 1px}
+.wa-float-label{max-width:0;overflow:hidden;white-space:nowrap;transition:max-width .25s ease}
+.wa-float:hover,.wa-float:focus-visible{gap:10px;padding-right:18px;color:#fff;box-shadow:0 8px 24px rgba(0,0,0,.28);transform:translateY(-2px)}
+.wa-float:hover .wa-float-label,.wa-float:focus-visible .wa-float-label{max-width:170px}
+.wa-float:focus-visible{outline:3px solid #0f2a4a;outline-offset:3px}
+/* Phones/small tablets already have the fixed E-mail / Call us bar (.m-60a69, <=768px): no WhatsApp button there for now. */
+@media screen and (max-width:768px){.wa-float{display:none}}
+@media print{.wa-float{display:none}}
+/* === end WhatsApp button === */
